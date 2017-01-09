@@ -1,0 +1,67 @@
+Beatrix and her meme… orz
+
+ ? WHY WOULD YOU NOT WANT TO USE THIS BAE!
+
+Since the English community only thinks Beatrix is a meme, I’m writing a guide on how to actually use her. You ask why would you use such meme char? Because she is actually strong as fuck...
+
+How do you like continuous 50% Atk / 50% DA / 30% TA / 30% def / 500Regen/tick on your char? Well Beatrix can achieve that!
+
+If you dont' want to bother reading the mechanics, here is tl;dr to get you started:
+
+Turn 1 -> 3rd Ability
+Turn 2 -> 1st Ability
+Turn 3 -> 2nd Ability
+Turn 4 ~ Enjoy! (as long as you can hit a TA every 2-3 attack you'll maintain your buff forever)
+
+Bae in Action Hall of Fame! Cuz all the leechs, i ended up soloing 98% of the Apollo fight… and everybody died except bae, who hanged on like a champ!
+
+
+So how does Beatrix works actually?
+
+She is actually a character where her active skill actually does nothing! Yes, they do NOTHING by themselves. So instead of starting with her Active, let's start with her Passive. Sorry i play jp version, not sure about names...
+
+Beatrix Passive:
+?????????? (Contractor of Empurasuku) - When Triple Attack, it extends her Delta Clock's BUFF (this is important) by 2 Turns. After the recent update, it only extends her buff, and not debuffs!
+????·??·??? (Clock o Delta) - Depending on where the clock currently is, Beatrix receives buffs/debuffs.
+
+So what are let's see what each of the buffs are! You can see where your clock currently is in your character status screen.
+12 o'clock (battle always start here, and no buffs on first turn) - ATK UP 50% / DEF DOWN 30%
+4 o'clock - Regen 500/Tick, 30% Defense, ATK Down 30%, Ougi Gain Down 50%, Aggro Down
+8 o'clock - DA 50% / TA 30% / Aggro Up
+
+Now you know what these awesome buffs are, let's see how you can micro manage them!
+
+1st Ability - It extends her current Clock Delta buff by 4 Turns.
+2nd Ability - It stops her clock moving from its current position.
+3rd Ability - It forces her clock to move one step ahead. (nothing happens on first turn still)
+
+Now you know what her ability does, let's put them in practice!
+
+First turn, you want to move your clock one step ahead so it starts at 4 o'clock instead of 12 to start ramp up your TA/DA and ATK buff asap. So at start, you want to use Ability 3!
+
+Second turn, now that your clock automatically advanced to the very strong DATA (double attack triple attack) Buff, you want to have this as long as you can! So you going to use first ability to extend this for 4 more turns! Which allows you to have 5 chances to TA to extend this buff for 2 more turns each time!
+
+Third turn, your clock will now advance to 12 o'clock, and you will now gain the 50% ATK buff! Since you are here now, you also want to extend this as long as you can while you work those TAs! So now you use 2nd Ability to stop time!
+
+At this point, you have 4T of DATA and 4T of 50% atk, what you want to do now is to get as much TA as possible.
+
+Since Dark element doesn't have any DATA buff characters, you will rely on your MC or other elements.
+
+1. Using MC, Valkyrie/Holy Saber/Sage, obviously using impulse drive to help your Beatrix to TA more!
+2. Using dagger class jobs with GW Dagger, this also gives a good boost to TA through OUgi, I suggest also bringing the Wiseman class's EX ability Tashin Formation, which converts your HP to Ougi. which allows you to Ougi right off the bat!
+3. Odin Team - Ferri here is the best choice of course! 4T of 100% TA = 8T of extension for Beatrix! You will never ever run out of her buffs. If you don't have Ferri, you can bring Amira which also helps.
+
+Ougi or not? When she is still building up buff duration i strongly suggest not using her ougi because that's a turn wasted on TA. Once she has some comfortable leeway with duration, use it! and it will make your buffs even more stable! because her ougi reduces all of her abilities' CT by 1T!
+
+Some tips on Beatrix:
+
+If you need to sacrifice buff on Beatrix for whatever reason (no time to extend for example), let it be her 4 oclock buff unless she is gonna die!
+If it looks like she isn't going to TA for buff extension during her initial setup and you are on your last turn for your 8/12 buff, use your ougi and accelerate your ability CT to try again!
+Never stop the clock via #2 on 4 o’clock…
+
+How to get better with Beatrix?
+
+If you miss her first round of setup, you will need some work to make the second round work. The easy way is just to remember, try to extend her TA buff as long as you can, that is the most important buff. try to spend your 4T extension on it. if she still hasn't TA, lock it for 3 more turns! if she still doesn't TA... well... with 30% TA buff and 2% base TA rate, if you still don't manage to TA in 7 turns... I guess Beatrix isn't for you!
+
+Good luck and have fun! And remember, Beatrix is more than just a meme!
+

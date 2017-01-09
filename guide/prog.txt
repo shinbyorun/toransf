@@ -1,0 +1,381 @@
+Granblue Fantasy Progression Guide – Ver Alpha 3
+April 5, 2016  CEO
+This guide is a WIP. There are many things that are being worked on, and will be constantly updated for better clarity and/or efficiency. Also, I’ll add pictures. The terms have recently been changed to English, beware.
+
+1. Introduction
+
+Although very simple at the surface, making progression in Granblue Fantasy is a very complicated process. There are many different facets of gameplay that are not obvious to new or starting players. There are number of very fancy guides out there with optimal loadouts and other amazing things to aim for, but how do you actually get started?
+
+There are many, many working parts that go into damage calculations, but we’ll cover some aspects of the game that players should always keep in mind while progressing. Ideally, by reading this guide, you’ll understand what it takes to make a strong team, and also be able to make decisions on when and where to spend resources to improve yourself.
+
+Before we begin, you’ll probably want to familiarize yourself with the Granblue Fantasy Ultimate Guide and my What Should I Keep guide, if you’re really into min-maxing.
+
+Immediate Disclaimer: Granblue Fantasy is a game where you spend AP/BP for resources and progression. Because the game is extremely lenient with AP/BP refilling items, you will not be punished for doing the wrong thing early. I repeat, you will not be punished for “messing up” in the early game, so do whatever you want.
+
+2. Table of Contents
+
+1. Introduction
+
+2. Table of Contents
+
+3. The Parts
+
+4. Sample Progression Curve
+
+5. Rank 1~30 Progression
+
+6. Rank 30~50 Progression
+
+7. Rank 50~-80 Progression
+
+8. Rank 80~101 Progression
+
+9. Rank 101+ Progression
+
+10. Always Relevant Stuff
+
+11. Glossary
+
+12. Appendix
+
+13. Conclusion
+
+3. The Parts
+
+As mentioned before, there are many different things in Granblue Fantasy that help you improve your damage and suitability.
+
+Good Jobs for the MC – Your main character is the Mary Sue of this story and is one of the most powerful characters in the game. They will be your glue that holds your team together by providing synergy with your other characters or covering for their weaknesses. They also posses raid-wide abilities, which are the cornerstone of cooperative game play.
+
++
+
+Good Characters for your team – Even with delicious ingredients, you need cooks to make delicious food. Similarly, you need good characters to take advantage of your good weapon pool. You’ll want a nice toolbox of characters to round out your team with important skills necessary for buffing your team, debuffing the enemy, dealing damage, reducing damage, or healing, depending on what the situation calls for.
+
++
+
+A relevant Main Summon for your team – Your Main Summon (as well as the Support Summon chosen on the pre-battle screen) provides a passive Aura (JP: Divine Protection) effect for your team as well as improves your team’s base stats. These effects greatly magnify your weapon’s and character’s abilities and a good team without a Main Summon will lose out on a number of really important benefits. They can also be summoned in battle for useful Call effects as well.
+
++
+
+Useful Sub Summons for your team – Your Sub Summons improve the base stats to your party members when equipped. While they do not provide the passive Aura that a Main Summon does, they can also be summoned in battle for many useful Call effects just like the Main Summon.
+
++
+
+High base stat weapons for your Weapon Grid – The HP and ATK value of your weapons translates directly to your character’s base stats. Having bigger numbers in your Weapon Grid will give you bigger numbers for your characters while in battle.
+
++
+
+High level Weapon Skills for Weapon Grid – The majority of weapons in Granblue Fantasy possess Weapon Skills that can improve various parameters for your characters. By filling your Weapon Grid with weapons that have synergistic Weapon Skills, you will be able to field characters that  deal significantly more damage or have significantly more sustainability.
+
+=
+
+Everything you need to get stronger – While this seems like a lot to process, in practice this is not very difficult. By improving any one part of these 6 major factors, you can strengthen your team. By improving all 6 major factors, you can reach high level content.
+
+4. TL;DR – Sample Progression Curve 
+
+What follows below are just some sample Weapon/Summon grids. Everyone progresses at different rates, some people are more lucky than others, and there might always be a more optimal setup for you. This is just something that people can aim for.
+
+Rank 1~30: Both your weapon pool and summons will be random things with biggest numbers you can find. It won’t matter much regardless of what you do. 
+
+2016-04-09 12_36_32-???????????? 2016-04-09 12_36_40-????????????
+
+Rank 30~50: Your weapon pool and summons will still be full of random things from events and boss battles, but will start filling up their experience caps better. You may have 2-3 weapons that provide on-color skills and a Main Summon that provides an on-color Aura.
+
+2016-04-09 12_42_06-???????????? 2016-04-09 12_42_19-????????????
+
+Rank 50~80: Your weapon and summon pool will be aiming to be full of on-color weapons/bonuses or weapons with especially big numbers. You may be completing or near complete of a Omega pool. You may have a Bahamut weapon or two. Depending on your level of your Weapon Skills, it may be advantageous to switch to a Omega Summon.
+
+2016-04-09 12_56_35-???????????? 2016-04-09 12_56_48-????????????
+
+Rank 80~100 – Your Weapon Grid should have a full Omega base and should be progressing in Weapon Skill. Your sub summons should be full of max or near max level summons. You will switch your Main Summon to a max uncapped Omega Summon unless you don’t have one or you have an ~80% elemental summon. You will have a Bahamut Weapon or two.
+
+2016-04-09 13_16_27-???????????? 2016-04-09 13_16_53-????????????
+
+Rank 101+ – Your Weapon Grid will be heading towards completion. At this point you should be understand whats going on in the game, but included for comparison purposes.
+
+2016-04-09 13_17_53-???????????? 2016-04-09 13_18_02-????????????
+
+5. Starting Out (In Game) : Rank 1~30
+
+After furiously re-rolling for the perfect collection of waifus, summons, and/or Yoda to start the game with, what are some ways that you can immediately improve yourself?
+
+What To Aim For
+
+MC’s Jobs – The most important job for 99% of new Granblue Fantasy players is the Dark Fencer, so you’ll want to work towards getting Dark Fencer by leveling the Tier 1 and Tier 2 prerequisites, such as Arcana Sword and Fortress. You won’t have to worry about Class Points too much at this stage in the game, as long as you aim directly for Dark Fencer and its prerequisites.
+
+Characters – Use whoever you can get, as any utility is good at this level. If you have the option to choose a character for whatever reason (Start Dash, Surprise Ticket), you may want to consider a tier list to get some opinions on who to pick.
+
+Weapon Grid – Your weapon grid will be full of random junk you got from the Premium Draw (JP: Legend Gatcha) at the start. Level up the Rares, SRs, and SSRs as far as you can and equip the ones with the biggest numbers. You may get your effectiveness capped due to your Rank, but often times the SRs and SSRs still end up better. The Weapon Skills will not make much of a difference at this level, so as such, the goal is to get more random SRs and SSRs to throw into your grid, as long as the numbers are big.
+
+Summons – Aside from those who roll their summons from the Premium Draw, your summon slots will be filled with random junk as well. Your goal should be to get some relevant Main Summons and useful Sub Summons from Events and Conquest Battles. Obviously, the element that matches with the most characters you have is a priority, but Ifrit, Cocytus, and Diablos are also great Sub Summons to aim for even if they aren’t on your element.
+
+The Main Story
+
+2016-04-05 01_41_08-????????????
+
+Pushing through the story unlocks a number of important things, so if you’re totally lost, you can always progress through the story and it will always be relevant to your goals of getting stronger. In particular, you’ll unlock boss battles and story characters, all while collecting crystals to allow you to roll for more characters.
+
+Coop Quests
+
+2016-04-05 03_13_47-????????????
+
+Unlocked at Level 10, these are quests that you MUST do in a party. Like progressing through story, there are some things down the road that you will need to unlock via this quest chain, so doing some now is a good idea.
+
+2016-04-05 03_14_08-???????????? 2016-04-05 03_14_34-????????????
+
+In particular, you should always do your daily missions, which will give you MP to purchase items at the Mission Store, as well as a Blue Crystal if you complete all of them.
+
+Events
+
+description_event_3 (2) description_event_5 (1)
+
+Events vary wildly with their rewards, but are a great source of free stuff, including characters, weapons, and summons. In the early game, you’ll have a lot of trouble completing these events for all their rewards, but you’ll be able to get at least a few SRs weapons and maybe one or two SSR weapon/summons here or there. You can more or less always get the event character, as you’ll get points just by having them in your party regardless of what you kill. You can read about current events right here on this website.
+
+Special Quests
+
+2016-04-05 01_38_11-????????????
+
+Special quests become available as you increase your Rank past a certain level. You can use the daily quests to get materials for Uncapping your characters.
+
+Angel Queen Dungeon
+
+2016-04-06 10_01_12-????????????
+
+This is Special quest that is only open 3 times a day. You have to check twitter.com/granbluefantasy for the times. The one denoted with a star has the best drop rate. You’ll mostly get Tier 1 orbs and Tier 3 books (Whorl) in this dungeon, as well as Angel weapons/summons for experience. Early on, this can easily help you get all your weapons to their maximum levels, before being uncapped.
+
+Special Quests – Showdown Battles (JP: Conquest Battles)
+
+2016-04-05 01_41_46-????????????
+
+These are special dungeons that were once their own events, but are now special dungeons that are always on rotation throughout the month. Doing these special dungeons can let you purchase much needed SR and SSR weapons, as well as a useful SSR summon for your Main or Sub Summon slots.
+
+2016-03-21 19_35_05-????????????[ChromeApps?]
+
+2016-04-05 02_18_23-????????????
+
+You can consistently collect all the materials for purchasing the various items as soon as you can complete the Very Hard difficulty. You can find some materials on Hard difficulty, but one of the materials (Gold Anima) is rare.
+
+2016-04-05 02_19_49-????????????
+
+Normal/Hard Raids
+
+2016-04-05 02_13_54-????????????
+
+This is where you will spend the majority of your BP, save for if there is an Event going on. The main purpose of doing these is to get Renown Points (detailed below), which you can use to buy SSR weapons down the line. You will also get materials for uncapping or summoning Omega Boss battles (eventually), as well as an occasional SR weapon or SR summon here too.
+
+6. Thoroughly Addicted : Rank 30~50
+
+Not too much changes once you hit Rank 30 in terms of your own total power, so as such, this will mostly be thinly veiled verbatim from the previous section. One thing that is different is that you will be able to participate in Omega level raids now, which may shape your strategy going forward. If you get any Omega SSR Weapon or Summon drops, you definitely want to save them. You can read more about this in the Appendix (eventually).
+
+MC’s Jobs – After you finish Dark Fencer, it’s time to start branching out into other classes. What you choose here should be preference based on your other characters, but you can’t go wrong with aiming for Weapon Master, Holy Saber, Bishop, Sidewinder, or Sorcerer, which are either good classes in their own right and/or possess good EX abilities for you to equip to other classes. Class Points should still be fairly plentiful, but do be aware it starts to dry up once you’ve gotten two Tier 3 classes.
+
+Characters – You will continue to use whoever you can get, as any utility is still good at this level. You may reach the experience cap for your characters, so you may want to consider uncapping the most useful ones so they can keep getting experience and leveling up. If you have the option to choose a character for whatever reason (Start Dash, Surprise Ticket), you may want to consider a tier list to get some opinions on who to pick.
+
+Weapon Grid – At this point, you should be getting close to getting many of your weapons to their max experience level. Your grid will likely still be made up of random SRs and SSRs, but you might be able to permanently retire yourself from using Rares around now. Your goal should still be to add as many weapons with big numbers to your grid, ignoring the weapon skills for now.
+
+Summons – As it is unlikely that your Summons have made much progress, your goals will remain the same. Aside from those who roll their summons from the Premium Draw, your summon slots will still be filled with some subpar offers. Your goal should be to get some relevant Main Summons and useful Sub Summons from Events and Conquest Battles.
+
+The Main Story
+
+2016-04-05 01_41_08-????????????
+
+Pushing through the story unlocks a number of important things, so if you’re totally lost, you can always progress through the story and it will always be relevant to your goals of getting stronger. In particular, you’ll unlock boss battles and story characters, all while collecting crystals to allow you to roll for more characters.
+
+Coop Quests
+
+2016-04-05 03_13_47-????????????
+
+Unlocked at Level 10, these are quests that you MUST do in a party. Like progressing through story, there are some things down the road that you will need to unlock via this quest chain, so doing some now is a good idea.
+
+2016-04-05 03_14_08-???????????? 2016-04-05 03_14_34-????????????
+
+In particular, you should always do your daily missions, which will give you MP to purchase items at the Mission Store, as well as a Blue Crystal if you complete all of them.
+
+Events
+
+description_event_3 (2) description_event_5 (1)
+
+Events vary wildly with their rewards, but are a great source of free stuff, including characters, weapons, and summons. In the early game, you’ll have a lot of trouble completing these events for all their rewards, but you’ll be able to get at least a few SRs weapons and maybe one or two SSR weapon/summons here or there. You can more or less always get the event character, as you’ll get points just by having them in your party regardless of what you kill. You can read about current events right here on this website.
+
+Special Quests
+
+2016-04-05 01_38_11-????????????
+
+Special quests become available as you increase your Rank past a certain level. You can use the daily quests to get materials for Uncapping your characters.
+
+Angel Queen Dungeon
+
+2016-04-06 10_01_12-????????????
+
+This is special quest that is only open 3 times a day. You have to check twitter.com/granbluefantasy for the times. The one denoted with a star has the best drop rate. You’ll mostly get Tier 1 orbs and Tier 3 books (Whorls) in this dungeon, as well as Angel weapons/summons for experience. Though you will probably have more weapon experience than you know what to do with, you’ll likely still be hurting on summon experience, and this is not a bad place to get some.
+
+Special Quests – Showdown Battles (JP: Conquest Battles)
+
+2016-04-05 01_41_46-????????????
+
+These are special dungeons that were once their own events, but are now special dungeons that are always on rotation throughout the month. Doing these special dungeons can let you purchase much needed SR and SSR weapons, as well as a useful SSR summon for your Main or Sub Summon slots.
+
+2016-03-21 19_35_05-????????????[ChromeApps?]
+
+2016-04-05 02_18_23-????????????
+
+You can consistently collect all the materials for purchasing the various items as soon as you can complete the Very Hard difficulty. You can find some materials on Hard difficulty, but one of the materials (Gold Anima) is rare.
+
+2016-04-05 02_19_49-????????????
+
+Normal/Hard Raids
+
+2016-04-05 02_13_54-????????????
+
+The main purpose of doing these is to get Renown Points (detailed below), which you can use to buy SSR weapons down the line. You will also get materials for uncapping or summoning Omega Boss battles, as well as an occasional SR weapon or SR summon here too.
+
+Omega Level Raids
+
+2016-04-05 09_35_10-????????????
+
+Once you get Rank 30, get used to doing these types of raids, because you’ll be doing them for a looooooong time. These battles are capable of dropping SSR Omega Weapons and SSR Omega Summons, which are weapons and summons that are used by the majority of players far into the latest parts of the game. There is one boss for each element, which of course drops the weapon and element that they represent. It isn’t a bad idea to get started with these early. They also drop a lot of weapon experience, for those who have weapons to level.
+
+Lv100 Summon Raids
+
+Unlocked at Rank 40, these raids are more difficult than Omega raids, but are not particularly more rewarding for the effort. At this level, the main function of these raids is to get special Gold Anima that are used to summon The Order Grande raid at rank 80, but don’t yield much else for a player at this rank. It is recommended to avoid these unless you are specifically trying to summon your own The Order Grande raid.
+
+7. Stuck in the Mud: Rank 50~80
+
+Once you reach Rank 50, about half of the game’s raid content is now available to you and you can now start using Omega weapons without any sort of penalty. This should be when you decide which element(s) and character race(s) you want to use the most, based on your current weapons, characters, and play style. You will devote the most time to the element(s) and character race(s) you choose to focus on, especially learning how to fight the Omega raid boss that drops weapons that you need and participating in events to get nearly all of the relevant available rewards.
+
+MC’s Jobs – You will likely have a few Tier 3 jobs maxed here, and once again what you choose here should be preference based on your other characters. As always, aiming for Weapon Master, Holy Saber, Bishop, Sidewinder, or Sorcerer are good ideas, but you’ll want to put some preference towards classes that will help you in battling your own Omega raids. An EX class could be very helpful, in particular, Ninja and Alchemist. CP will naturally run dry around here, but if you want to keep getting more jobs, you can buy a Gold Moon for 1000 Renown points and exchange it for 2500CP every month.
+
+Characters – As this is around when you’ll decide on which element you will use the most, you will need to organize yourself into mono or near mono elemental teams. You will also make some considerations based on what race your characters are, as you will now have access to Bahamut Weapons, which give bonuses based on character race. You will also probably begin thinking about which Guild War character you want.
+
+Weapon Grid – Your weapon grid should be progressing towards being full of weapons that either A) Are fully uncapped and max leveled B) Possess a useful weapon skill, taking into consideration that you’ll eventually progress to having only weapons that fulfill both categories at the same time. You should have enough excess weapons to actually begin leveling the Weapon Skill level of the weapons you intend to use for a long period of time, so start leveling them up!
+
+Summons – You should be getting strong enough to finish a Conquest summon of your choice now. You should be thinking about uncapping it for greater elemental bonuses. If you have enough Omega weapons, you can also consider switching to an max uncapped Omega summon as well. Unfortunately, if you have many uncapped summons, you will notice that Summon experience is very rare and is a big portion of the stats you are missing. Make sure to take part in Angel Queen dungeon and Events with a Draw system to get lots of experience for your summons.
+
+The Main Story
+
+2016-04-05 01_41_08-????????????
+
+You definitely want to get as far into the story as you can at this point. You’ll want to have the Normal/Hard versions of the island bosses unlocked to stock up on various Anima. Furthermore, hosting your own Omega battle yields the all important Red Chest, so ideally you’ll want to progress at least far enough to be able to host these battles as well, even if you can’t MVP them.
+
+Coop Quests
+
+2016-04-05 03_13_47-????????????
+
+To unlock EX job classes, you will need to progress into the EXTRA territory of the Coop Quest chain. As these must all be done with other people, you can find some strong individuals to help carry yourself through the battles.
+
+2016-04-05 03_14_08-???????????? 2016-04-05 03_14_34-????????????
+
+As always, you should always do your daily missions, which will give you MP to purchase items at the Mission Store, as well as a Blue Crystal if you complete all of them.
+
+Events
+
+description_event_3 (2) description_event_5 (1)
+
+Events vary wildly with their rewards, but are a great source of free stuff, including characters, weapons, and summons. Now that you are in the mid game, you’ll be able to significantly more out of each event, which will allow you to stock up on new SSR summons, new SSR weapons, and lots of junk weapons to use as Weapon Skill fodder. You should always consider doing events as far as you can, but there can be the occational event that is a bad match-up for your available teams.
+
+Special Quests
+
+2016-04-05 01_38_11-????????????
+
+You will use the daily quests to get materials for Uncapping your characters.
+
+Angel Queen Dungeon
+
+2016-04-06 10_01_12-????????????
+
+This is special quest that is only open 3 times a day. You have to check twitter.com/granbluefantasy for the times. The one denoted with a star has the best drop rate. You’ll mostly get Tier 1 orbs and Tier 3 books (Whorls) in this dungeon, as well as Angel weapons/summons for experience. The star version also has the chance to drop a considerable amount of Rustic weapons, so getting into the habit of doing them is not a bad idea.
+
+Special Quests – Showdown Battles (JP: Conquest Battles)
+
+2016-04-05 01_41_46-????????????
+
+These are special dungeons that were once their own events, but are now special dungeons that are always on rotation throughout the month. Doing these special dungeons can let you purchase much needed SR and SSR weapons, as well as a useful SSR summon for your Main or Sub Summon slots.
+
+2016-03-21 19_35_05-????????????[ChromeApps?]
+
+2016-04-05 02_18_23-????????????
+
+You can consistently collect all the materials for purchasing the various items as soon as you can complete the Very Hard difficulty. You can find some materials on Hard difficulty, but one of the materials (Gold Anima) is rare.
+
+2016-04-05 02_19_49-????????????
+
+Normal/Hard Raids
+
+2016-04-05 02_13_54-????????????
+
+The main purpose of doing these is still to get Renown Points (detailed below), which you can use to buy SSR weapons down the line, but now the Anima you get from these just as important important. As you can now participate in Omega Level raids by hosting them yourself, you should be doing all of the relevant ones daily for a chance at Gold Anima.
+
+Omega Level Raids
+
+2016-04-05 09_35_10-????????????
+
+At this point of the game, aside from doing whatever Event is currently available, your goal should be to do as many of these battles as possible, especially fighting the one that drops elemental weapons that are useful to you. MVPing and/or hosting the battle gives you a Red Box, which has a considerably higher chance for an SSR, so it’s good idea put yourself into a position where you can get as many of these Red Boxes as possible. The SR weapons will be fading fast in relevancy in your Weapon Grids, but remain a vital source of Weapon Skill experience for feeding to other SSR Weapons.
+
+Lv100 Summon Raids
+
+These raids are more difficult than Omega raids, but are not particularly more rewarding for the effort. At this level, the main function of these raids is to get special Gold Anima that are used to summon The Order Grande raid at rank 80, but don’t yield much else for a player at this rank. It is recommended to avoid these unless you are specifically trying to summon your own The Order Grande raid ASAP.
+
+Proto Bahamut Raid
+
+CT6cIKmUYAAPVmD
+
+You can join this raid at Rank 50, but you cannot summon it until Rank 80. This raid is one of the most difficult raids that you have access to before Rank 101. It is incredibly difficult to join public Proto Bahamut raids as everyone does their best to zerg rush into them the second they are opened.
+
+These raids drop a lot of really valuable things for players at this rank, including materials to summon a Proto Bahamut Raid, Champion Merit (Silver Cert) and Supreme Merit (Gold Cert), Rustic Weapons,, and Bahamut Horns.
+
+If you can get your hand on a Bahamut Horn, you can use it to transform a Max Uncapped Rustic Weapon into an SR Bahamut Weapon, which can be a considerable boost in power due to its Weapon Skill. Most people will opt to make a Bahamut Dagger first for the Human Boost, since most characters are Human. A Bahamut Weapon’s stats will be lowered until Rank 80, but the Weapon Skill is so strong it often outweighs the lowered stats.
+
+The Order Grande Raid
+
+CdL4YeiUEAI0JKW
+
+You can also join this raid at Rank 50, but cannot summon it until Rank 80. This raid is undoubtedly the hardest raid that you have access to before Rank 101. Also similar to Proto Bahamut, it is incredibly difficult to join public Grande raids as everyone does their best to zerg rush into them the second they are opened. Unlike Proto Bahamut however, it is so difficult, that often times people get extremely angry at leechers/low level players and will send an angry PM for dragging the raid down if it fails.
+
+This raid drops Azure Feathers/Horns, Champion and Supreme Merit, Blue Crystals, and potentially materials to summon your own The Order Grande Raid.
+
+2016-04-01 19_18_57-????????????
+
+This raid also has the DEAL system, which benefits the person who hosted the raid and his guild. Everyone can roll on various loot that is presented, which could be a way for a lower level player to get a Cosmo weapon.
+
+Azure Feathers can be traded for Horns, which are then traded for Cosmo Weapons, which are powerful weapons that buff other weapons of the same type. Unfortunately, it is not as good for a lower Ranked player (as they probably don’t have as many weapons of the same type), and you can only have one per account, so it’s not a bad idea to delay obtaining this weapon until later, as it might be more useful when you have a clear idea of what your end game will look like.
+
+For reference, you can sell, destroy, or feed your Cosmo weapon away if you want to switch to a new one.
+
+8. Reaching for the Stars: 80~100
+
+9. The Real Granblue Begins Here: 101+
+
+10. Always Relevant : Rank 1~175
+
+Renown Points (Glimmer of Valor) – You can build up these points by doing raids with the silver pentagon icon 2016-04-05 03_39_34-????????????. You can use it to eventually buy SSR weapons and other things from the Shop.
+
+2016-04-05 03_50_35-????????????
+
+Sometimes, you must contribute enough to a raids to get the Renown Points from a specific battle. If you don’t contribute enough, you may see your Renown Points prorated or completely cut.
+
+2016-04-05 03_39_53-????????????
+
+There is a 2000 point weekly limit to how much Renown Points you can get. You can also get bonus Renown by finishing battles with R or SR characters alive in the front row. This bonus works on a separate weekly limit. The daily limit of 1000 is kind of weird, but it basically means that you need at least two days to get all 2000 for the week.
+
+Rupee Gatcha – Amidst all the junk Normal Weapons/Summons, Rupee Gatcha is an good source of + Bonus Weapons/Summons, Rare Weapons, and has an astronomically small chance for certain SSR Character Weapons (Lady Grey and La Fie) and Summons. You can’t go wrong rolling this 101 times every day.
+
+Casino – Doing good at the Casino can let you buy a plethora of amazing things. You’ll want to devote some time to building up a big stockpile of Casino Medals to spend. Guide coming soon.
+
+11. Glossary 
+
+Weapon Grid – These are the weapons you equip to you and your team. It determines literally 95% of your character’s stats.
+
+2016-04-05 03_29_48-????????????
+
+Your Main Weapon determines the element and Ougi of your Main Character. All weapons in the grid contribute their base stats and passive Weapon Skills to all characters in your party, regardless of type/element/etc.
+
+Weapon Skills – Many weapons have skills that are passive bonuses to your characters. Some increase your stats, others have special passive effects.
+
+Ougi (English Name Pending) – Special attack that consumes 100% of your energy gauge
+
+12. Appendix
+
+Explanation of Omega Weapons and Omega Summons Goes Here –
+
+13. Conclusion
+
+Unfortunately, this guide is only about 10% done! I’ll be updating it as I find more time, but if there is something unclear, let me know on our Discord: https://discord.gg/0kjJEzNaljVm3Opt

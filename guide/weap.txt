@@ -1,0 +1,3288 @@
+Skip Navigation
+Search
+Login
+Register
+GBF English Community
+How to Play
+Weapon / Summon Optimisation and Progression
+
+Reply
+Weapon / Summon Optimisation and Progression
+
+Search...
+
+Actions
+« Prev12345..8Next »
+ ajantus Avatar
+
+ajantus
+
+*
+On Holiday.
+
+Posts: 109
+
+Dec 18, 2015 at 10:39am Leirya, Takurannyan, and 13 more like this QuotePost Options Post by ajantus on Dec 18, 2015 at 10:39am
+Table of Contents
+
+1. Introduction
+
+        1.1. Primer
+        1.2. Terms
+
+2. Base Damage
+
+        2.1. Weapon Damage
+        2.2. Weapon Proficiency
+        2.3. Upgrade Scaling
+
+3. Weapon Skill Types
+
+        3.1. Skill Icons
+        3.2. Normal / Normal II Weapon Skills
+        3.3. Magna Weapon Skills
+        3.4. Unknown Weapon Skills
+        3.5. Strength Weapon Skills
+        3.6. Bahamut Weapon Skills
+        3.7. HL Bahamut Weapon Skills
+
+4. Leveling Weapon Skills
+
+        4.1. SR Weapons
+        4.2. SSR Weapons
+        4.3. Bahamut Weapons
+ 
+5. Weapon Modifiers
+
+        5.1. Damage Modifiers
+        5.2. Enmity Damage Modifiers
+        5.3. Double Attack Chance
+        5.4. Critical Attack Chance
+        5.5. Health Modifiers
+
+6. Damage Calculation
+
+7. Weapon Optimisation
+
+        7.1. Elemental Summon
+        7.2. Magna Summon
+        7.3. Double Magna Summon
+        7.4. Primal Summon
+        7.5. Double Primal Summon
+        7.6. Grande
+        7.7. Double Grande / Character Summon
+        7.8. Magna + Primal
+        7.9. Magna + Grande
+        7.10. Grande + Primal
+        7.11. Character Summon < 40%
+        7.12. Character Summon 50%/60%
+        7.13. Character Summon < 40% + Magna
+        7.14. Character Summon 50%/60% + Magna
+        7.11. Conclusion
+
+8. Enmity Weapons and Modifiers
+
+        8.1 Category 1
+        8.2 Category 2
+        8.3 Category 3
+        8.4 Category 4
+        8.5 Conclusion
+
+9. Gacha Summon Weapons
+
+        9.1. Narakubara - Wind Spear
+        9.2. Eckesachs - Fire Sword
+        9.3. Oberon - Water Fist
+        9.4. Perseus - Earth Harp
+        9.5. Cortana - Dark Dagger
+        9.6. Artemis - Light Bow
+
+10. Cosmos Weapon
+
+        10.1. Magna Builds
+        10.2. Primals Builds
+        10.3. Elemental Builds
+        10.4. Grande Builds
+        10.5. Conclusion
+
+11. Summon Optimisation
+
+        11.1. Low End Weapon Pool
+        11.2. Mid End Weapon Pool
+        11.3. End Game Weapon Pool
+        11.4. Theoretical End Game Weapon Pool
+        11.5. Conclusion
+        10.6. Graphs for Reference
+
+12. Elemental Versus Character Summon
+
+        12.1. Low End Weapon Pool
+        12.2. Mid End Weapon Pool
+        12.3. End Game Weapon Pool
+        12.4. Theoretical End Game Weapon Pool
+        12.5. Conclusion
+        12.6. Graphs for Reference
+
+13. Miscellaneous
+
+        13.1 Chevalier Sword
+        13.2 Odin Final Limit with Mix Dark / Light Teams
+
+
+1. Introduction
+
+This guide will be slightly advanced in terms of concepts of weapon growth such as, Leveling Weapon Skills , Magna Weapons and Summons and Bahamut Weapon. These can be read up on in the Ultimate Guide Section which will briefly cover these topics. For the basics sections 1, 2 and 3 are what you would want to look at whilst anything on wards will be for more advanced players or are looking for extra help/information. 
+
+In Granblue, that easiest indicator of progression is damage. 
+Your damage will grow with your weapons, summons and classes you master, your allies too will progress alongside you.
+
+When starting, you will be content to use any weapon element or type for any party you plan to take. Eventually you will begin to hit a wall where your damage has cease to improve at a reasonable rate or is simply not high enough for the events or content you want to do. This guide will help you figure ways to past this progression wall by explaining how damage works in Granblue Fantasy and how to actively seek for ways to improve your damage.
+
+Sections 1 - 6 of this guide will give advice about how to shape your weapon pool beyond what you currently have by teaching you about weapon types, skills and skill types.
+Sections 7 and onward will focus primarily on min /maxing your weapons and summon selection to make most of what you have.
+
+1.1 Primer
+
+Before we start here is a quick primer on your weapons, equipment and the stats associated with them.
+
+Weapon Pool
+
+
+
+Main Weapon: 
+
+This weapon dictates your character’s element during battle (i.e Light Sword = Light element). 
+Only weapons in which your class is proficient with can be equipped in this slot.
+Main weapons will be granted with a 20% stat bonus by default to your main character. (See Section 2.2). Party members will only receive a bonus if they are also proficient with that weapon.
+Skills attached to this weapon will contribute to you and your characters based on its specification (i.e Race or Element).
+
+Sub Weapon Pool: 
+
+These weapons contribute towards your final damage but will not affect your element. Any element or weapon type can be placed here.
+Sub weapons can gain a 20% stat bonus based on weapon proficiency.
+Skills attached to these weapons will contribute to you and your characters based on its specification (i.e Race or Element). Some skills may only work as a main hand weapon.
+
+Damage / Health from Weapons: 
+
+Combined damage from all weapons in your sub and main pool. This number will include the 20% bonus from all weapons your class is proficient at.
+
+Weapon’s Damage Health Stat:
+
+Damage or health granted by that specific weapon. This number will consider the weapon’s raw stat without any bonuses.
+
+Summon Pool
+
+
+
+(Summons matching your main character’s element will have their initial cooldown reduced by 3 turns during the start of the battle.)
+
+Main Summon:
+ 
+Passive effect of your Main Summon will be applied to you during combat. These passives will affect damage of specific element(s), add damage or modify health based on characters’ element or modify weapon skills based on its skill type.
+Your main summon will not affect your character’s element and can be used during combat to gain their active effect.
+No bonuses stats are granted to main summons.
+
+Sub Summon Pool: 
+
+Sub Summon’s passive effect has no effect on you during combat.
+Sub Summons will increase your stats and can also be used during combat to gain their active effect
+No bonuses stats are granted to summons.
+
+Damage / Health from Summons: 
+
+Combined damage from all summons in your sub and main pool.
+
+Summon’s Damage Health Stat: 
+
+Damage or health granted by that specific Summon.
+
+Main Character
+
+
+
+Base Damage / Health: 
+
+The total damage / health from your weapons, class bonuses, zenith skills and summons.
+
+Applied Skills:
+
+Indicates the different skill names and strengths that are affecting your character. Skills of similar strength will be counted as a single skill but will have a skill count (+7 means 7 instances of that skill strength). This indicator does NOT differentiate between different skill types.
+
+Party
+
+
+
+Base Damage / Health: 
+
+The total damage / health of the respective character based on level and character’s individual stat growth. 
+Characters in your party will scale alongside you.
+Any bonuses from weapon proficiency will not be shown.
+
+Applied Skills:
+
+Indicates the different skill names and strengths that are affecting the character. Skills of similar strength will be counted as a single skill but will have a skill count (+7 means 7 instances of that skill strength). This indicator does NOT differentiate between different skill types.
+
+1.2 Terms
+
+Base Damage - The damage that appears on your character during party screen.
+
+Character Summon –  Summons that give bonus damage to Characters of said Element (Dark Angel Olivia, Colow etc).
+
+Elemental Summon – Summons that gives bonus damage to Elements (Lucifer, Bahamut, Baal etc).
+
+Free Summon – The bonus summon you can select before joining battle.
+
+Magna Summon – Summons that multiply your magna weapon modifiers (Colossus, Leviathan, Tiamat, Yggdrasil, Celeste, and Chevalier).
+
+Player Summon – The summon that is held in the main slot by the player.
+
+Primal Summon – Summons that multiply your normal weapon modifiers (Zues, Hades, Agnis, Varuna, Titan and Zephyros).
+
+Special Summon - A summon that is not an elemental summon.
+
+Weapon Modifier – The percent bonus gained from a weapon based on its skill and skill level. This will specifically refer to Damage. For non-damage Weapon Modifiers, they might be referred to as Enmity Modifier, Health Modifier etc.
+
+Damage Modifiers - The total perfect bonus gained from your summons, weapons, buffs and any other effect. This will be multiplied directly to your base damage to give your outgoing damage.
+
+
+2. Base Damage
+
+2.1 Weapon Damage
+
+Your character's base damage will depend on your weapon pool, summon pool and attack damage granted by your class (such as Warrior / Valkyrie etc.).
+Weapons will be the easiest to increase as summons are far and few inbetween during progression. Summons are also generally harder to max level due to the amount of fodder you get for summons compared to weapons.
+
+When it comes to increasing base damage, you can upgrade your weapons and find weapons of greater rarity. SR weapons are easier to obtain but will cap out at lvl 75, whilst SSRs can go up to 100 and 150 (may required heavy investment in terms of materials). For an easy damage increase you can level your Zenith skill for an additional 3,000 Attack. 3,000 Attack is strong early in the game as it equates to more than two level 75 SRs.
+
+Damage increase from mastering classes are also an easy source of damage. You will initially have a Fighter Class which grants 1% attack upon reaching level 20 and the follow-up classes from the Fighter tree (Warrior and Weapon Master) will also give an additional 2% and 3% respectively. 
+
+To maximize your base damage you will need to know a few things about weapon types and why they are important.
+
+The general hierarchy for weapon type base damage and health in order of highest to lowest is as follows (based on Guild Weapon and Master class weapons):
+
+Max Attack	Max Health
+Gun	Staff
+Katana
+Spear
+Axe
+Harp
+Bow
+Dagger
+Sword
+Fist
+Dagger
+Bow
+Fist
+Sword
+Spear
+Axe
+Harp
+Katana
+Staff
+Gun
+
+This is the general tier list for weapon stats, the two weapons with the highest attack in the game are guns. However the third highest is a Sword. Similarly two highest health weapons in the game is a Staff and a Spear. However third highest is a Fist. Exceptions do apply to this rule.
+
+Note that within the weapon types, weapons from Gacha will normally have higher base damage than similar weapons that are obtainable in-game. The trend is normally Gacha > Magna > Event.
+
+2.2. Weapon Proficiency
+
+There is also another consideration, using weapon types in which your class is proficient in will boost the weapon's stats by 20% for both HP and Attack. Characters in your party will also grow in strength alongside your main character, they too will gain a boost based on their weapon proficiency. For characters in your party, the boost only applies a bonus 20% to attack from weapons that they are proficient at.
+
+For an example, here is how the game optimised my weapons.
+
+
+
+Notice how the SR Tiamat Sword is considered stronger than the Gun or the Axe (even though they are all lvl 6), this is because the 20% bonus makes it 1650 (1375 * 1.2) attack, which is stronger than the gun and axe but weaker than the Normal SR bow (also level 6).
+
+Each class will be proficient in two weapons (except Orge and Gunslinger), the proficiencies for each class are as follows:
+
+Class Group
+Weapon Proficiency
+( Primary / Secondary)
+Fighter
+Warrior
+Weapon Master
+Berserker
+Sword / Axe
+Knight
+Fortress
+Holy Saber
+Sword / Spear
+Priest
+Cleric
+Bishop
+Sage
+Staff / Spear
+Wizard
+Sorcerer
+Hermit
+Staff / Dagger
+Thief
+Raider
+Hawkeye
+Dagger / Gun
+Grappler
+Kung Fu
+Orge
+Fist
+Ranger
+Marksman
+Sidewinder
+Bow / Gun
+Harpist
+Minstrel
+Superstar
+Harp / Dagger
+Lancer
+Dragoon
+Valkyrie
+Spear / Axe
+Alchemist
+Dagger / Gun
+Ninja
+Katana / Fist
+Samurai
+Katana / Bow
+Swordmaster
+Sword / Katana
+Gunslinger
+Gun
+Wiseman
+Staff
+Assassin
+Dagger
+
+You can imply a class' stats based on this chart and the weapon stats hierarchy, a Bishop uses Staves and Spears they will generally end up being the class with the highest health. Sidewinder uses Bows and Guns, they will generally end up with high base damage.
+
+Weapon proficiency for SSR characters are as follows:
+
+Sword	Dagger	Spear	Axe	Staff	Gun	Fist
+Bow	Harp	Katana
+Siete
+Carmelina
+Rosetta
+Nezahualpilli
+Gwain
+Rena
+Petra
+Anchira 
+Christina
+
+Metera
+Feena
+Henrietta
+Nio
+
+Yuel
+Agielba
+Percival
+Aoidos
+
+Anira
+Zeta
+Heles
+
+Magisa
+Io (Summer)
+Claris
+ Zaruhamerina
+Esser
+Rakamu
+Gandagouza
+Metera (Fire)
+Aoidos
+
+Charlotte
+Catalina
+Lancelot
+Yodalaharl
+Quatre
+Uno
+
+Altair
+Lily
+Silva
+Sochie
+
+Riruru
+
+Sarasa
+Altheia
+Siegfried
+Vira (Summer)
+
+Meru
+Sarasa
+Cagliostro
+Arurumeya
+Clarice (Xmas)
+Eustace
+Catherine
+Eugene
+Sara
+
+
+Okuto
+Les Fie
+Les Fie
+(Summer)
+Seruel
+Albel
+Charlotte (Halloween)
+
+Feri
+Zeta (Summer)
+Jeanne d'Arc
+
+Sarunan
+Io
+Funfu
+
+Amira
+Sorng
+
+
+Vira
+Beatrix
+Rosetta (Xmas)
+Danua (Summer)
+Lady Grey
+Bazaraga
+Dark Sarunan
+Vampy
+Cagliostro (Halloween)
+
+Cerberus
+Six
+
+
+Narumea
+
+Note: 
+Sarasa and Aoidos are proficient in two weapons.
+
+When it comes to optimising base damage, it is important to consider what classes you plan to use with that element or what characters you plan to have.
+Further down this guide, you will notice that Yggdrasil has a SSR Sword and Leviathan has a SSR dagger. Daggers and Sword are weapons in which a large amount of classes are proficient with, therefore people might have preference for farming SSR Sword from Yggdrasil for Holy Saber / Warrior / Dark Fencer / Sword Master or SSR Dagger for Hawkeye / Superstar / Sorcerer / Alchemist / Dark Fencer. Though this is a consideration it should not be your ultimate goal.
+
+2.3 Upgrade Scaling
+
+Each weapon and summon indicates a maximum damage from said weapon / summon at max level (75 for SR and 100 for SSR). This section will detail how their damage will change over the course of limit breaking and leveling up. You can use this section to estimate your weapon or summon damage at various points of limit breaking. These values will change from weapon to weapon so I will give a range and a suitable value for estimating the damage of any weapon.
+
+SR Weapons / Summons
+
+Weapon / Summon
+Level
+Percent damage relative
+to Max Level
+Suitable Estimate
+Minimum Damage
+Level 0
+16-17%
+16.25%
+No Limit Break
+Level 30
+49-51%
+50%
+1st Limit Break
+Level 45
+65-68%
+66.67%
+2nd Limit Break
+Level 60
+82-86%
+83.33%
+3rd Limit Break
+Level 75
+100%
+100%
+
+SSR Weapons / Summons
+
+Weapon / Summon
+Level
+Percent damage relative
+to Max Level
+Suitable Estimate
+Minimum Damage
+Level 0
+16-17%
+16.25%
+No Limit Break
+Level 40
+49-51%
+50%
+1st Limit Break
+Level 60
+65-68%
+66.67%
+2nd Limit Break
+Level 80
+82-86%
+83.33%
+3rd Limit Break
+Level 100
+100%
+100%
+Final Limit Break
+Level 150
+118-122%
+120%
+
+Notice how you will be able to gain half of a weapon's maximum damage without limit breaking it. Whilst each limit breaks yields roughly 16.3% increase until you reach 100%. Weapons that can be final limit broken will have their capped increase to 150 but leveling it to 150 will only yield a 20% additional damage to your weapon for a large investment.  
+
+Base damage however, is not the only factor in damage calculation To fully optimise your weapon pool, you will need to understand the skills that are attached to your weapon.
+
+
+3. Weapon Skills
+
+This section will cover the differences between various skill types and modifiers and where to find them.
+
+Weapon skills are skills attached to your weapon that will normally only work on a particular element or race. (Bahamut). 
+
+This is why there is an emphasis on focusing on elements early on. Aiming for Magna drops (see later section) from a single element will allow you to gain multiple skills for a single element. This will provide a backbone for a strong element that you can then use to gain weapons of other elements (i.e Build a Wind team and use it to beat Earth Bosses).
+
+At the start you will have a small weapon pool and will mostly bolster your Base Damage before dealing with weapon skills. As you gain more and more weapons, you will begin to shape weapon sets for specific elements in which you can start to skill up. At a certain point, skills will take precedent over Base Damage in terms of effectiveness. As an example here is one setup that is maximized for Base Damage and one setup maximized for both Base Damage and Skill.
+
+Base Damage & Base Damage and Skill
+
+
+Notice how the based damage of the Weapon Master is 49,316 whilst Dark Fencer is 37,333. However, if you look at the weapon pool for Weapon Master, he has a random array of weapons whilst Dark Fencer has weapons with light skills and Bahamut Weapon. Ignoring any special bonuses from summons the outgoing damage from each are as follows:
+
+Weapon Master: 49,316 * (1 + 0.15 + 0.16 ) = 64,603
+Dark Fencer: 37,333 * (1 + 0.11 + 0.11  + 0.11 + 0.07 ) * ( 1 + 0.15 + 0.15 + 0.15 + 0.07 + 0.3) =  95,124
+(For calculation method refer to Section 6)
+
+When optimising using the in-game function, they will most often not take into account varying skill types and will prioritise Base Damage above skills. A good sign of progress on skill levels is when you can take a hit on your Base Damage and still end up with more outgoing damage. Since skills you'd want to max to 10 (or 15) are tied to SSR weapons, you will rarely have them in a fully limit broken state. As shown in the Base Damage section, a non-limit broken SSR has half of the weapon's maximum damage. Once your skills are set and you begin to find extra copies of these SSRs, the small increase you get from Base Damage will result in large changes in your overall damage. 
+
+As recommendation, for persistent farmable SSRs such as Magna Weapons, you should focus on skills first as the drops can be far and few in between.
+For limited farmable SSRs such as events or Guild Wars, Max Limit Break them first before taking their skill levels further. 
+As for Gatcha Weapons, it is up to your own discretion.
+
+Some weapons may have multiple skills that affect different elements. For example, Silva's Gun is a Water Element Gun that increases attack damage for both Light and Water characters.
+
+The next section I will talk about different Skill types, this is important when it comes to maximizing your skills.
+
+For reading skill icons you can use these as an indicator to find out what skills your weapons have:
+
+3.1 Skill Icons
+
+Skill Icon
+Skill Type
+
+Normal
+
+Normal II
+
+Magna
+
+Unknown
+
+Bahamut
+
+
+Skill Icon
+Skill Strength
+
+Small
+
+Medium
+
+Large
+
+
+Skill Icon
+Skill Modifier
+
+Attack
+
+Health
+
+Enmity
+
+Double Attack
+
+Critical Attack
+
+Counter
+
+Recovery
+
+
+3.2. Normal / Normal II Weapon Skills
+
+Normal weapons skills are skills with modifiers ending with [Element Prefix]?[Skill Suffix], these modifiers are on the majority of weapons and will vary in strength from small (?), medium (?) and large (?). Normal weapons will normally be obtained from Gatcha, Events and Guild Wars.
+
+Normal II weapons skills are SSR weapons which gain an additional percent damage than their Normal weapon counterparts. These will require you to 4* a weapon obtained from Legend Gatcha / Event but some Legend Gatcha weapons will not require limit breaking to get Normal II skill. All SSR Main Story Characters, Rosetta, Rakamu, Io, Catalina will give you a Normal II weapon from their respective element and weapon proficiency.
+
+By definition Normal skills are skills that are enhanced by Primal Summons (Zues, Agnis etc), therefore by looking at the text from these summons you will be able to find out the category of your weapon skill.
+
+Element	Primal Summon
+Skill Title 1 (Small)
+Skill Title 2 (Medium)
+Skill Title 3 ( Large)
+Wind
+Zephyros
+Wind
+Whirlwind
+Ventosus
+Fire
+Agnis
+Fire
+Hellfire
+Inferno
+Water
+Varuna
+Water
+Tsunami
+Hoarfrost
+Earth
+Titan
+Earth
+Mountain
+Terra
+Light
+Zeus
+Light
+Thunder
+Zion
+Dark
+Hades
+Dark
+Hatred
+Oblivion
+
+For an example, here is Varuna's summon text and a comparison along side with my Fenrir Axe.
+
+
+
+As you can see, the two skills on the Fenrir Axe, DA Up and Attack Up are both called ???? ?and ???? respectively. In the table above, both of these skill titles are enhanced by Varuna. Hence these are classified as a normal weapon skill. ?? is the suffix for attack speed modifier whilst ?? is for attack damage. Notice how the ? is a small skill whilst ?? is a large skill as mentioned in the chart above. You should be able to identify the strength of your weapon skills easily this way.
+
+Notice that there are some special cases such as Chevalier SSR Axe. This Axe has a Chevalier Magna skill for +HP on light character but also has a + atk (large) for water characters. This water attack skill is considered a normal weapon skill and will be improved by Varuna.
+
+
+
+For brevity, all Normal weapons will not be listed. 
+
+The following table shows the list of currently available Normal II weapons with damage skills:
+
+Weapon
+Weapon Type
+Element
+Attack Skill 
+Upgrade Condition
+Secondary 
+Skill
+Source
+ 	Sword
+Wind
+Limit Break to 4* 
+and Reach Level 101
+Double Attack
+(Medium)
+[Level 120]
+Gold Moons
+
+Dagger
+Wind
+None
+-
+SSR Rosetta
+
+Bow 
+Wind
+Limit Break to 4* 
+and 
+Reach Level 101
+Counter 
+(Medium)
+[Level 120] 
+Gold Moons
+
+Katana
+Wind
+Limit Break to 4*
+and 
+Reach Level 101
+Health
+(Medium)
+[Level 120]
+Gold Moons
+
+Spear
+
+Limit Break to 4*
+ and
+Reach Level 101
+None
+Battle of Seiryu Event
+
+Gun 
+Fire
+Limit Break to 4* 
+and 
+Reach Level 101
+Double Attack
+(Medium)
+[Level 120]
+Gold Moons
+
+Gun
+Fire
+None
+-
+SSR Rakamu
+
+Bow
+Fire
+Limit Break to 4* 
+and
+Reach Level 101
+Double Attack
+(Medium)
+[Level 120]
+Gold Moons
+
+Katana
+Fire
+Limit Break to 4* 
+and 
+Reach Level 101
+Water Attack
+(Large II)
+[Level 120]
+Gold Moons
+
+Katana 
+Fire
+Limit Break to 4* 
+and 
+Reach Level 101
+-
+Battle of Suzaku Event
+
+Fist
+
+Limit Break to 4* 
+and 
+Reach Level 101
+Enmity
+(Medium)
+[Level 120]
+Gold Moons
+
+Sword
+Water
+Limit Break to 4* 
+and 
+Reach Level 101
+Critical
+(Medium)
+[Level 120]
+Gold Moons
+
+Sword
+Water
+None
+-
+SSR Catalina
+
+Axe
+Water
+Limit Break to 4* 
+and 
+Reach Level 101
+-
+Battle of Genbu Event
+
+Axe
+
+Limit Break to 4* 
+and 
+Reach Level 101
+Double Attack
+(Medium)
+[Level 120]
+Gold Moons
+
+Katana
+
+Limit Break to 4* 
+and
+Reach Level 101
+Health
+(Medium)
+[Level 120]
+Gold Moons
+
+Gun
+Earth
+Limit Break to 4* 
+and 
+Reach Level 101
+Counter 
+(Medium)
+[Level 120]
+Gold Moons
+
+Bow
+Earth
+Limit Break to 4* 
+and 
+Reach Level 101
+Critical
+(Medium)
+[Level 120]
+Gold Moons
+
+Fist
+Earth
+Limit Break to 4* 
+and 
+Reach Level 101
+-
+Battle of Byakko Event
+
+Gun
+Earth
+None
+-
+SSR Eugene
+
+Staff
+Light
+None
+-
+SSR Io
+
+Fist
+Light
+Limit Break to 4* 
+and 
+Reach Level 101
+Counter
+(Medium)
+[Level 120]
+Gold Moons
+
+Dagger
+Dark
+Limit Break to 4* 
+and 
+Reach Level 101
+Double Attack (Medium)
+[Level 120]
+Gold Moons
+
+Spear
+Dark
+Limit Break to 4* 
+and 
+Reach Level 101
+Enmity (Medium)
+[Level 120]
+Gold Moons
+
+3.3. Magna Weapon Skills
+
+Magna weapons are normally more straight forward and will have skills ending in [Magna Title]??·[Skill Suffix] or [Magna Title]??·[Skill Suffix]II. II will normally indicate a large skill strength (?) whilst [Magna Title]??·[Skill Suffix]II. indicates either a medium or small strength (?/?). Magna weapons are exclusive to their respective raids and is the only way to obtain them as a drop. As of now you can obtain points from contributing to multibattles to exchange for a magna weapon of your choosing. Magna weapons from each Magna are as follows:
+
+Tiamat Magna
+
+
+
+Weapon
+Weapon Type
+Weapon Rarity
+Skill and Modifier 
+Strength #1
+Skill and Modifier 
+Strength #2
+Maximum Weapon Damage 
+(4th Limit Break)
+	Fist
+SSR
+Damage
+(Large)
+-
+2130 (2530)
+
+Axe
+SSR
+Health 
+(Large)
+-
+2390 (2870)
+
+Spear
+SSR
+Health 
+(Large)
+-
+2085 (2500)
+	Gun
+SSR
+Damage
+(Medium)
+Enmity
+(Small)
+2445 (2930)
+	Gun
+SR
+Damage
+(Medium)
+-
+1475
+	Axe
+SR
+Damage
+(Medium)
+-
+1440
+	Sword
+SR
+Damage
+(Medium)
+-
+1375
+
+Colossus Magna
+
+
+
+
+Weapon
+Weapon Type
+Weapon Rarity
+Skill and Modifier 
+Strength #1
+Skill and Modifier 
+Strength #2
+Maximum Weapon Damage 
+(4th Limit Break)
+	Staff
+SSR
+Damage
+(Large)
+-
+1960 (2290)
+	Gun
+SSR
+Health
+(Large)
+-
+2450 (2860)
+
+Fist
+SSR
+Counter
+(Large)
+-
+2135 (2490)
+
+Katana
+SSR
+Enmity
+(Large)
+-
+2425 (2830)
+	Axe
+SR
+Damage
+(Medium)
+-
+1470
+	Dagger
+SR
+Damage
+(Medium)
+-
+1340
+	Fist
+SR
+Damage
+(Medium)
+-
+1310
+
+Leviathan Magna
+
+
+
+Weapon
+Weapon Type
+Weapon Rarity
+Skill and Modifier 
+Strength #1
+Skill and Modifier 
+Strength #2
+Maximum Weapon Damage 
+(4th Limit Break)
+	Dagger
+SSR
+Damage
+(Large)
+-
+2155 (2520)
+
+Bow
+SSR
+Health
+(Large)
+-
+2255 (2640)
+
+Staff
+SSR
+Increase
+Healing
+(Large)
+-
+1940 (2270)
+
+Spear
+SSR
+Critical
+(Large)
+-
+2070 (2420)
+	Gun
+SR
+Damage
+(Medium)
+-
+1505
+	Dagger
+SR
+Damage
+(Medium)
+-
+1340
+	Spear
+SR
+Damage
+(Medium)
+-
+1285
+
+Yggdrasil Magna
+
+
+
+Weapon
+Weapon Type
+Weapon Rarity
+Skill and Modifier 
+Strength #1
+Skill and Modifier 
+Strength #2
+Maximum Weapon Damage 
+(4th Limit Break)
+	Sword
+SSR
+Damage
+(Large)
+-
+2270 (2650)
+
+Dagger
+SSR
+Health
+(Large)
+-
+2160 (2520)
+
+Bow 
+SSR
+Enmity
+(Large)
+-
+2260 (2640)
+	Staff
+SSR
+Damage
+(Medium)
+Health
+(Small)
+1945 (2270)
+	Fist
+SR
+Damage
+(Medium)
+-
+1315
+
+Sword
+SR
+Health
+(Medium)
+-
+1410
+
+Staff
+SR
+Health
+(Medium)
+-
+1205
+
+Chevalier Magna
+
+
+
+Weapon
+Weapon Type
+Weapon Rarity
+Skill and Modifier 
+Strength #1
+Skill and Modifier 
+Strength #2
+Maximum Weapon Damage 
+(4th Limit Break)
+	Gun
+SSR
+Damage
+(Large)
+Normal
+Earth Skill
+Health
+(Large)
+2440 (2850)
+	Harp
+SSR
+Damage
+(Large)
+Normal
+Fire Skill
+Health
+(Large)
+2005 (2340)
+
+Axe
+SSR
+Health
+(Large)
+Normal
+Water Skill
+Damage
+(Large)
+2385 (2790)
+
+Sword
+SSR
+Damage &
+Health
+(Small)
+Normal
+Light Skill
+Damage
+(Small)
+[Level 120]
+2275 (2660)
+
+Axe
+SR
+Health
+(Medium)
+-
+1480
+	Sword
+SR
+Health
+(Medium)
+-
+1415
+
+Spear
+SR
+Health
+(Medium)
+-
+1295
+
+Celeste Magna
+
+
+
+Weapon	Weapon Type
+Weapon Rarity
+Skill and Modifier 
+Strength #1
+Skill and Modifier 
+Strength #2
+Maximum Weapon Damage 
+(4th Limit Break)
+	Axe
+SSR
+Damage
+(Large)
+Normal
+Water Skill
+Counter
+(Large)
+2405 (2810)
+	Spear
+SSR
+Damage
+(Large)
+Normal
+Wind Skill
+Enmity
+(Large)
+2100 (2450)
+
+Harp
+SSR
+Health
+(Large)
+Normal
+Fire Skill
+Critical
+(Large)
+2025 (2360)
+
+Fist
+SSR
+Damage
+(Medium)
+Enmity
+(Small)
+2145 (2500)
+
+Gun
+SR
+Health
+(Medium)
+-
+1535
+
+Axe
+SR
+Health
+(Medium)
+-
+1500
+
+Staff
+SR
+Health
+(Medium)
+-
+1230
+
+3.4. Unknown Weapon Skills
+
+Unknown Weapons Skills are currently only available via events, if you are planning to fully optimise your weapon pool, be weary of any Unknown weapons that are available in upcoming events. 
+
+Weapon
+Weapon Type
+Element
+Modifier Strength
+Source
+ 	Harp
+Wind
+Large
+Saiko Fantasy Event
+
+Sword
+Fire
+Large
+Cinderella Fantasy Event
+
+Axe
+Earth
+Medium
+Cinderella Fantasy Event
+
+Dagger
+Water
+Large
+Cinderella Fantasy Event
+
+Fist
+Water
+Large
+Street Fighter Event
+
+Sword
+
+Large
+Slayers Event
+
+Sword
+
+Large
+Slayers Event
+
+Axe
+
+Large
+Cinderella Fantasy Event
+
+
+3.5. Strength Weapon Skills
+
+Strength Weapons Skills are currently only available via events, if you are planning to fully optimise your weapon pool, be weary of any Strength weapons that are available in upcoming events. Note that these are not affected by Ranko Summon.
+
+Weapon
+Weapon Type
+Element
+Modifier Strength
+Source
+ 	Sword
+Fire
+Large
+Tales of, Event
+
+Fist
+Light
+Large
+Tales of, Event
+
+Katana
+
+Large
+Tales of, Event
+
+
+Unknown weapons are for minor optimisation of damage, for Magna / Primal summons the first addition of Unknown weapons will increase your damage by approximately 4% the second will be a 1.5% increase (overall 5-6% from optimisation). In the case of Elemental / Character and Grande Summons  you will get approximately 5%, 3% and 1% from first, second and third respectively (overall 9-10% increase in damage).
+
+In the grand scheme of things, as your base damage gets higher and higher the initial Unknown Weapon will be a boon but anything after that is arguable, depending on the weapons you have at your disposal.
+
+3.6. Bahamut Weapon Skills
+
+Bahamut Weapons Skills are skills that will boost the damage of a particular race.
+The specific bonuses from each Weapon are as follows:
+
+Weapon	Race
+Bonus 
+(Skill Level 10)
+Dagger
+
+Human
+
+30% Attack
+Axe
+
+Doraf
+
+30% Attack
+Spear
+
+Erun
+
+30% Attack
+Gun
+
+Harvin
+
+30% Attack
+Sword
+
+Human / Doraf
+
+15% Attack and Health
+Staff
+
+Erun / Harvin
+
+15% Attack and Health
+Fist
+
+Human
+
+30% Health
+Katana
+
+Doraf
+
+30% Health
+Bow
+
+Erun
+
+30% Health
+Harp
+
+Harvin
+
+30% Health
+
+These weapons will normally be obtained via two methods,
+
+Obtaining an SR Bahamut Weapon from Proto-Bahamut Raid.
+
+Getting your weapon this way will save you from having to use a Bahamut Horn. However the only way to make this weapon 3* is to try your luck at 3 more or limit breaking it using SR limit break stone from Casino (3 x 500k Medals).
+
+Obtaining a Rusty Weapon from Proto-Bahamut Raid / Angel Halo Dungeon and upgrade it using a Bahamut Horn.
+
+Rusty Weapons are easier to find and once you limit break them to 3*, you can upgrade using a single Bahamut Horn which gives you a ready 3* Bahamut Weapon.
+
+Once you have upgraded your SR Bahamut Weapon skill to level 10, you can upgrade it to SSR which will allow you to boost your base damage.
+
+Be weary that Bahamut Weapon skills are 5 times as demanding than SSR weapons when it comes to leveling their Skills. Bahamut Weapons however do start out very strong and do not required much leveling to gain a large boost to damage. The effectiveness of your Bahamut Weapon varies as follows:
+
+Skill Level
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Modifiers for 
+Dagger / Axe / Spear / Axe
+Fist / Katana / Bow / Harp 
+20%
+21%
+22%
+23%
+24%
+25%
+26%
+27%
+28%
+30%
+
+Modifiers for Sword / Staff
+
+10%
+10.5%
+11%
+11.5%
+12%
+12.5%
+13%
+13.5%
+14%
+15%
+
+Unknown Races, Main Character and Bonus Stacking
+
+Unknown race and the Main Character are considered as ALL RACES and will gain benefit from any Bahamut Weapon in your Weapon pool.
+The list of current characters considered as unknown race are as follows:
+
+SSR	SR
+Amira
+Cerberus
+Lily
+Rosetta (Limited)
+Rosetta (Christmas)
+Vampy	Amira
+Besu
+Minigobu
+Noa
+Robomi
+Rosetta
+Sophie
+
+Here is an example of a weapon load-out with only two Bahamut Weapons, Dagger and Axe.
+
+The party consists of Will (Human), Narumea (Doraf), Vampy (Unknown), Dark Sarunan (Erun) and Cerberus (Unknown).
+
+Main Character
+
+
+Will and Narumea
+
+
+Vampy and Dark Sarunan
+
+
+Notice how Narumea recieves a damage boost which states that it is for Doraf, you can also see this on Will which says damage boost for humans. However if you look at Vampy and the Main character, the bonus does not specify a race and instead shows up as ??? which means they are considered as the same. Since Vampy is of Unknown Race, you can assume that the Main Character is also treated as such. Additionally only one bonus applies as they do not get the bonus damage from the Axe AND the Dagger. Dark Sarunan gets no special bonuses for either of the weapons.
+
+The rules of stacking are as follows: 
+
+30% bonuses will not stack with each other.
+15% bonuses will not stack with each other.
+15% bonuses will stack with 30% bonuses.
+
+Therefore the most Attack and Health boost you can get from Bahamut weapons is 45%.
+
+For parties that cannot fully utilise Bahamut Weapons, if half of your team cannot benefit from your Bahamut weapon then you will end up with average damage modifiers similar to that of using a Normal Weapon in its stead. 
+Using more than 2 Bahamut weapons will decrease your damage regardless of if it will buff all the races in your party, if this is the case it is advised to use Normal Weapons instead or stick with at least 3 characters that can benefit from your 30% Attack weapon.
+
+3.7. HL Bahamut Weapon Skills
+
+As of the 2nd Anniversary of Granblue you can now further upgrade Bahamut weapons after already upgrading them to SSR.
+Further upgrading your weapon this way, will make it become 4* and unlock the ability to increase its level to 150 and its skill level to 15.
+For rebalancing, each attack or attack / health weapon will have its effect changed to affect two races.
+All 30% Health Bahamut weapons are to be converted to improve continuous attack rate for a specific race.
+
+The new specific bonuses from each Weapon are as follows:
+
+Weapon	Race
+Bonus 
+(Skill Level 15)
+Dagger
+
+Human / Erun
+	32% Attack / 
+18% Health
+Axe
+
+Harvin / Doraf
+
+32% Attack /
+18% Health
+Spear
+
+Erun / Doraf
+	32% Attack /
+18% Health
+Gun
+
+Harvin / Human
+	32% Attack /
+18% Health
+Sword
+
+Human / Doraf
+
+32% Attack /
+18% Health
+Staff
+
+Erun / Harvin
+
+32% Attack /
+18% Health
+Fist
+
+Human
+
+32% HP /
+Continuous 
+Attack Up
+Katana
+
+Doraf
+
+32% HP /
+Continuous
+Attack Up
+Bow
+
+Erun
+
+32% HP /
+Continuous
+Attack Up
+Harp
+
+Harvin
+
+32% HP /
+Continuous
+Attack Up
+
+The benefit from increasing the skill level to further as as follows:
+
+Skill Level
+10
+11
+12
+13
+14
+15
+Attack Modifier 
+30%
+30.4%
+30.8%
+31.2%
+31.6%
+32%
+Health Modifier
+15%
+15.6%
+16.2%
+16.8%
+17.4%
+18%
+
+What does this mean for bahamut weapons?
+
+Due to the damage increase being minimal (2%), optimal builds have NOT changed. Since each weapon now affects two races, race diversity in teams have been encouraged.
+With the inclusion of secondary races, values of Races such as Erun and Harvin have increased. Bahamut Dagger (Erun /  Human) will influence builds for fire, dark and light teams. With values of characters such as Yuel, Seruel, Feri and Six increasing. Bahamut gun might influence Water teams, which have the largest group of Harvins in their SSR pool. Swords will most likely still be the go-to for Earth and Dark teams.
+
+For stacking rules, there is a limit on damage increase from bahamut weapons (50%), you can stack two HL Bahamut weapons to give a mono race maximum bonus of 50% Damage and 36% Health. You can also stack a HL Bahamut Weapon with another Bahamut Weapon.
+
+Some examples are below:
+
+HL Bahamut Spear and HL Bahamut Dagger
+Erun : 50% Damage / 36% Health
+Human : 32% Damage / 18% Health
+Harvin : 32% Damage / 18% Health
+Doarf : none
+
+HL Bahamut Dagger and Bahamut Sword
+Human : 47% Damage / 33% Health
+Erun : 32% Damage / 18% Health
+Doraf : 15% Damage / 15% Health
+Harvin : none
+
+HL Gun and Bahamut Dagger
+
+Human : 50% Damage / 18% Health
+Harvin : 32% Damage / 18% Health
+Erun : none
+Doarf : none
+
+
+4. Leveling Weapon Skills
+
+Once you have identified and obtained these weapons you will need to upgrade their skill levels. This will allow you to maximize the weapon's potential. How to get points and how many points required are detailed in the Ultimate Guide. This section will detail the recommended fodder for SR Weapons, SSR Weapons and Bahamut Weapons. The notations are (Quantity) x (Item Type)(Skill level). For example 3 x SSR3 will mean 3 SSRs with skill level 3.
+The tables for each weapon category are as follows:
+
+The general philosophy for using fodder is based on how many SSRs or SRs you have. For example, if you plan to upgrade an SSR from level 9 to level 10. You can either use 18 SRs, 2 SSRs or SSR2. Ideally, SSR2 will consume the least amount of items as it only requires 2 SRs to upgrade an SSR to level 2. However if you have no SSRs spare, then 18 SRs is only option you have, if you have tones of SSRs to spare but no SRs (and are impatient) you can use 2 SSRs instead.
+
+4.1 SR Weapons
+
+
+
+4.2 SSR Weapons
+
+
+
+
+4.3 Bahamut Weapons
+
+
+
+
+5. Weapon Modifiers
+
+Modifiers and bonuses granted from weapon skills from variation skill types, strengths and levels are as follows:
+Credit goes to: Greatsundome Blog and Japanese GBF Wiki 
+NOTE: All values with 1 are considered as indicative only and is not 100% verified. These value however can be used as a rough estimate.
+
+5.1. Damage Modifiers
+
+The damage bonuses granted by weapons are as follows:
+
+
+
+
+5.2. Enmity Damage Modifiers
+
+Last stand modifiers give more damage as your health decreases, these weapons are considered good due to them sharing a separate modifier to normal attack skills.
+The amount of last stand weapons you use will depend on how low you are comfortable attacking at. Generally at 50% HP using 3 - 4 large last stand weapons is optimal. For weapons such as Tiamat Gun which has a small last stand modifier and medium attack, using at least one can be considered at 75% HP.
+
+The damage modifiers at various health granted by weapons are as follows:
+
+
+
+
+5.3. Double Attack Chance
+
+Additional double attack chance granted by weapons are as follows:
+
+
+
+5.4. Critical Attack Chance
+
+Critical attacks granted by weapon skills only work on elements that you are strong against (i.e Water attacking Fire). A critical hit granted this way will give an additional 50% damage.
+Critical chance granted by weapons are as follows:
+
+
+
+
+5.5. Health Modifiers
+
+Additional Health granted by health skills are as follows:
+
+
+
+Last Edit: Jul 14, 2016 at 4:54pm by ajantus
+ajantus Avatar
+
+ajantus
+
+*
+On Holiday.
+
+Posts: 109
+
+Dec 18, 2015 at 12:44pm QuotePost Options Post by ajantus on Dec 18, 2015 at 12:44pm
+6. Damage Calculation
+
+The formula for damage calculation is based on various modifiers multiplied by your character’s base damage. These modifiers are separated into the following:
+
+1. Magna Weapon Modifier
+
+1 + (Magna Weapon Modifier * Magna Summon Modifier)
+
+Magna Summon Modifier by default is 1, using a Magna Summon increases it to 2, 2 Magna Summons will make it 3.
+
+2. Magna Last Stand (????) Modifier
+
+ 1 + (Magna Weapon Last Stand Modifier * Magna Summon Modifier)
+
+This skill increases damage depending on how little life you have left.
+
+3. Normal Weapon Modifier
+
+1 + (Normal Weapon Modifier * Primal Summon Modifier) + Bahamut Modifier + Character Modifier + Attack Buff
+
+Primal Summon Modifier by default is 1, using a Primal Summon increases it to 2.2, 2 Primal Summons will make it 3.4.
+
+Bahamut Modifiers are granted by using Bahamut weapons with the correct race (Main character and Unknown races are counted as all races). The maximum you can gain from this is 50% regardless of the amount of Bahamut weapons and their bonuses in your pool.
+
+Character Modifiers are gained through Character Summons that directly improve character damage. These summons are things such as Grande, Dark Angel Olivia or Colow, they will directly improve your characters instead of your elemental damage, the nuance here is small but it is very important. See Section 12.
+
+Attack Buff is self-explanatory and can be gain through skills, summons etc.
+
+4. Normal Last Stand (????) Modifier
+
+1 + (Normal Weapon Last Stand Modifier)*(Primal Summon Modifier)
+
+This skill increases damage depending on how little life you have left.
+
+5. Unknown Modifier
+
+1 + (Unknown Weapon Modifier * Ranko Summon Modifier) + Strength Modifier
+
+Unknown Weapon Modifiers are gained from Unknown weapons, these weapons can currently only be obtained via events.
+
+Ranko Summon Modifier by default is 1, using a Ranko Summon increases it to 1.5, 2 Ranko Summons will make it 2.
+
+Strength modifiers are gained from Strength weapons, these weapons can currently only be obtained via events.
+
+6. Elemental Modifier
+
+1 + Elemental Affinity + Elemental Summon Strength + Elemental Bonus
+
+Elemental Affinity is if you’re neutral strong or weak to the element you are planning to attack. These values are 0, 0.5 and -0.25 respectively.
+
+Elemental Summon Strength is the Elemental bonus you get from the Elemental Summons you use.
+
+Elemental Bonus is the bonus you get to elemental damage such as Carbuncles or certain skills.
+
+The final calculation then becomes your base damage multiplied by these modifiers:
+
+Base Damage * Magna Weapon * Magna Last Stand * Normal Weapon* Normal Last Stand* Unknown * Elemental
+
+The combination of these modifiers all contribute to your final damage, therefore it is considered best to spread out your modifiers as evenly as possible to gain maximum damage. Before factoring in any summons, if you have a total of weapon modifier of 60, the most optimal way to spread it evenly (20 each). 
+
+Case in point. 20 Magna, 20 Normal and 20 Unknown gives ( 1 + 0.2 )^3 = 1.728. If you spread them unevenly, 10 Magna, 40 Normal, 10 Unknown, you get (1 + 0.1 ) * (1 + 0.4 ) * (1 + 0.1 ) = 1.694.
+
+However as you start to factor in Summon modifiers and additions from Bahamut weapon, these rules will change.
+
+
+7. Weapon Optimisation
+
+As previous stated, it is normally considered most optimal to split your modifiers evenly using your weapon pool. However due to addition effects and modifiers granted by summons and Bahamut weapons, it is not as simple as an even split. This section will tell you the optimum weapon setup for late-game situation, hence the setup you should be aiming for if you already have a late game summon in mind.
+
+Weapon Optimisation Spreadsheet
+
+This spreadsheet holds all optimal setups for all possible special summon combinations. These calculations assume all items have a weapon modifier of 15%. Please note that all values are indicative only as I have completely ignored elemental modifiers (this will be expanded upon in the later sections). You will have to be careful when comparing these optimum damage modifier values with different setups (will also be detailed in later sections). 
+
+For the purpose of this section, Strength and Unknown weapons are considered the same and Ranko Summon is not considered.
+
+How to interpret the tables:
+
+
+
+This example is from using an elemental summon with 30% Bahamut weapon. As you can see the values for Normal Weapon and Unknown Weapon only go up to 9, this is because 1 weapon slot is already predetermined (Bahamut Weapon). 
+
+The top indicates the amount of Normal Weapons in your weapon pool the side indicates the amount of Unknown Weapons in your weapon pool. These two values are added up and subtracted by the maximum allowable weapon count (in this case 9) to calculate the amount of Magna Weapon in your weapon pool.
+
+Cells that are highlighted indicate a maximum, in this case 3.325, 3.712 and 3.620. These maximums are for if you're using a combination of Normal and Magna, Unknown and Magna and all three respectively. 
+
+If you have no Unknown weapons then the optimal weapon pool would be 4 Normal : 1 Bahamut : 5 Magna or 3 Normal : 1 Bahamut : 6 Magna. 
+
+In the case of having access to all weapon types, if you plan to use only Elemental Summons with a Bahamut weapon, the optimal weapon pool would be 2 Normal : 4 Unknown : 1 Bahamut : 3 Magna or 2 Normal : 3 Unknown : 1 Bahamut : 4 Magna or 1 Normal : 4 Unknown : 1 Bahamut : 4 Magna
+
+I will now detail findings for all special summon configurations.
+
+7.1. Elemental Summon
+
+Optimal Setups are:
+
+5 Magna : 5 Normal at 3.063
+3 Magna : 4 Normal : 3 Unknown, 4 Magna 3 Normal 3 Unknown OR
+3 Magna : 3 Normal : 4 Unknown at 3.364
+
+6 Magna : 3 Normal : 1 Bahamut 30% OR 5 Magna : 4 Normal : 1 Bahamut 30% at 3.325
+3 Magna : 2 Normal : 4 Unknown : 1 Bahamut 30% OR 4 Magna : 1 Normal : 4 Unknown : 1 Bahamut 30%,
+4 Magna : 2 Normal : 3 Unknown : 1 Bahamut 30% at 3.712
+
+5 Magna : 3 Normal : 2 Bahamut 30%/15%, 6 Magna : 2 Normal : 2 Bahamut 30%/15% at 3.325
+3 Magna : 1 Normal :4 Unknown : 2 Bahamut 30%/15% OR
+4 Magna : 1 Normal : 3 Unknown : 2 Bahamut 30%/15% OR
+4 Magna : 4 Unknown : 2 Bahamut 30%/15% at 3.712
+
+There is no increase in damage from adding a second bahamut weapon to your weapon pool. This will however increase your HP if you choose to go this route. This setup uses an even amount of all weapons, there are small restrictions on weapon selection. 
+
+Freedom in weapon selection is useful for optimising your weapon pool for ougi, skills (some normal weapons may have critical and double attack etc.) and weapon preference. This consideration is for those with who are trying to get as much damage as possible from their setups. 
+
+Though it isn't a mandatory requirement to have freedom in weapon selection. If you're forced to use Harps and Fist  for an optimised setup, then you're going to need to mix in a normal weapon for classes that aren't proficient in those two.
+
+The damage loss from this is minimal but it is important to understand that some setups here will be optimal on paper but will not be practical.
+
+7.2. Magna Summon
+
+Optimal Setups are:
+
+3 Normal : 7 Magna at 4.495
+2 Normal : 2 Unknown : 6 Magna at 4.732
+
+2 Normal : 1 Bahamut 30% : 7 Magna at 4.960
+1 Normal : 2 Unknown : 1 Bahamut 30% : 6 Magna OR 3 Unknown : 1 Bahamut 30% : 6 Magna at 5.278
+
+1 Normal : 2 Bahamut 30%/15% : 7 Magna at 4.960
+2 Unknown : 2 Bahamut 30%/15% 6 Magna at 5.278
+
+Similar to elemental summons, there is no increase in damage from adding a second bahamut weapon to your weapon pool. This will however increase your HP if you choose to go this route.
+
+However due to the majority of your load-out being Magna weapons and Unknown Weapons, there is little freedom for weapon selection.
+
+7.3. Double Magna Summon
+
+Optimal Setups are:
+
+3 Normal : 7 Magna at 6.018
+2 Normal : 2 Unknown : 6 Magna at 6.253
+
+1 Normal : 1 Bahamut 30% : 8 Magna at 6.670
+ 2 Unknown : 1 Bahamut 30% : 7 Magna at 7.014
+
+2 Bahamut 30%/15% : 8 Magna at 6.670
+2 Unknown : 2 Bahamut 30%/15% 6 Magna at 6.975
+
+With the addition of a second bahamut weapon to your weapon pool, there is a slight decrease in overall damage output. This will however increase your HP if you choose to go this route.
+
+Similar comments apply about weapon selection from a single Magna Summon, there is little freedom weapon selection.
+
+7.4. Primal Summon
+
+Optimal Setups are:
+
+7 Normal : 3 Magna at 4.800
+6 Normal : 2 Unknown : 2 Magna at 5.036
+
+6 Normal : 1 Bahamut 30% : 3 Magna at 4.756
+5 Normal : 2 Unknown : 1 Bahamut 30% : 2 Magna at 4.985
+
+5 Normal : 2 Bahamut 30%/15% : 3 Magna at 4.495
+4 Normal : 2 Unknown : 2 Bahamut 30%/15% 2 Magna at 4.681
+
+The additional of Bahamut weapons actually reduces the effectiveness of the Primal Summon. The modifier for Primal Summon is greater than Magna Summon before considering Bahamut weapons, but falls behind when Bahamut weapons are added to the load-out.
+
+This is due to Bahamut and Normal weapons sharing the same modifier as each other (stacking is generally bad for damage optimisation). This suggest that Primal Summons are great for teams that can't use Bahamut weapons effectively (Harbin / Erun).
+
+Primal summons uses a large weapon pool of normal weapons, this allows for a lot of freedom with weapon selection.
+
+7.5. Double Primal Summon
+
+Optimal Setups are:
+
+7 Normal : 3 Magna at 6.627
+6 Normal : 2 Unknown : 2 Magna at 6.861
+
+2 Normal : 1 Bahamut 30% : 7 Magna at 6.331
+6 Normal : 1 Unknown : 1 Bahamut 30% : 2 Magna OR 
+6 Normal : 2 Unknown : 1 Bahamut 30% : 1 Magna at 6.518
+
+6 Normal : 2 Bahamut 30%/15% : 2 Magna at 4.960
+5 Normal : 2 Unknown : 2 Bahamut 30%/15% : 1 Magna OR
+5 Normal : 1 Unknown : 2 Bahamut 30%/15% : 2 Magna at 5.980
+
+Similar to using a single Primal Summon, the addition of a Bahamut weapon decrease the damage modifier. Due to you stacking 2 Primal Summons, the effect is more severe. Same comments apply, Primal Summons are a good option for Erun / Harbin heavy teams that cannot fully utilise the potential of Bahamut weapons.
+
+This setup has a large normal weapon pool which allows for more freedom with weapon selection.
+
+7.6. Grande
+
+Optimal Setups are:
+
+10 Magna at 7.500
+5 Unknown : 5 Magna at 9.188
+
+1 Bahamut 30% : 9 Magna at 7.755
+4 Unknown : 1 Bahamut 30% : 5 Magna OR
+5 Unknown : 1 Bahamut 30% : 4 Magna at 9.240
+
+2 Bahamut 30%/15% : 8 Magna at 7.590
+4 Unknown : 2 Bahamut 30%/15% 4 Magna at 8.832
+
+When talking about Grande summon, it is important to be careful about the modifiers. For grande to activate, you need at least 3 different elements in your party. This means only 2 members will gain benefit from the weapon modifiers, as weapon modifiers are specific to the element.
+
+When using Grande, it is necessary to use as little normal weapons as possible. This is because Grande gives a direct boost to your normal modifier and diminishes the effectiveness of any normal weapon you will use. However to use Grande to its maximum potential, you will need a large pool of unknown weapons.
+
+With the addition of a second bahamut weapon to your weapon pool, there is a slight decrease in overall damage output. This will however increase your HP if you choose to go this route.
+
+Grande setup does not use any Normal weapons. This allows for no freedom in weapon selection.
+
+7.7. Double Grande / Character Summons
+
+Optimal Setups are:
+
+10 Magna at 12.500
+5 Unknown : 5 Magna at 15.312
+
+1 Bahamut 30% : 9 Magna at 12.455
+4 Unknown : 1 Bahamut 30% : 5 Magna OR
+5 Unknown : 1 Bahamut 30% : 4 Magna at 14.84
+
+2 Bahamut 30%/15% : 8 Magna at 11.990
+4 Unknown : 2 Bahamut 30%/15% 6 Magna at 13.952
+
+Similar comments apply to Grande summon but in this case, using a Bahamut weapons decreases damage output by a decent amount. If you are going to use Bahamut weapons with Double Grande setup, then I suggest its for added health. Double Grande setups can be useful for when you have a team composition that cannot benefit from Bahamut weapon as much (Erun / Harbin).
+
+Grande setup does not use any Normal weapons. This allows for no freedom in weapon selection.
+
+7.8. Magna + Primal
+
+Optimal Setups are:
+
+5 Normal : 5 Magna at 6.625
+5 Normal : 1 Unknown : 4 Magna at 6.702
+
+4 Normal : 1 Bahamut 30% : 5 Magna at 6.550
+4 Normal : 1 Unknown : 1 Bahamut 30% : 4 Magna at 6.629
+
+3 Normal : 2 Bahamut 30%/15% : 5 Magna at 6.100
+3 Normal : 1 Unknown : 2 Bahamut 30%/15% 4 Magna at 6.173
+
+This setup is weaker than Double Primal but stronger than Double Magna without factoring in Bahamut weapons. When Bahamut weapons are introduced this setup provides a middle ground where it only loses a small amount of effectiveness with Bahamut weapons. Additionally this setup requires only 1 Unknown weapon to fully optimise. This setup is good for people lacking Unknown weapons and have a team that might have 1-2 characters that do not benefit from Bahamut weapon.
+
+This setup uses an even distribution for weapons, this allows for some freedom in weapon selection.
+
+7.9. Magna + Grande
+
+Optimal Setups are:
+
+10 Magna at 12.000
+3 Unknown : 7 Magna at 13.485
+
+1 Bahamut 30% : 9 Magna at 12.210
+3 Unknown : 1 Bahamut 30% : 6 Magna at 13.398
+
+2 Bahamut 30%/15% : 8 Magna at 11.730
+2 Unknown : 2 Bahamut 30%/15% 6 Magna at 12.558
+
+Same comment apply to this setup. However the damage with Magna and Grande and Double Grande is relatively close to each other. Considering that Magna Summons are farmable, this setup already compliments Grande Summon really well. This setup will also required you to have a less heavy Unknown Weapon pool.
+
+This setup does not use any Normal weapons. This allows for no freedom in weapon selection.
+
+7.10. Grande + Primal
+
+Optimal Setups are:
+
+4 Normal : 6 Magna at 8.208
+2 Normal : 4 Unknown : 4 Magna at 9.370
+
+3 Normal : 1 Bahamut 30% : 6 Magna at 8.151
+1 Normal : 4 Unknown : 1 Bahamut 30% : 4 Magna at 9.293
+
+2 Normal : 2 Bahamut 30%/15% : 6 Magna at 7.809
+4 Unknown : 2 Bahamut 30%/15% 4 Magna at 8.832
+
+This setup is generally weak. Considering Primal and Grande summons are hard to obtain, this is a poor way to utilise them. This setup stacks too many bonuses into the normal modifier and comes out weaker than other Grande combinations.
+
+This setup uses minimal Normal weapons. This allows for little freedom in weapon selection.
+
+7.11. Character Summons < 40%
+
+Optimal Setups are:
+
+4 Normal : 6 Magna at 3.800
+2 Normal : 4 Unknown : 4 Magna at 4.352
+
+2 Normal : 1 Bahamut 30% : 7 Magna at 4.100
+4 Unknown : 1 Bahamut 30% : 5 Magna at 4.760
+
+1 Normal : 2 Bahamut 30%/15% : 6 Magna at 4.1
+4 Unknown : 2 Bahamut 30%/15% 4 Magna at 4.736
+
+Since Character Summons work similarly to Grande summons but without the extra gimmick of having 3 separate elements on your party. These setups require similar optimisation to Grande. To use Grande / Character Summons you require a large pool of Unknown Weapons.
+
+These Summons aren't as strong as Grande's 100% modifier and hence still gain benefit from using Bahamut Weapons.
+
+This setup uses minimal Normal weapons. This allows for little freedom in weapon selection.
+
+7.12. Character Summons 50% / 60%
+
+Optimal Setups are:
+
+3 Normal : 7 Magna at 4.203
+1 Normal : 4 Unknown : 5 Magna at 4.900
+
+2 Normal : 1 Bahamut 30% : 7 Magna at 4.510
+4 Unknown : 1 Bahamut 30% 5 Magna at 5.320
+
+1 Normal : 2 Bahamut 30%/15% : 7 Magna at 4.510
+4 Unknown : 2 Bahamut 30%/15% 4 Magna at 5.428
+
+Similar comments from 40% apply. This time, because of the Character Summon being stronger the requirement for Normal Weapons have decreased further.
+
+This setup uses minimal Normal weapons. This allows for little freedom in weapon selection.
+
+7.13. Character Summons < 40% + Magna
+
+Optimal Setups are:
+
+2 Normal : 8 Magna at 5.780
+1 Normal : 3 Unknown : 6 Magna at 6.293
+
+1 Normal : 1 Bahamut 30% : 8 Magna at 6.290
+3 Unknown : 1 Bahamut 30% : 6 Magna at 6.902
+
+2 Bahamut 30%/15% : 8 Magna at 6.290
+2 Unknown : 2 Bahamut 30%/15% 6 Magna at 6.734
+
+Due to these Summons functioning similar to Grande, I decided that they might combo well with Magna similar to Grande. These combinations generally peak early for damage.
+
+This setup uses minimal Normal weapons. This allows for little freedom in weapon selection.
+
+7.14. Character Summons 50/60% + Magna
+
+Optimal Setups are:
+
+1 Normal : 9 Magna at 6.475
+3 Unknown : 7 Magna at 7.192
+
+1 Bahamut 30% : 9 Magna at 4.510
+3 Unknown : 1 Bahamut 30% :6 Magna at 5.320
+
+2 Bahamut 30%/15% : 8 Magna at 4.510
+2 Unknown : 2 Bahamut 30%/15% 6 Magna at 5.248
+
+Similar comments apply from Character Summons of 50/60%, with the addition of Magna Summon, the requirement for Normal weapons have decreased further.
+
+This setup uses no Normal weapons. This allows for no freedom in weapon selection.
+
+7.15. Conclusion
+
+Setups using Magna and Elemental Summons benefit from using 2 to 1 Bahamut weapons greatly but will rely on having a team composition with Humans / Dorafs.
+
+Primal and Grande Summons do not yield any benefit from adding Bahamut weapons to your weapon pool. These summons are good for team compositions that are not predominantly Human or a mix of Human and Doraf (an example would be a team with Charlotte, Quatre and Altair or Arurumeya, Eustace and Cagliostro).
+
+Primal Summon combinations are strong if you have a large weapon pool and can benefit from weapon selection by optimising skills / ougi and adding on weapon preference bonuses. Similarly a pure Elemental Summon setup also allows for some freedom in weapon selection.
+
+Grande Summons yield the highest result for damage but required a large pool of Unknown weapons. Double Grande is considered to be a very strong option but a good substitute is Grande + Magna Summon which gives similar modifiers using less Unknown Weapons in your weapon pool. Grande and Primal Summon is considered as a very poor choice. Grande Summons give no freedom in weapon selection.
+
+Character Summons are similar to Grande in that they require a large pool of Unknown Weapons and minimal to no Normal Weapons. They however still rely on Human / Doraf teams since they still benefit from Bahamut weapons greatly.
+
+
+8. Last Stand Weapons and Modifiers
+
+This section will talk about the effectiveness of Last Stand Weapons and at what health do you being to see returns in placing Last Stand Weapons into your weapon pool.
+Last Stand weapons are special in that they have their own modifier separate to traditional damage modifiers. This means that using Last Stand weapons allows you to decrease diminishing returns on your damage. To garner any effectiveness of Last Stand weapons however, you might need to consistently fight at a lower HP percentage than you are comfortable with.
+The effectiveness of Last Stand weapons are based on the following formula.
+
+Last Stand Modifier = SM*(1-CH)*[2*(1-CH)+1]
+
+Where:
+SM = Skill Modifier.
+Small Level 10 = 0.06, Small Level 15 = 0.07, Medium Level 10 = 0.08, Medium Level 15 = 0.09, Large Level 10 = 0.1 and Large Level 15 = 0.11.
+CH = Current Health (percentage i.e 80% = 0.8)
+Last Stand Modifier is then added to your damage as seen in section 6.
+
+Due to there being a variety of Last Stand weapons available, I will separate the weapon types into four different categories. The weapon categories for this section will be:
+
+Category 1: Tiamat Gun and Celeste Fist:
+Medium Attack (Magna) and Small Last Stand (Magna) both at skill level 10 and 15.
+
+Category 2: Colossus Katana, Yggdrasil Bow, and Celeste Spear (Wind):
+Large Last Stand (Magna or Normal) at skill level 10 and 15.
+
+Category 3: Eustace’s Gun:
+Large Last Stand (Normal) and Small Attack (Normal) at level 10 only.
+
+Category 4: Gacha Dark Spear and Gacha Fire Fist:
+Large Attack (II at 4*) (Normal) and Medium Last Stand (at level 120) (Normal) both at skill level 10 and 15.
+
+All analysis will be considered with and without their respect modifier summon (i.e Primal Summons for normal skills and Magna for Magna skills)
+
+Each study will find the Health cut-off point, which the returns for the last stand modifier equals the optimum damage of using a non-last stand setup. The study will also detail the optimum amount of last stand modifiers you should use and the the total damage modifier from weapons at various healths and weapon count.
+
+8.1. Category 1
+
+
+
+Tiamat Gun and Celeste Fist are effective in that they still have an attack skill so you do not sacrifice much damage when fighting at high health. The damage potential and cut-off points for health in which using Last Stand weapon exceeds using a traditional weapon build for these weapons are as follows:
+
+10.1.1. Skill Level 10 with Magna Summon
+
+For reference, max potential damage modifier from weapons without Last Stand = 5.28 (Using Magna Summon with 1 Normal : 2 Unknown : 1 Bahamut 30% : 6 Magna)
+
+
+
+10.1.2 Skill Level 15 with Magna Summon
+(This will assume all weapons are 4* and ATK II normal weapons are being used)
+
+For reference, max potential damage modifier from weapons without Last Stand = 6.19 (Using Magna Summon with 2 Normal : 2 Unknown : 1 Bahamut 30% : 5 Magna)
+
+
+
+8.1.3. Skill Level 10 with Elemental Summon
+
+For reference, max potential damage modifier from weapons without Last Stand = 3.71 (Using Elemental Summon with 2 Normal : 3 Unknown : 1 Bahamut 30% : 4 Magna)
+
+
+
+8.1.4 Skill Level 15 with Elemental Summon
+
+For reference, max potential damage modifier from weapons without Last Stand = 4.25 (Using Elemental Summon with 3 Normal : 2 Unknown : 1 Bahamut 30% : 4 Magna)
+
+
+
+8.2. Category 2
+
+
+
+These weapons only have a Last stand modifier and do not have any damage component. To make any use of these weapons you will need to take damage but your damage will scale better with lower health. These weapons unlike Category 1 weapon will have a limit before you start to experience diminishing returns as you begin to stack Last stand modifiers instead of traditional modifiers. The damage potential and cut-off points for health in which using Last Stand weapon exceeds using a traditional weapon build for these weapons are as follows:
+
+10.2.1. Skill Level 10 with Magna Summon
+
+For reference, max potential damage modifier from weapons without Last Stand = 5.28 (Using Magna Summon with 1 Normal : 2 Unknown : 1 Bahamut 30% : 6 Magna)
+
+
+
+8.2.2 Skill Level 15 with Magna Summon
+
+For reference, max potential damage modifier from weapons without Last Stand = 6.19 (Using Magna Summon with 2 Normal : 2 Unknown : 1 Bahamut 30% : 5 Magna)
+
+
+
+8.2.3. Skill Level 10 with Primal Summon
+
+For reference, max potential damage modifier from weapons without Last Stand = 5.04 (Using Primal Summon with 6 Normal : 2 Unknown : 2 Magna)
+
+
+
+8.2.4 Skill Level 15 with Primal Summon
+
+For reference, max potential damage modifier from weapons without Last Stand = 6.48 (Using Primal Summon with 6 Normal : 1 Unknown : 3 Magna)
+
+
+
+8.2.5. Skill Level 10 with Elemental Summon
+
+For reference, max potential damage modifier from weapons without Last Stand = 3.71 (Using Elemental Summon with 2 Normal : 3 Unknown : 1 Bahamut 30% : 4 Magna)
+
+
+
+8.2.6 Skill Level 15 with Elemental Summon
+
+For reference, max potential damage modifier from weapons without Last Stand = 4.25 (Using Elemental Summon with 3 Normal : 2 Unknown : 1 Bahamut 30% : 4 Magna)
+
+
+
+8.3. Category 3
+
+
+
+Eustace’s gun is unique in that it is the only weapon with a Large last stand modifier and an additional damage component (to date). The damage potential and cut-off points for health in which using Last Stand weapon exceeds using a traditional weapon build for these weapons are as follows:
+
+8.3.1. Skill Level 10 with Primal Summon
+
+For reference, max potential damage modifier from weapons without Last Stand = 5.04 (Using Magna Summon with 1 Normal : 2 Unknown : 1 Bahamut 30% : 6 Magna)
+
+
+
+8.3.2 Skill Level 15 with Primal Summon
+
+For reference, max potential damage modifier from weapons without Last Stand = 6.48 (Using Magna Summon with 2 Normal : 2 Unknown : 1 Bahamut 30% : 5 Magna)
+
+
+
+8.3.3. Skill Level 10 with Elemental Summon (Same values apply for Magna Summon)
+
+For reference, max potential damage modifier from weapons without Last Stand = 3.71 (Using Elemental Summon with 2 Normal : 3 Unknown : 1 Bahamut 30% : 4 Magna)
+
+
+
+8.3.4 Skill Level 15 with Elemental Summon (Same values apply for Magna Summon)
+
+For reference, max potential damage modifier from weapons without Last Stand = 4.25 (Using Elemental Summon with 3 Normal : 2 Unknown : 1 Bahamut 30% : 4 Magna)
+
+
+
+8.4. Category 4
+
+
+
+Weapons in this category are very strong (since they are from gacha only). Their damage components already are strong in that they become Normal II type after limit breaking to 4* and receive an additional last stand modifier which only adds to the weapon’s damage potential. The damage potential and cut-off points for health in which using Last Stand weapon exceeds using a traditional weapon build for these weapons are as follows:
+
+8.4.1. Skill Level 10 with Primal Summon
+
+For reference, max potential damage modifier from weapons without Last Stand = 5.04 (Using Magna Summon with 1 Normal : 2 Unknown : 1 Bahamut 30% : 6 Magna)
+
+
+
+8.4.2 Skill Level 15 with Primal Summon
+
+For reference, max potential damage modifier from weapons without Last Stand = 6.48 (Using Magna Summon with 2 Normal : 2 Unknown : 1 Bahamut 30% : 5 Magna)
+
+
+
+8.4.3. Skill Level 10 with Elemental Summon
+
+For reference, max potential damage modifier from weapons without Last Stand = 3.71 (Using Elemental Summon with 2 Normal : 3 Unknown : 1 Bahamut 30% : 4 Magna)
+
+
+
+8.4.4 Skill Level 15 with Elemental Summon
+
+For reference, max potential damage modifier from weapons without Last Stand = 4.25 (Using Elemental Summon with 3 Normal : 2 Unknown : 1 Bahamut 30% : 4 Magna)
+
+
+
+8.5 Conclusion
+
+The hierarchy of effectiveness in terms of health cut-off and damage potential is as follows:
+
+Category 4 > Category 3 > Category 1 > Category 2
+
+In general if you are not using a Magna or Primal summon build, last stand weapons are relatively weak (as there is no 2 or 2.2 multiplier) and is not recommended.
+
+Category 2 last stand weapons which only have a last stand component to their skill list cap their usefulness at around 1-5 weapons (depending on percent health you plan to fight in). Whilst other weapons continue to excel the more you add to your weapon pool but will require around 60-80% health to make full use of it depending on weapon category.
+
+Be wary that there is a damage limit on your character’s auto attacks (200k), skills (varies) and ougi (1.15m). Using too many last stand weapons may cause you to unnecessarily sacrifice health for no additional damage.
+
+
+Last Edit: Apr 3, 2016 at 3:43am by ajantus
+akabana01 Avatar
+
+akabana01
+
+*
+Posts: 68
+
+Dec 19, 2015 at 12:21am QuotePost Options Post by akabana01 on Dec 19, 2015 at 12:21am
+
+Thank you so much for this! It's amazing!
+
+How about a Magna as a free summon?
+Last Edit: Dec 19, 2015 at 12:21am by akabana01
+samayousamurai Avatar
+
+samayousamurai
+
+*
+Posts: 239
+
+Dec 19, 2015 at 1:27am QuotePost Options Post by samayousamurai on Dec 19, 2015 at 1:27am
+Adding to what ajantus posted above regarding weapon optimization. This is a portion from Wiki.
+Weapon damage boost is divided into multiple categories.
+× { 1 + ??????? × ( 1 + ????? ) } 
+{1 + Magna Skil Level x (1+ Magna Blessing)}
+
+× { 1 + ??????? × ( 1 + ????? ) } 
+{1 + Magna Backwater(power increase as hp loss) x (1 + Magna Blessing)}
+
+× { 1 + ?????ATK??? × ( 1 + ?????? ) + ????????? } 
+{1 + Unknown ATK Skill x (1 + Ranko Blessing) + ?????????}
+
+× { 1 + ??????? × ( 1 + ?????? ) + ?????UP??? + ??????UP?? + ???UP?? }
+{ 1 + Normal SL x (1 + Zeus type ) + Bahamut SL + Character Attack Up Blessing + Normal Attack Buff }
+
+× { 1 + ??????? × ( 1 + ?????? ) }
+
+This is calculation for 10 weapon with SL 10 each. With 100% Magna and 80% Elemental Boost
+·????10?=193200
+10 Magna
+
+·????5?+????5?=211313
+5 Magna + 5 Normal
+
+·????7?+????3?=217109
+7 Magna + 3 Normal
+
+·????5?+????3?+???????2?=227614
+5 Magna + 3 Normal + 2 Unknown
+
+
+For new player whom starting to increase Weapon Skill, it's better to increase SL of difference categories than just concentrate on one Category.
+
+Example: 
+You got couple Magna weapons and couple of Event/Gacha weapons for one kind of element and you got enough fodder to make your weapons 60% boost.
+Taking the formular above
+D = (1+Magna Boost) x (1 + Normal Boost)
+
+If boost one category.
+D = (1 + 60%) x (1 + 0%) = 1.6 x 1 = 1.6
+
+If boost two category equally,
+D = (1 + 30%) x (1 +30%) = 1.3 x 1.3 = 1.69
+
+
+
+
+My GBF Youtube
+Weapon Optimization
+How to Grind for your weapon pool
+samayousamurai Avatar
+
+samayousamurai
+
+*
+Posts: 239
+
+Dec 19, 2015 at 1:37am QuotePost Options Post by samayousamurai on Dec 19, 2015 at 1:37am
+akabana01 Avatar
+Dec 19, 2015 at 12:21am akabana01 said:
+
+Thank you so much for this! It's amazing!
+
+How about a Magna as a free summon?
+The only time it's good to have Magna as both at Main and Free slot is when you use all 10 Magna weapons and you don't have 80% or higher stone.
+If you have mixture of 7 Magna + 3 Other, only use Magna on one of the slot(Main or Free).
+Note: I made mistake on earlier reply so I made an edit.
+Last Edit: Dec 19, 2015 at 2:46am by samayousamurai
+My GBF Youtube
+Weapon Optimization
+How to Grind for your weapon pool
+ajantus Avatar
+
+ajantus
+
+*
+On Holiday.
+
+Posts: 109
+
+Dec 19, 2015 at 9:27am QuotePost Options Post by ajantus on Dec 19, 2015 at 9:27am
+9. Gacha Summon Weapons
+
+As of the 2nd Anniversary of Granblue fantasy, some multibattles previously only available from people who possess those summons at 3* are now open to everyone.
+New battles require either 50 Genes of their respective element OR 6 dragon scales to summon. Summoning them (and completing the fight) will also unlock your ability to 4* them (if you possess one).
+These battles will drop animas and special weapons with Magna Skills. You can also buy these weapons using silver and golden animas, weapons obtained this way however will have Normal Skills instead.
+
+These new weapons are special and unique in their skills. Their effects and my personal evaluation of each of them are as follows:
+(AS OF NOW, I HAVE YET TO FULLY CONFIRM IF NEGATIVE EFFECTS ARE MULTIPLIED BY MAGNA/PRIMAL SUMMONS, THIS CAN AFFECT THE PHISOLOPSY ON USING EARTH HARP AND DARK DAGGER)
+
+9.1 Narakubara - Wind Spear
+
+
+Min Stats
+Max Stats
+Primary 
+Skill
+Secondary 
+Skill
+239 ATK
+36 HP
+2137 ATK
+350 HP
+Attack Up
+at start of
+combat
+(3 turns)
+Damage Large
+and 
+-10% Health 
+
+Under construction
+
+9.2 Eckesachs- Fire Sword
+
+Min Stats
+Max Stats
+Primary 
+Skill
+Secondary 
+Skill
+278 ATK
+106 HP
+1677 ATK
+644 HP
+Medium Damage
+and Critical
+Small 
+Last Stand
+
+Under Construction
+
+9.3 Oberon - Water Fist
+
+
+Min Stats
+Max Stats
+Primary 
+Skill
+Secondary 
+Skill
+342 ATK
+39 HP
+2166 ATK
+233 HP
+Small Damage
+and Health
+Medium Critical
+and Double 
+Attack
+
+9.3.1 Oberon Effectiveness Evaluation
+
+It is important to consider two things with critical damage and double attack, damage cap for autos (200k), skills (varies) and ougi (1.15m) and base double attack of you and your characters. If you play classes such as Ogre with base 60% double attack or use Lancelot / SSR Catalina who has built in Triple / Double attack buffs then the effectiveness of double attack will decrease. 
+
+Double attack buffs from Oberon will be better for characters such as Sochie, Silva, Riruru and Charlotte who do not have inherent DA/TA buffs. This will also benefit classes with low DA/TA such as Dark Fencer and Sidewinder. Double is also helpful for avoiding damage caps on auto attacks as you can spread a single capped attack into two slightly smaller ones (basically turns your characters into pseudo Albert). 
+
+Critical Buffs from Oberon will be better for characters with high damage ceiling, attack skills and continuous attack buffs such as SSR Catalina, Lancelot, Charlotte and Yodalaharl. These will also benefit classes such as Valkyrie, Berserker (due to increase damage cap from Rage IV), Superstar, Sidewinder and Ogre.
+
+Oberon’s design to have both double attack and critical chance allows for a very balanced weapon that benefits a wide variety of class and characters. The winners from this weapon are, Charlotte, SSR Catalina (ougi buff effect), Weapon Master (Berserker), Sidewinder, Superstar (Song of Grande for 100% DA) and Orge.
+
+To justify Oberon’s damage loss compared to using conventional Magna or Normal weapons. I will consider the effectiveness of its Double Attack and Critical Chance modifier. The adjusted values for benefit from Double Attack and Critical Skills are as follows:
+
+Double Attack Adjusted Modifier
+
+Damage Modifier * (1 + Double Attack Chance*Magna/Primal Summon Modifiers)
+
+Critical Attack Adjusted Modifier
+
+Damage Modifier * (1 + Critical Attack Chance * Critical Damage Bonus (50%) * Magna/Primal Summon Modifiers)
+
+Now I will consider and compare based on using Magna, Primal and Elemental summons using 3* and 4* weapons for each (considering Oberon does not have a 4*).
+
+5.3.2 Magna Summon (Leviathan) with Magna Oberon
+
+
+
+For level 10 weapon skills every Oberon you put in your weapon pool, you lose approximately 3.7-4.0% damage until after the 5th weapon where it begins to increase to 5%+.
+Base on consistent damage, you gain most benefit from your DA at around 8 weapons and for Critical Attack it becomes 6 or 7. 9 fists are considered as the most consistent damage from Oberon.
+Based on burst damage, it is best to stick to around 2 or 3 Fists where damage lost is minimal (8% / 12% respectively) but you still have a respectable chance of Critical damage (23% / 34%).
+
+At level 15 weapon skills every Oberon you put in your weapon pool loses significantly more damage than at level 10 (5.5% - 8%) 
+Base on consistent damage, you gain most benefit from your DA at around 4 weapons and for Critical Attack it becomes 2. 9 fists are considered as the most consistent damage from Oberon.
+Based on burst damage, it is best to stick to around 1 or 2 Fists where damage lost is minimal (6% / 12% respectively) but you still have a respectable chance of Critical damage (11% /23%).
+
+
+9.3.2 Primal Summon (Varuna) with Normal Oberon
+
+
+
+If you use a Primal Summon build, you will lose slightly more damage for every Oberon you put in your weapon pool but will gain slightly more benefit from the skills due to the 120% modifier instead of 100%. 
+Base on consistent damage, you gain most benefit from your DA and Critical at around 8 weapons. 8 fists are considered as the most consistent damage from Oberon.
+Based on burst damage, it is best to stick to around 2 or 3 Fists where damage lost is minimal (8% / 13% respectively) but you still have a respectable chance of Critical damage (25% / 38%).
+
+At level 15 weapon skills every Oberon you put in your weapon pool loses significantly more damage than at level 10 (6.5% - 9%) 
+Base on consistent damage, you gain most benefit from your DA at around 3 weapons and for Critical Attacks, you cannot justify its value based on damage lose. 8 fists are considered as the most consistent damage from Oberon.
+Based on burst damage, it is best to stick to around 1 or 2 Fists where damage lost is minimal (6% / 13% respectively) but you still have a respectable chance of Critical damage (13% / 25%).
+
+9.3.3 Elemental Summon (2 x Marius) with Magna Oberon type
+
+
+
+Double Elemental Summons is generally not recommended for Non-light / Dark builds. 
+
+For level 10 weapon skills every Oberon you put in your weapon pool, you lose the least damage out of the 3 setups, but due to having no skill modifiers you gain little benefit from Oberon skills.
+Base on consistent damage, you gain most benefit from your DA at around 1 or 2 weapons and for Critical Attack, you cannot justify its value based on damage loss. 5 fists are considered as the most consistent damage from Oberon.
+Based on burst damage, it is best to stick to around 3 or 4 Fists where damage lost is minimal (10% / 16% respectively) but you still have a respectable chance of Critical damage (17% / 23%).
+
+At level 15 weapon skills every Oberon you put in your weapon pool loses significantly more damage than at level 10 (5.5% - 8%) .
+Base on consistent damage, you cannot justify the damage bonus from double attack and critical attacks individually due to the damage lose. 3 or 4 fists are considered as the most consistent damage from Oberon.
+Based on burst damage, it is best to stick to around 2 or 3 Fists where damage lost is minimal (12% / 18% respectively) but you still have a respectable chance of Critical damage (11% /17%).
+
+9.3.4 Conclusion
+
+Using Operon in your weapon pool for a Magna build gives less damage reduction than a Primal build but a Primal build will be able to have a slightly higher chance of critical and double attack due to their 120% modifier instead of the 100% of Magna.
+
+Using double elementals (2 x Marius) is not recommended, your damage decrease here may be low but you will gain minimal benefit from Oberon’s weapon skills.
+
+9.3.5 Magna: Recommended Builds
+
+For a Magna Build the follow setups are recommended:
+
+2 x Oberon (Magna) : 4 x Magna : 3 x Unknown : 1 x 30% Bahamut
+Weapon Modifier: 4.9
+13.6% Double Attack Chance
+22.8% Critical Attack Chance
+
+3 x Oberon (Magna) : 4 x Magna : 2 x Unknown : 1 x 30% Bahamut
+Weapon Modifier: 4.73
+20.4% Double Attack Chance
+34.2% Critical Attack Chance
+
+For Skill level 15
+
+1 x Oberon Fist (Magna) : 5 x Magna (18%) : 2 x Normal (ATKII 20%) :2 x Unknown : 1 x 30% Bahamut
+Weapon Modifier: 5.87
+6.8% Double Attack Chance
+11.4% Critical Attack Chance
+
+1 x Oberon Fist (Magna) : 5 x Magna (18%) : 1 x Genbu Axe : 2 x Unknown : 1 x 30% Bahamut
+Weapon Modifier: 5.80
+6.8% Double Attack Chance
+11.4% Critical Attack Chance
+
+2 x Oberon Fist (Magna) : 4 x Magna (18%) : 2 x Normal (ATKII 20%) : 1 x Unknown : 1 x 30% Bahamut
+Weapon Modifier: 5.55
+13.6% Double Attack Chance
+22.8% Critical Attack Chance
+
+2 x Oberon Fist (Magna) : 4 x Magna (18%) : 1 x Genbu Axe : 2 x Unknown : 1 x 30% Bahamut
+Weapon Modifier: 5.52
+13.6% Double Attack Chance
+22.8% Critical Attack Chance
+
+3 x Oberon Fist (Magna) : 4 x Magna (18%) : 1 x Genbu Axe : 1 x Unknown : 1 x 30% Bahamut
+Weapon Modifier: 5.24
+20.4% Double Attack Chance
+34.2% Critical Attack Chance
+
+9.3.6 Primal: Recommended Builds
+
+For a Primal Build the follow setups are recommended:
+
+2 x Oberon (Normal) : 2 x Magna : 4 x Normal : 2 x Unknown
+Weapon Modifier: 4.66
+15% Double Attack Chance
+25.1% Critical Attack Chance
+
+3 x Oberon (Normal) : 3 x Magna : 2 x Normal : 2 x Unknown
+Weapon Modifier: 4.48
+22.4% Double Attack Chance
+37.6% Critical Attack Chance
+
+For Skill level 15
+Note: Based on no-buffs 2 x Magna is stronger, but with Altair/Riruru or Summon buffs, 3 x Magna is more optimal.
+Using a Normal ATK II 20 with an Unknown Weapon is marginally better than using 2 x Unknown weapons; these recommended builds however are more affordable/realistic.
+
+1 x Oberon Fist (Normal) : 3 x Magna (18%) : 4 x Normal (ATKII 20%): 2 x Unknown
+Weapon Modifier: 6.05(6.06 for 5 x ATKII 20%)
+7.5% Double Attack Chance
+12.5% Critical Attack Chance
+
+2 x Oberon Fist (Normal) : 3 x Magna (18%) : 3 x Normal (ATKII 20%) : 2 x Unknown
+Weapon Modifier: 5.66 (5.69)
+15% Double Attack Chance
+25.1% Critical Attack Chance
+
+3 x Oberon Fist (Normal) : 3 x Magna (18%) : 2 x Normal (ATKII 20%): 2 x Unknown
+Weapon Modifier: 5.27 (5.35)
+22.4% Double Attack Chance
+37.6% Critical Attack Chance
+
+9.4 Perseus - Earth Harp
+
+
+Min Stats
+Max Stats
+Primary 
+Skill
+Secondary 
+Skill
+322 ATK
+64 HP
+2044 ATK
+226 HP
+Small Damage
+and Health
+Medium Damage
+
+
+Under Construction
+
+9.5 Cortana - Dark Dagger
+
+
+Min Stats
+Max Stats
+Primary 
+Skill
+Secondary 
+Skill
+379 ATK
+32 HP
+2241 ATK
+218 HP
+Large Damage
+Large Continous
+Attack UP 
+(Double and Triple)
+and -10% Health
+
+Under Construction
+
+9.6 Artemis - Light Bow
+
+
+Min Stats
+Max Stats
+Primary 
+Skill
+Secondary 
+Skill
+375 ATK
+34 HP
+2321 ATK
+212 HP
+Large Counter
+and Small 
+Double Attack
+Medium Health
+
+
+
+
+10. Cosmos Weapons
+
+Cosmos Weapons are special weapons that increases weapons stats of same weapon type. These weapons also have special skills that are granted to certain character types in your party.
+The bonuses granted by Cosmos Weapons are as follows:
+
+Weapon of Cosmos
+Increase Base Attack and Health of Weapons of same type by 30%.
+With Weapon Proficiency, bonus becomes 50% Total
+Attack Stance (AT Type)
+Increase Attack but Decreases Maximum Health of Attack Type Characters
+Defense Stance (DE Type)
+Increases Defense and Maximum Health of Defensive Type Characters
+Heal Stance (HE Type)
+Increases Healing and grants Regenerative Effect on Healing Type Characters
+Balance Stance (BL Type)
+Increases Defense and Double Attack chance of Balance Type Characters
+Peculiar Stance (PC Type)
+Increases Debuff resistance and accuracy of Special Type Characters
+
+The introduction and purpose of Cosmos Weapons is fairly obvious, to allow for growth for Grande builds.
+The features of the Cosmos Weapons allows to directly improve Base Damage stats without being affecting by any diminishing returns from skills.
+In this section I will see at what point do Cosmos Weapons become an upgrade to your tool kit, as you have to sacrifice a weapon slot to use a Cosmos Weapon.
+
+I will compare the maximum damage you can get with 10 weapons and 9 weapons and will use an adjustment to account for Cosmos effects to find-out the breakeven point for using a Cosmos Weapon.
+This adjustment will be:
+
+Maximum Damage from 9 Weapons * [ 1 + 0.3 * ( Number of Weapons of Same Type as Cosmos Weapon / 10 ) ]
+
+Take note that this calculation assumes that all weapons are of similar base damage. Below I have calculated a Base Damage Percentage to Breakeven, which shows you how much contribution your weapons affected by Cosmos Weapons must be towards your base damage, in-order for you to benefit from Cosmos Weapons.
+
+The results for various builds are as follows:
+
+10.1 Magna Builds
+
+
+
+Magna builds need around 4-5 weapons of the same type for Cosmos Weapons to become an attractive choice for your weapon pool.
+Since Magna Builds normally required 5 Magna weapons, this means that Magna Builds in generally will always benefit from a Cosmos Weapon.
+You can replace a secondary Unknown weapon or a Normal weapon (one that isn't an ATK II) for Cosmos Weapon. 
+These builds will become stronger as you start to final limit break your Magna Weapons to 4* as their damage will contribute more towards your Base Damage.
+
+10.2 Primal Builds
+
+
+
+Primal Builds will require at least 5 weapons of the same type for Cosmos Weapons to become an attractive choice for your weapon pool.
+Primal Builds are expensive and will generally not allow you to select and choose your weapon types, Cosmos Weapons may be hard to use in these builds.
+Possible situations in which Cosmos Weapons are good is for farmable event weapons such as Vonu Gun, Ifrit Spear, Cerberus Dagger or Guild War weapons.
+This will mean that only in a very unique cases will Cosmos Weapons be an attractive choice for Primal Builds.
+
+10.3 Elemental Builds
+
+
+
+Elemental Builds will require at least 4 weapons of the same type for Cosmos Weapons to become an attractive choice for your weapon pool.
+Elemental Builds will generally not allow you to select and choose your weapon types, Cosmos Weapons may be hard to use in these builds.
+In the cases of light where you can choose a weapons from guildwar or elements which have Magna weapons and Unknown Weapons with same type such as Water, Cosmos Weapons may be an attractive choice.
+
+10.4 Grande Builds
+
+
+
+Grande builds need around 4 weapons of the same type for Cosmos Weapons to become an attractive choice for your weapon pool.
+Since Grande Builds normally required 5 Magna weapons, this means that Grande Builds in generally will always benefit from a Cosmos Weapon.
+You can replace am Unknown weapon for Cosmos Weapon.
+These builds will become stronger as you start to final limit break your Magna Weapons to 4* as their damage will contribute more towards your Base Damage and you will begin to expand you Magna pool from 5 to 6 due to the increased damage to 18% instead of 15%. 
+
+10.5 Conclusion
+
+Grande Builds and Magna Builds benefit greatly from Cosmos Weapons because they require a large pool of Magna weapons which are of similar type.
+Only in small cases can you argue Cosmos Weapons for Primal Build, if you can justify having large amounts of Moon weapons (same) or have events with strong farmable normal weapons for that element.
+Elemental Builds are too inconsistent to justify using Cosmos Weapons but if you can obtain similar weapon types then they are effective.
+Last Edit: Mar 25, 2016 at 10:06pm by ajantus
+ajantus Avatar
+
+ajantus
+
+*
+On Holiday.
+
+Posts: 109
+
+Dec 19, 2015 at 11:41am QuotePost Options Post by ajantus on Dec 19, 2015 at 11:41am
+10. Summon Optimisation
+
+This section will cover the strength of summons based on your weapon pool. 
+
+Optimising summons is complex and varies with skill levels, modifiers and elemental bonuses etc. , optimal weapon setups also changes with skilll levels. To truncate as many variables as possible this section will use optimised weapon setups for weapon skill modifiers of 15 and assume an average weapon skill modifier for your entire weapon pool.
+
+This part of the guide will be abstract, for a more accurate analysis of your weapon pool, I suggest you check out the Damage Calculation Tool in section 5. This will help pick out the best summon for you with the current weapons you have. There will be a lot of graphs for references which I will keep in the appendix section if you wish to view them.
+
+To begin I will define the four separate stages of the game I will analyse for optimising summons and setups:
+
+Early Game – This is considered as having weapons of medium modifier strength without any skills upgraded. Average weapon modifier is considered at 3%.
+
+Mid Game – This is considered as having weapons of medium modifier strength with skill levels upgraded to 5. Average weapon modifier is considered at 7%.
+
+Late Game – This is considered as having weapons of medium modifier strength with skills upgraded to 10 or large modifier strength with skills upgraded to 7.
+Average weapon modifier is considered at 12%.
+
+End Game – This is considered as having weapons of large modifier strength with skills upgraded to 10. Average weapon modifier is considered at 15%.
+
+Theoretical End Game – This is considered as the maximum possible modifier strength you can get within the game. Weapon modifiers for Unknown is considered at 15%, Normal at 20% and Magna at 18%.
+
+This section will not cover Grande or Ranko Summon. 
+
+How to interpret the graphs:
+
+
+
+These graphs represents how damage modifiers change as the strength of your elemental summon improves. This shows the comparison of summons for an End Game build with Unknown weapons without Bahamut weapons.
+
+Notice how Double Magna (DM), Double Primal (DP) and Primal Magna (PM) is a straight line cross the graph. This is because both of these setups already use two summons and can not benefit from using Elemental Summons.
+
+The lines for Manga (M) and Primal (P) are easy to understand, these are the damage modifiers if the elemental summon you use is of that strength. Refer to Case 2.This is the strength of the Magna summon paired with 40% Elemental Summon (Cerberus, Baal, Oceanus etc.).
+
+The line for elemental summon (E) is for when two elemental summons are used, to keep the scale similar to the other lines, elemental strength has been multiplied by two. Refer to Case 3. This is the strength of using a 60 x 2% (120% total). This can be achieved from a combination of 60%/60%, 40%/80% or any other possible combination that adds up to 120%. Another example, refer to Case 5. This is the strength of using 100 x 2% (200% total). This can be achieved from using 120%/80% or 100%/100% etc.
+
+As an example, lets look at different cases to show how to use the graph.
+
+Comparison 1: Case 1 shows at a late game setup, if I have a 40% summon, then pairing it with a 40% Free Summon would be stronger than Double Magna, Double Primal and Primal Magna. However if you compare with Case 2, it shows that using a Magna is stronger than using another 40% summon. Whilst Case 3 shows that using a 80% summon would be slightly stronger than using a Magna.
+
+Comparison 2: Case 3 shows at a late game setup, if you have a 80% summon, then pairing it with a 40% summon would be stronger than Double Magna, Double Primal and Primal Magna. However if you compare with Case 4, it shows that using a Magna is stronger than using 40% summon with your current 80% summon. Whilst Case 5 shows that using using a 120% summon with your 80% summon would be the strongest option for you (option only avaliable for light and dark elements).
+
+Comparison 3: Case 4 shows that at a late game setup using Magna with 80% summon is as strong as roughly 172% Elemental Summon strength (2*86%).
+This means to outperform this setup you will need to pair an 80% summon with at least a 100% summon or 100% summon with 75% summon.
+
+10.1 Early Game
+
+At this point in the game Bahamut weapons give a very quick boost to damage, though you will have to luck out and invest relatively heavily for Bahamut weapons to bare fruit. Note that a Bahamut dagger at lvl 1 is a 20% increase, if you are lucky enough to get a Bahamut dagger early. This weapon will help out a lot during the early stages. Being able to use two Bahamut weapons here would be very beneficial.
+
+Elemental summons are also very strong here, anything above a combined strength of 70% from two elemental summons will out perform any Magna or Primal summon you can have at that point. Considering that 40%/50% elements are easy to come by from events, you will not be benefiting from Magna or Primal summons as much.
+
+Unknown Weapons yield relatively little benefit at this point.
+
+Strong Setups at this Point: Elemental Summons and anything with Bahamut
+
+Weak Setups at this Point: Magna / Primal
+
+Tier List (Wind/Fire/Water/Earth/Light/Dark):
+Elemental (2 x 80% or 120%) with 30% &amp; 15% Bahamut
+Magna (w/ 80% or 120%) with 30% &amp; 15% Bahamut
+Elemental (2 x 80% or 120%) with 30% Bahamut
+
+Each Tier list will be used based on the maximum elemental strength for summons. For Wind/Fire/Water/Earth this will be 80%. Light/Dark this will be 120%. Having a Magna or Primal in this tier list assumes it is also paired with the maximum elemental strength for that element.
+
+10.2 Mid Game
+
+Bahamut weapons are still powerful but you will not benefit as much from a secondary bahamut weapon as you would initially. The additional of Bahamut weapons reduces the effectiveness of Primal Summons greatly.
+
+You will need strong elemental summons to out perform Magna summons at this point. Combined elemental strength of about 140%-160% and above will out perform any Magna. Without Bahamut weapons, you will need 180% to out perform a Primal Summon, this decreases to as low as 80-100% when you start to add in additional Bahamut weapons.
+
+Unknown Weapons yield relatively little benefit at this point.
+
+Strong Setups at this Point: Primal (without any Bahamut Weapon), Magna, Elemental Summons with combined strength over 160%. 
+
+Weak Setups at this Point: Elemental Summon, Primal Summon with Bahamut.
+
+Tier List (Wind/Fire/Water/Earth):
+Elemental (2 x 80%) with 30% Bahamut and 15% Bahamut
+Elemental (2 x 80%) with 30% Bahamut
+Magna (w/ 80%) with 30% Bahamut and 15% Bahamut
+
+Tier List (Light/Dark):
+Elemental (2 x 120%) with 30% Bahamut and 15% Bahamut
+Elemental (2 x 120%) with 30% Bahamut
+Magna (120%) with 30% Bahamut and 15% Bahamut
+
+10.3 Late Game
+
+At this point using Bahamut weapons are only half as effective, using a 30% Bahamut weapon translates to roughly 12-15% increase in damage. The additional of Bahamut weapons decrease the effectiveness of Primal Summons.
+
+With Unknown Weapons, Elemental summons with combined elemental strength of 160% and above will out perform any Magna. Hence only light and dark elements can exceed the effectiveness of Magnas at this point. For all other case, Magna is the stronger choice. Elemental summons will only have to exceed 80-120% to be stronger than Primal setups.
+
+Unknown Weapons benefit elemental summons decently but do not benefit much for Primal and Magna summons at this point. 
+
+Strong Setups at this Point: Elemental Summons (combined strength 160%) with Unknown and Bahamut, Magna with Bahamut.
+
+Weak Setups at this Point: Any setup without Bahamut, Primal.
+
+Tier List (Wind/Fire/Water/Earth):
+Elemental (2 x 80%) with 30% &amp; 15% Bahamut 
+Magna (w/ x 80%) with 30% &amp; 15% Bahamut
+Elemental (2 x 80%) with 30% Bahamut 
+
+Tier List (Light/Dark):
+Elemental (2 x 120%) with 30% &amp; 15% Bahamut
+Elemental ( 2 x 120%) with 30% Bahamut
+Magna (w/ 120%) with 30% &amp; 15% Bahamut
+
+10.4 End Game
+
+No drastic change in damage from the addition of 30% bahamut weapon as it will result in a 7-9% increase in damage. The addition of a secondary bahamut weapon has no effect on damage with the exception of Primal which is reduced in effectiveness.
+
+Only light and dark elements can out perform the damage of Magna and Primal Summons at this point. Combined elemental strength of 200% will out perform Magna and 160% for Primal. Only existing summons that exceed 80% are Bahamut and Lucifier. 
+
+Unknown Weapons benefit all setups but will improve elemental setups more due to having more Unknown Weapons for optimisation.
+&nbsp;
+Strong Setups at this Point: Magna with Bahamut, Elemental (double Lucifer / Bahamut only) with Bahamut.
+
+Weak Setups at this Point: Primal, Elemental (combined strength less than 160%).
+
+Tier List (Wind/Fire/Water/Earth):
+Magna (w/ 80%) with any Bahamut
+Primal (w/ 80%)
+Elemental (2 x 80%) with any Bahamut
+
+Tier List (Light/Dark):
+Elemental (2 x 120%) with any Bahamut 
+Magna (w/ 120%) with any Bahamut
+Primal (w/ 120%)
+
+10.5 Theoretical End Game
+
+Increase in in damage from addition of bahamut weapons 30% has decreased further to 5-7%. The addition of a secondary bahamut weapon will reduced your damage. The additional of bahamut weapons will decrease the effectiveness of Primal Summons.
+
+Elemental summons cannot compete with Magna and Primal summons, Primal Summon without bahamut weapon is the strongest option in this category. Magna Summon with Bahamut 30% weapon is the second choice and does the same damage as Primal Summon with Bahamut.
+
+Unknown Weapons do not go above 15% at this point, the addition of these weapons are for minor damage optimisation. Excluding them would not effect your weapon greatly.
+
+Strong Setups at this Point: Primal without Bahamut.
+
+Decent Setups at this Point: Magna / Primal with 30% Bahamut.
+
+Weak Setups at this Point: Elemental, 30% &amp; 15% Bahamut.
+
+Tier List (Wind/Fire/Water/Earth):
+Primal (w/ 80%)
+Magna (w/80%) with 30% Bahamut = Primal (w/ 80%) with 30% Bahamut
+Magna (w/ 80%) with 30% &amp; 15% Bahamut
+
+Tier List (Light/Dark):
+Primal (w/ 120%)
+Magna (w/ 120%) with 30% Bahamut = Primal (w/ 120%) with 30% Bahamut
+Elemental (2 x 120%) with 30% Bahamut
+
+10.5 Conclusion
+
+Bahamut weapons and Elemental summons are considered as the deciding factor for early game damage capability. 
+
+Elemental summons will carry you through the mid-game, you can choose to boost your skills further to start using Magna / Primal Summons or bolster your base damage to make use of the Elemental summon you already have. Having Bahamut weapons at this point are still very strong at improving your damage.
+
+At late game, if you have not managed to max out your summons to 80% or are using a light / dark element with Lucifer / Bahamut then you will be able to replicate this damage by using Magna Summons. Bahamut weapons are strong here, however if you are planning to make more Bahamut weapons, it maybe better to invest the large amount of fodder into Magna / Normal weapons at this point as you are starting to experience diminishing returns on your Bahamut weapons.
+
+End game, unless you are using light or dark elements, Magna and Primals are stronger than any summon pools at this point. If you are able to have 2 x max limit broken Lucifer or Bahamut, this is by far the best option to go with (note that this setup requires different optimisation of weapon pool).
+
+Theoretical End Game, it is pretty obvious that Primal Summons are king at this point of the game, it is also the most costly and time consuming option, be it from Gatcha or grinding for Event weapons. Elemental summons of any strength will not surpass the power of Magnas or Primals.
+
+Through-out Unknown Weapons will benefit Elemental setups the most but are only for small optimisations in damage. However if you are lacking a complete set of weapon for a certain element. Maxing out two unknown weapons is equivalent or sometimes better than adding a Bahamut due to the undiminished 30% bonus to damage from the Unknown Weapons.
+
+10.6 Graphs for Reference
+
+Damage Graphs.pdf (288.29 KB)
+
+
+11. Elemental Summons vs Character Summons
+
+This section will over the the strength of Elemental Summons vs Character Summons based on your weapon pool.
+
+Elemental Summons will directly enhance said element and will only specify damage boost to specific element. Character Summons will specify an increase damage to Characters of that Element. See the comparison between Anat and Colow, 
+
+
+
+
+Anat only states that Wind Element damage is increased by 80%, Colow states that Light Character damage is increased by 50%. The semantics here seem trivial but they affect how the damage is added onto the overall formula.
+
+Character Summons add a base amount to your Normal Modifier, similar to Bahamut Weapon. Elemental Summons add them to your Elemental Modifier.
+The current list of Character Summons are as follows:
+
+
+Summon	Element	3* Bonus
+4* Bonus
+Albacore
+
+25% Dark
+
+Avarita
+
+40% Earth
+
+Colow
+
+40% Light
+50% Light
+Cybele
+
+40% Earth
+
+Dark Angel Olivia
+
+40% Dark
+60% Dark
+Diablos
+
+40% Dark
+50% Dark
+Fenrir
+
+25% Fire / Water
+40% Fire / Water
+Grande
+
+200% 
+(If you have 3 or more elements in play)
+
+Garuda
+
+40% Wind
+
+Magi
+
+30% Light
+
+Mamonas
+
+25% Wind
+
+Manawydan
+
+25% Water
+
+Marduk
+
+25% Earth
+
+Migurdstorm
+
+25% Earth
+
+Mithra
+
+25% Wind
+
+Neptune
+
+40% Water
+
+Satyr
+
+40% Fire
+
+Slyph
+
+25% Fire
+
+
+Using similar graphs and definitions of game stages, I will now compare how the strength of Elemental Summons differ to their Character Summons during the course of the game. All these comparisons will use the optimal setup based on section 6.
+
+Due to Character Summons requiring a large Unknown Weapon pool, I will not consider the differences between Unknown and non-Unknown weapon pools.
+
+11.1 Early Game 
+
+Character Summons give a quick easy boost to damage similar to Bahamut Weapons, they are considered as strong options for damage. Character Summons of strength 50% or greater are unmatched in this category. Character Summons of strength 40% can only be outperformed by Lucifer and Bahamut.
+
+When Bahamut Weapons are added to the equation, the effectiveness of Character Summons are decreases and Elemental Summons improve. You will still need Lucifer and Bahamut tier summons to outperform high end Character Summons at 50% to 60%.
+
+11.2. Mid Game 
+
+Similar to Early Game, adding Bahamut Weapons to your pool will decrease the effectiveness of your Character Summons. Elemental Summons are slightly stronger compared to their Character Summon counter parts. However Character Summons are still an attractive option at this point.
+
+11.3. Late Game 
+
+Character Summons of 40% are out performed by summons of 60-80% strength 
+Character Summons of 50% or less can be out performed by Lucifer / Bahamut tier summons but are still an attractive choice.
+Character Summons of 60% can only be out performed if you have 2 Bahamut Weapons in your weapon pool.
+
+11.4. End Game 
+
+Without Bahamut Weapons, 3*Bahamut or 3*Lucifer is not as strong as 60% Character Summon such as Dark Angel Olivia. With the addition of Bahamut weapons, 3*Bahamut or 3*Lucifer setups are stronger. 
+Character Summons of 40% are out performed by Elemental Summons of 60%.
+Adding an additional Bahamut weapon further decreases the effectiveness of Character Summons.
+
+11.5. Theoretical End Game
+
+Lucifer and Bahamut will out perform Character Summons of 60% 
+Character Summons of 50% are out performed by 60 - 70% Elemental Summons.
+40% Character Summons are out performed by 40 - 50% Elemental Summons.
+The addition of a second Bahamut Weapon reduces damage across the board but will affect Character Summons greatly.
+
+11.6 Conclusion
+
+Character Summons are an attractive choice for use at low levels, however due to stacking effect of Bahamut weapons and Weapon modifiers as you progress through the game. You will start to experience decreased effectiveness from these summons. Character Summons of 40% - 60% are a very strong choice if you have no Bahamut Weapon during the middle / late game. 
+
+During late game Character Summon with 60% such as Dark Angel are about as effective as using Magna Summon. However during theoretical late game, their her effectiveness will drop off due to the limit of strength on Unknown Weapons. Character Summons will rely on a large Unknown Weapon pool.
+
+11.7 Graph for Reference
+
+Damage Graphs Elemental Magna and Primal.pdf (220.51 KB)
+
+
+12. Miscellaneous 
+
+This section will be used to deal with non-conventional weapons or summons such as Chevalier or Dual summon buffs such as Odin (grants 30% Character Damage if you have a mixture of light and dark).
+
+12.1 Chevalier Sword
+
+With the introduction of the new Chevalier Sword I would like to see how this new weapon compares to other Chev. SSR Weapons.
+
+
+
+
+Chevalier Sword grants small attack and health (Magna) and small attack (Normal), the secondary small attack (normal) however is locked until you managed to get to level 120 (obtainable after limited breaking to 4*). Whilst at first it may look lackluster, here is a comparison between a 50/50 Magna and Normal with 10 Chevalier Swords.
+
+50/50 Split (Elemental Optimal) : (1+0.15*5)*(1+0.15*5) = 3.0625
+10 Chevalier Swords (Elemental Optimal) : (1+0.1*10)+(1+0.1*10) = 4
+
+This simple rough calculation shows the strength of having a Chevalier Sword instead of other weapons.
+
+Optimal ratios for using Chevalier Swords are as follows: 
+(All calculations are done on the basis of Chev. Swords being 4* due to the lock on their skills)
+
+Elemental
+
+10 Chev. Swords = 4.8 (3.8 without Chev. Sword)
+8 Swords : 2 Unknowns = 4.99 (4.02 without Chev. Sword)
+
+9 Chev. Swords : 1 Bahamut = 4.95 (3.99 without Chev. Sword)
+7 Chev . Swords : 2 Unknowns : 1 Bahamut = 5.12 (4.25 without Chev. Sword)
+
+8 Chev. Swords : 2 Bahamut = 4.72 (3.9 without Chev. Sword)
+6 Chev. Swords : 2 Unknowns : 2 Bahamut = 4.85 (4.14 without Chev. Sword)
+
+Magna
+
+10 Chev. Swords = 7.48 (5.69 without Chev. Sword)
+9 Swords : 1 Unknowns = 7.56 (5.82 without Chev. Sword)
+
+9 Chev. Swords : 1 Bahamut = 7.52 (4.960 without Chev. Sword)
+8 Chev . Swords : 1 Unknowns : 1 Bahamut = 7.59 (6.19 without Chev. Sword)
+
+8 Chev. Swords : 2 Bahamut =7.04 (5.85 without Chev. Sword)
+7 Chev. Swords : 1 Unknowns : 2 Bahamut = 7.06 (6.01 without Chev. Sword)
+
+Primal
+
+10 Chev. Swords = 8.01 (6.28 without Chev. Sword)
+9 Swords : 1 Unknowns = 8.08 (6.45 without Chev. Sword)
+
+9 Chev. Swords : 1 Bahamut = 7.65 (6.07 without Chev. Sword)
+8 Chev . Swords : 1 Unknowns : 1 Bahamut = 7.69 (6.20 without Chev. Sword)
+
+8 Chev. Swords : 2 Bahamut = 5.78 (5.62 without Chev. Sword)
+6 Chev. Swords : 1 Unknowns : 2 Bahamut = 6.98 (5.71 without Chev. Sword)
+
+Conclusion
+Heavy Chevalier Sword builds are stronger than using separate Magna and Normal Weapons. Using this build boost the viability of both Magna and Primals Summons.
+In this case, two lucifer setups are close to that of Magna damage (both with Bahamut Weapon). However, using Chevalier Swords increases the damage potential of Primal Summons and they become stronger than Magna or Lucifer. Due to the health bonus from the sword, using a Chevalier Magna will increase the health effect by twice as much (from 10% to 20%). If you need extra tankiness then Magna Summon > Primal Summon.
+
+This build also uses at most 2 Unknown weapons, making it easier to farm for Unknown weapons.
+
+However, only 4 Chevalier Swords can be redeemed and you will only be able to use its full potential if you are able to fight HL Chevalier. These swords are very strong late game options but will take a lot of effort to build.
+
+12.2. Odin Final Upper Limit Release
+
+When you upgrade Odin to 4* he receives a special bonus if you have both a Light and Dark in your party. This bonus is quoted as an additional 30% Character Attack bonus and 3% Double Attack bonus. source
+
+To use this bonus however you will need to have a mixture of light and dark, this section will detail the benefits of using mixed teams with 4* Odin and compare them with Bahamut and pure dark builds.
+
+Basis are as follows:
+All summons considered with be 3* Bahamut and 4* Odin.
+Teams will be considered based on:
+Full Dark.
+Three Dark with Transformed Amira.
+Three Dark with Light.
+Two Dark with Light and Transformed Amira. 
+Calculation Basis are as follows:
+Transformed Amira will give Amira an extra Dark attack, the attack’s damage modifier will be:
+
+(1+Odin Character Buff + Transformed Damage Buff (15%) + Bahamut Weapon)*(0.5 + Weaknesses (0.5) + Dark Elemental Bonuses)
+
+Transformed Amira’s Light damage modifier will be:
+
+(1+Odin Character Buff + Transformed Damage Buff (15%) + Bahamut Weapon)*(1 + Weaknesses (0) + Light Elemental Bonuses)
+
+Light Character’s damage modifier will be:
+
+(1+Odin Character Buff + Bahamut Weapon)*(1 + Weaknesses (0) + Light Elemental Bonuses)
+
+Dark Character’s damage modifier will be based on damage calculation seen in section 6 using double bahamut summons.
+
+Full damage calculations can be seen here 4* Odin Calculation
+
+Conclusion
+
+If you are planning to use a dark &amp; light mix team with Odin, it is advised to go for 2 x 4* Odin as it will yield a much higher damage from your overall team.
+Using a dark &amp; light mix Odin will require 4 Unknown weapons (1 more than Bahamut summon build) to gain maximum effectiveness. You will also benefit from using two bahamut weapons here (45%) where using two will normally yield no extra benefit for damage.
+
+Maximum possible damage from using a mix dark &amp; light team is with 3 Dark and Amira with a 4 Unknown : 2 Bahamut : 4 Magna build. The damage increase from using 2 x Bahamut 120% may be marginal but the added utility of Amira (including her chance to attack consecutively) will largely be in favour of having Amira in a mixed team.
+
+Other useful characters you could use are also Sorng, you will take a 10% hit to your overall damage but her utility could easily make-up for this.
+Last Edit: Mar 25, 2016 at 7:55pm by ajantus
+Regalia Avatar
+
+Regalia
+
+*
+Yo. :] Still new here, but I'll do what I can to help.
+
+Posts: 100 
+IGN: Regalia 
+ID#: 4409972
+
+Dec 27, 2015 at 4:24am QuotePost Options Post by Regalia on Dec 27, 2015 at 4:24am
+very nice . : ]
+Kakatte koi.
+nanashii Avatar
+
+nanashii
+
+*
+Posts: 5
+
+Jan 1, 2016 at 1:22pm QuotePost Options Post by nanashii on Jan 1, 2016 at 1:22pm
+samayousamurai Avatar
+Dec 19, 2015 at 1:27am samayousamurai said:
+
+
+This is calculation for 10 weapon with SL 10 each. With 100% Magna and 80% Elemental Boost
+·????10?=193200
+10 Magna
+
+·????5?+????5?=211313
+5 Magna + 5 Normal
+
+·????7?+????3?=217109
+7 Magna + 3 Normal
+
+·????5?+????3?+???????2?=227614
+5 Magna + 3 Normal + 2 Unknown
+
+
+from this caculation, so if i have Zeus type summon, the pool combination will be 5 normal+ 3magna+ 2 unknow right?
+ajantus Avatar
+
+ajantus
+
+*
+On Holiday.
+
+Posts: 109
+
+Jan 1, 2016 at 4:03pm QuotePost Options Post by ajantus on Jan 1, 2016 at 4:03pm
+nanashii Avatar
+Jan 1, 2016 at 1:22pm nanashii said:
+samayousamurai Avatar
+Dec 19, 2015 at 1:27am samayousamurai said:
+This is calculation for 10 weapon with SL 10 each. With 100% Magna and 80% Elemental Boost
+·????10?=193200
+10 Magna
+
+·????5?+????5?=211313
+5 Magna + 5 Normal
+
+·????7?+????3?=217109
+7 Magna + 3 Normal
+
+·????5?+????3?+???????2?=227614
+5 Magna + 3 Normal + 2 Unknown
+from this caculation, so if i have Zeus type summon, the pool combination will be 5 normal+ 3magna+ 2 unknow right?
+For Zues type (Primal Summon) the optimal is 2 Magna, 2 Unknown and 6 Normal. However the problem with Zeus type summons is that, because they share the same modifier as Bahamut weapons. You actually get slightly weaker damage output from using Bahamut weapon compared to Magna where you'll only increase it.
+
+All these findings I have but I don't have the time to post them atm. Look for this guide to be completely revamped sometime this month.
+
+Last Edit: Jan 1, 2016 at 4:05pm by ajantus
+antares Avatar
+
+antares
+
+*
+Posts: 146
+
+Jan 2, 2016 at 7:39am QuotePost Options Post by antares on Jan 2, 2016 at 7:39am
+Thank you so much for this, I'm still messing up with my weapon pools in order to get max dmg but this helped me a lot. I had 7 magna, 2 Bahas, and 1 normal on my setup, but will start messing around with this guide now to see how much I can improve my setups. Thanks a lot! :D
+kuro Avatar
+
+kuro
+
+*
+Song's slave
+
+Posts: 22 
+ID#: 6394750
+
+Jan 2, 2016 at 4:03pm QuotePost Options Post by kuro on Jan 2, 2016 at 4:03pm
+A really nice guide. Thanks a lot ajantus. :D
+
+syx Avatar
+
+syx
+
+*
+Posts: 24 
+IGN: zecro 
+ID#: 7409096
+
+Jan 2, 2016 at 11:51pm QuotePost Options Post by syx on Jan 2, 2016 at 11:51pm
+And here I was, about to ask something about leveling my weapon skills. This guide is good 11/10
+monztamash Avatar
+
+monztamash
+
+*
+Posts: 19
+
+Jan 3, 2016 at 4:22am QuotePost Options Post by monztamash on Jan 3, 2016 at 4:22am
+Excellent and detailed thread.
+
+I gotta ask though...
+
+Are every other non-strength weapons basically trash ?
+(HP up and the rest)
+ajantus Avatar
+
+ajantus
+
+*
+On Holiday.
+
+Posts: 109
+
+Jan 3, 2016 at 5:12am QuotePost Options Post by ajantus on Jan 3, 2016 at 5:12am
+monztamash Avatar
+Jan 3, 2016 at 4:22am monztamash said:
+Excellent and detailed thread.
+
+I gotta ask though...
+
+Are every other non-strength weapons basically trash ?
+(HP up and the rest)
+I think the general consensus is that SR HP stuff is fodder, for SSR you may want a couple for sustain. If you are in need for a weapon of that type and element, then you might as well keep them. Others such as backwater or counter are more situational and someone with a wide range of Characters and Classes can utilise them to their potential. Damage is damage and rarely requires a special setup to use.
+
+An example would be Yggdrasil's bow that scales damage with less HP you have. Sarasa a Guild War Character will use a skill that uses 99% of her HP and has a damage ratio of 99 x HP lost. So This situation would require a decent mix of health (Yggdrasil Dagger), damage (Yggdrasil Sword). She then has 1 HP left and the bows will kick in full effect. When you then use her ougi, she will have a large spike in damage.
+
+This is why farming Celeste and Chevalier is a bit of a pain as none of their SR weapons can help nudge your damage. Luckily light has Guild Weapons if you have no luck here. It will not be effective to stack normal weapons, but you can always change their elements further down the line if you're in need for a good SSR weapon (i.e. change Sword to water element as you have no water Sword).
+Last Edit: Jan 3, 2016 at 7:26am by ajantus
+Reply
+Shoutbox
+xiony AvatarxionyIt's good I found, thx :) Jan 3, 2017 at 2:02am
+tai AvatartaiHello everyone! Not sure where to post this on the forums, but I'm currently looking for an active English-speaking crew, preferably North American for easier coordination for raids and time zones and such. Jan 3, 2017 at 3:10am
+tai AvatartaiI'm currently Rank 62 and my ID is 11486222. Please send me a message or an invite if interested. Thanks! Jan 3, 2017 at 3:11am
+Netorare AvatarNetorareKusoGaijin is back, and we are recruiting!! Anyone interested please follow the link http://gbf-english.proboards.com/thread/1150/kusogaijin-speak-any-moonrunes Jan 3, 2017 at 3:36pm
+Fui AvatarFuiHi, please take a look at our recruitment post: http://gbf-english.proboards.com/thread/2094/re-suzaku-gw-semi-contents Jan 5, 2017 at 2:58pm
+Fui AvatarFuioops Hi, please take a look at our recruitment post Jan 5, 2017 at 2:58pm
+tokioerco AvatartokioercoHELP CANT ACCESS TO MY GAME COUNT ON GOOGLE CHROME APPLICATION IT TURN A WITHE OAGE AND THAT S ALL SINCE 7 HOURS AGO Jan 6, 2017 at 1:08pm
+tokioerco AvatartokioercoALREADY HAVE CLEARED HISTORIAL AND I NO USED ANY F KING OTHER APPLICATION OR BOOT IN THIS 2 BIT PIECE OF GAME Jan 6, 2017 at 1:09pm
+tokioerco AvatartokioercoHELP HELP ANY ADDRESS OR DIRECTION WHERE REPORT IT? OR I LL GO TO MAKE A FORUM FOR SHUT DOWN THIS CR AP F UKING GAME Jan 6, 2017 at 1:11pm
+tokioerco AvatartokioercoSO THIS FORO IS DEAD¡? OR IS PART OF THE COMPLOT? Jan 6, 2017 at 1:40pm
+tokioerco Avatartokioerconice so nice this crap foro IS DEAD Jan 6, 2017 at 3:04pm
+thatonenewbie AvatarthatonenewbieIt's "dead" because everyone is joining the discord. Didn't you see the discord link at the Ultimate guide?? Jan 7, 2017 at 11:53am
+rinrin Avatarrinrinfahrenheit is recrutiing Jan 7, 2017 at 10:20pm
+rinrin Avatarrinrincheck page Jan 7, 2017 at 10:20pm
+zettaizero Avatarzettaizerohello i am looking for a crew rank 48 wind main here Jan 7, 2017 at 11:37pm
+zettaizero Avatarzettaizeroid # 14267285 ( i am only in my self created crew for that board mission so don't worry ) Jan 7, 2017 at 11:38pm
+charlie Avatarcharliehttp://gbf-english.proboards.com/thread/847/grade-fahrenheit-recruiting-dedicated-players 17 hours ago
+charlie Avatarcharliefahrenheit is recruiting 17 hours ago
+bluedeferum AvatarbluedeferumCrystalis is recruiting! 12 slot left! 16 hours ago
+bluedeferum Avatarbluedeferumhttp://gbf-english.proboards.com/thread/2064/crystalys-lf-members 16 hours ago
+ 
+  
+
+Click here to remove banner ads from this forum.
+This Forum Is Hosted For FREE By ProBoards
+Get Your Own Free Forum!
+Terms of Service | Privacy Policy | Notice | FTC Disclosure | Report Abuse | Report Ad | Advertise Here
