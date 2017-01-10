@@ -1,0 +1,2240 @@
+Skip Navigation
+Search
+Login
+Register
+GBF English Community
+How to Play
+Granblue Fantasy Ultimate Guide
+
+Reply
+Granblue Fantasy Ultimate Guide
+
+Search...
+
+Actions
+« Prev12345..16Next »
+ risend Avatar
+
+risend
+
+*
+Posts: 192 
+IGN: risend
+
+Water Balloon badge
+Jan 13, 2015 at 2:12pm JinjinJinrou, Leirya, and 37 more like this QuotePost Options Post by risend on Jan 13, 2015 at 2:12pm
+Extensive guide on game basics, mechanics, and end-game. Enjoy! This will be a work in progress where I will discuss certain aspects of the game and offer translations for this and that. I will update when I have free time aka waiting for ap or bp, heh. Feel free to correct me if you spot mistakes, a lot of information will be crammed into this. A lot of info here comes from the japanese wiki gbf-wiki.com/, 2ch, guildies, and personal experience. 
+
+If you have questions, feel free to ask here or join the facebook group or discord (chat).
+Facebook group: www.facebook.com/groups/granbluefantasyinternational/ 
+
+
+Discord: discord.gg/0wRMEQ8bpHsIWEED 
+About 700-800 ppl online usually. You can join us for questions, discussions, or help. We usually just chat nonsense while playing the game. You can post raids and stuff... Theres also a music channel and even useful stuff like a defend order notice when your group is up. There is a bunch of knowledgeable people in the chat. We have a vampy bot to play with. I can usually be found in here.
+
+***Update 1/2/2017***
+Updated some changes that were made to the game. 
+
+***Update 11/28/2016***
+Small edits here and there. Updated how to obtain rabbit after the nice changes...
+
+***Update 8/9/2016***
+Added a section for pendants, because suddenly not lazy...
+
+***Update 8/8/2016***
+Figure I update the casino section since poker is now too awesome. Also edited and updated some old texts. 
+
+***Update 7/26/2016***
+Typos and small errors... getting slightly more correct and updated. Go me! Thanks to those who pointed them out.
+
+***Update 7/21/2016***
+Fixed some of the table of contents so they actually link to their sections. I know, it's taken ages... Also updated raids/casino. Put japanese names for raids to search for when using tweetdeck to find raids.
+
+***Update 7/12/2016***
+Added the ougis for gw weapons when they are awakened.
+
+***Update 7/10/2016***
+Fixed some more errors...
+
+Added section for reduce. Something that should had been done ages ago, lol.... such slacker... Anyways, you guys should stop by discord, the community is growing there. Theres about 150+ online usually. Some fun GBF bots to play around with and a music channel, whaa so amazing. Ok, maybe I exaggerate. Use this link to join discord.gg/0wRMEQ8bpHsIWEED. More updates to come, maybe...
+
+
+
+
+
+
+
+
+
+Table of Contents
+
+I. Beginning
+1. Rerolling
+2. Starting out (menu translations)
+3. Various basic tips
+4. Gacha
+5. Start Dash / Surprise Tickets / Beginner Gacha
+6. Leveling up / Earning Rupee / Gaining JP
+7. Campaigns
+8. Panel Missions
+9. Limit Breaking Characters / Materials
+10. Reduce Weapons/Summons
+11. Renown/Prestige Pendants
+12. Job Classes
+13. Characters
+14. More translations -- in progress --
+    a) shop
+    b) settings
+    c) storage
+    d) guild
+15. Free crystals and gacha tickets (courtesy of tofuman)
+
+II. Intermediate
+1. Weapon upgrading
+2. Summons
+3. Friends
+4. Raids
+    1. Basics
+    2. Finding raids (tweetdeck)
+    2. Getting help from twitter
+5. Buffs / Debuffs
+6. Events
+7. Casino
+    1. Poker
+    2. Bingo
+    3. Slots
+8. Coop
+
+III. End Game
+1. Magnas 
+2. Other Raids
+3. Coop weapons
+4. Guild war weapons (how to obtain guild war characters)
+5. Bahamut weapons
+6. Cosmos weapons
+7. Zenith Perks System
+8. Weapon Optimization
+9. Theorycrafting
+
+
+
+
+
+I. BEGINNING
+
+REROLLING
+Should I reroll?
+As a preface, you don't have to reroll. It certainly does help give you a good start and you can reroll for chars/summons you can't purchase later. But you shouldn't feel required to do so. Sometimes rerolling just makes you hate the game before you start. I recommend giving it a try and settling for anything that makes you happy really. 
+
+How to reroll
+Theres a really detailed guild on granblue-wiki.com so you should just read that. granblue-wiki.com/index.php/Rerolling.
+
+What should I roll for?
+I would aim for any char you like really. Limited characters are also nice since they are hard to obtain normally. If you want a specific character to roll for, yoda is super friendly for beginners and will carry you for a long time. Still useful at end game to farm easy dungeons. 
+
+Besides characters, the best summons to roll for would be lucifer (100% light), bahamut (100% dark), shiva (120%), or grande (200% if you have 3 chars of different elements). These you can't purchase with tickets later and have really low rates in gacha. 
+
+The primal summons (80% to normal weapons of x type) aren't bad either, but would take quite a bit of time and effort to get them really going. They are sought after end-game though and since they got super low rates you might want to keep them if you get one. Particular primals of interest would be Zeus, Hades, Titan, and Agnis. 
+
+Best time to roll
+During legend festivals at the end of the month or when they give out a lot of free rolls during celebrations.
+
+
+
+STARTING OUT
+In the beginning, you pretty much want to just rank up, get some basic weapons/summons, work on getting tier 3 jobs (dark fencer especially since it helps you solo content), do as much as you can in the current events, and save up your crystals for gacha. Also use twitter reset, login to the other games campaign, and do the idols/knights/bahamut campaign for great rewards. When you get a break from events try to progress your main quests.
+
+Summary of stuff to do in beginning
+1. Do event, whatever difficulty you can and grab the free characters
+2. Do main story quests
+3. Do any quests in the chapters that give crystals
+4. Save your crystals for 2x SSR event
+5. Use twitter reset daily
+6. Do idols/bahamut campaign when you have no ap/bp
+7. Do a little casino everyday and redeem for ap/bp items
+
+Levels 1-50
+Koon has a nice guide on getting strong on the early game, you can check it out here www.youtube.com/watch?v=dOGCPWt4Pk0&feature=youtu.be
+
+Some basic menu translations:
+
+My page:
+1. ATK POWER is your attack + hp + mastery bonuses
+2. CURE POTS, ELEMENT UP, and DROP RATE UP are guild buffs that your guild master can put up. CURE POTS gives you extra potions, ELEMENT UP gives bonus damage for that element (up to 10% increase), DROP RATE UP gives you 20% more drop chance at max.
+3. ORGANIZE is where you can edit your party, weapon pool, summons, jobs, and equip EX skills from other jobs.
+4. COOP is a room where you can do quests with up to 3 other party members.
+5. GACHA is where you can roll for weapons, characters, and summons with crystals or mobacoins.
+6. PRESENT ICON is where your items from gacha and rewards end up when your inventory is full. Some items expire after 3 days so make sure you accept your gifts!
+7. LETTER ICON is alerts for completed battles you have yet to receive rewards for, friends requests, messages on your profile, etc.
+8. QUESTS is where your main story quests, extra quests, raids, and fate end episodes are.
+9. MULTI-BATTLE is a raid list of raids you can join.
+10. AP/BP. AP recovers at 1 AP per 5 minutes. BP recovers at 1 BP per 20 minutes.
+
+
+
+Menu
+1. ORGANIZE - edit party, weapons, summons, change jobs, and ex skills.
+2. ENHANCE - upgrade weapons, skills, summons, and characters.
+3. COOP - do quests together with other people.
+4. GACHA - roll crystals/mobacoins gacha for weapons, chars, and summons. There is also a rupee one you can roll using rupee for R chars, weapons, and summons.
+5. QUESTS - main story quests, raids, extras.
+6. PROFILE - list of achievements, enhancement bonus levels, messages from other players, and you can set your summons here.
+7. RURIA NOTES - stories, past events, a codex of items you have seen.
+8. GUILD - upgrade ship, see member list, donate, list of assault times (2 1-hr periods where you start raids at 100% ougi)
+9. ITEMS - list of stuff you have, different from weapons/storage inventory. There are items you can equip for small boosts (?????)
+10. SHOP - you can buy recovery pots, inventory expansion, and storages with crystals or mobacoins. You can also trade items here.
+11. PRESENTS - takes you to your mailbox of items.
+12. LIST - inventory of what you have in your main inventory, characters, and skins. You can move weapons and summons here to your storages.
+13. STORAGE - extra storages purchasable in shop.
+14. FRIENDS - list of your friends, friends requests, requests sent, and ability to search for new friends by id, rank, or suggestions.
+15. WORLD MAP - overview of the islands.
+16. SETTINGS - game speed, game quality, sound, etc.
+17. CURRENT EVENT - quick way to access the current event from where ever you are.
+
+
+
+
+
+VARIOUS BASIC TIPS
+
+Battle mechanics
+You should familiarize yourself with the elements diagram. Wind beats earth, earth beats water, water beats fire, and fire beats wind. Light and Dark beats each other. You get a 50% damage bonus added on with other elemental bonuses when you are fighting with the correct element against a weak one. If you are using a weaker element against a strong one, you will do less damage (-25%).
+
+You also take less damage from weaker elements, except for light and dark. Debuffs are easier to land on weaker elements as well. So when you can, make sure you are using the correct element! When your team gets super strong, you can actually use it to destroy other elements.
+
+
+
+Chain burst damage
+When your ougi bar hits 100% you can turn the ougi on  (when it is orange, it is on), it is located below your character's portraits. The more characters that ougi at the same time, the more damage you end up doing in your chain burst. When you use 4 characters' ougi, your chain burst damage will be 1/2 of the total ougi damage done. While it is only 1/4 when you use just two characters. 1/3 for 3 characters.
+
+When a character uses their ougi, it raises the ougi of your other party members by 10%. So the minimum ougi bar you need filled would be, 1st player - 100%, 2nd - 90%, 3rd - 80%, 4th - 70% for a full chain burst damage.
+
+
+
+Important items (?????)
+In menu > items, there is a tab for important items (?????) that you can equip for bonuses. You can only equip 5 at a time. You get these as rewards for clearing each island.
+
+
+
+1. Rank points is increased by 10%.
+2. Enhance exp is increased by 5%.
+3. Chance of great success when enhancing increased by 2%.
+4. Exp increased by 5%.
+5. Rupee gained from quests increased by 5%
+6. When enhancing dark, exp is increased by 5%.
+7. Increases custom points by 50% when feeding weapons to guild ships.
+8. When enhancing wind, exp is increased by 5%.
+9. When enhancing earth, exp is increased by 5%.
+10. Chance of great success when enhancing increased by 1%.
+11. Increases exp gained by 5% when upgrading your element enhance lvl. 
+
+Free blue potion in raids
+When you use the chat button in raid to send an emote, you get a free blue pot. Works only once per raid.
+
+Increasing weapon/summon slots and storages
+Weapon/summon slots can be increased by purchasing extra slots in the shop for 100 moba coins or 100 crystals. You start off at 50 slots and can increase to a maximum of 200. How much inventory space you need depends on how much inconvenience you are willing to deal with. It can be pretty annoying to keep going back and forth in order to clear space. I find having 50 free open slots a good number to work with.
+
+Storages can also be purchased in shop for 500 moba coins or 500 crystals. They occasionally go on sale, usually moba only though. Each storage can hold 100 items. You can have a max of 3 storages each for weapons and summons. You can get by with 0 storages for a while, but when you start building up a collection, 1-2 storages will be very useful.
+
+
+
+
+LEGEND GACHA (????????)
+You want to save 3k crystals in order to roll gacha, which basically lets you roll 10x at once and guarantees you one SR or better item. Save the crystals for legend fest when they have 2x SSR rate events. These usually takes place every 2 months at the end of the month. Last one was on December 31st, so next one is expected at end of February. But they might change their schedules so keep an eye out. 
+
+What 2x SSR rates look like
+
+
+Normal gacha rates are:
+SSR: 3% (super low!)
+SR: 15%
+R: 82%
+
+Blue button is for using mobacoins, which is real money currency you can purchase. Red button is for using your hard earned crystals.
+
+
+Below the 10x pulls are single pulls, which are not really recommended. But give it a whirl if you feel lucky.... You can use gacha tickets here too. Once a day you can pull the single gacha for 90moba coins only, which is pretty cheap and not bad if you are willing to spend some money on the game. The gacha rates will tell you exactly what rates are being boosted if you need to confirm.
+
+
+RUPEE/OTHER GACHA (??/?)
+You can roll up to 10k rupee per day. You can get R characters this way occasionally. Its main use is to collect plusses (+) in order to add on to your weapons, characters, and summons. Each plus boosts your stats by 1 HP and 5 ATK. You can stack up to +99 on one item. In the beginning, you should just save your rupee to limit break your characters, summons, and weapons. Later on you can start farming for rupee and rolling 10k rupee everyday to build up your pluses. On average it will give you about 1 per day.
+
+Occasionally there will be another special gacha below the rupee gacha. Character tickets from guild wars or special event tickets can be redeemed from here.
+
+
+
+
+START DASH / SURPRISE TICKETS / BEGINNER GACHA
+
+
+When you start the game, there is a campaign that gives you a ticket that allows you to exchange for any SSR (Bahamut and Lucifer are excluded from this deal) if you purchase it for 3k moba coins. It also comes with a ticket that lets you redeem 1 10x pull. From what I have gathered, the campaign disappears after reappearing for 2-3 times or after you purchase any surprise tickets. Surprise tickets are basically the same deal, but offered for a limited time during special events like landmark milestones (2 million downloads and anniversary of beta was the last two). I love these, they are pretty much the best money you can spend on the game. 
+
+Pick any character you like, some people pick based on what is cute. As long as you are happy with it, then that is a good choice. I picked Yueru, Lady Grey, and Gandalf with mine. Other common choices I see are Artyle, Le Fie, and whatever fills their last spot for a particular team they are working on. If you have bahamut or lucifer, I would focus on completing those teams.
+
+*Remember the SSR exchange tickets expire about 7 days from the time you purchased it. So make sure you use it before then! The 10x pull ticket does not expire so you can save those.
+
+Beginner Gacha
+
+
+This is basically a cheap way to get you started. It guarantees a SR or better item at the end. 660 moba coins for 5 pulls.
+
+
+
+
+LEVELING UP / EARNING RUPEE / GAINING JP
+Leveling up to rank 30 is pretty straightforward. Just continue down the main story line in quests (????). Finish whatever you can and collect your crystals. If you need to level up a rank, job, or characters you can always do the 10th story line quest ??????, it gives good returns for your ap. Even better is to do coop quests ??????. You can join other people's room and help them with their quests for free exp. You can pretty much grind your way to rank 100 by doing coop. Coop is also a really good source for rupee if you need it for limit breaking or gacha. 
+
+Gaining JP is easy up to rank 40 since you gain 30 JP per level, but it starts to slow down around there. You can gain a lot of JP from doing events by either exchanging mats for them or through the event gacha. 
+
+
+
+
+CAMPAIGNS
+On "My Page", there is a campaign tab in the middle. I'll go over them, but the most important campaigns are the twitter reset and the login one. Also it is a good idea to do the collabs since they give away a lot of legend tickets for gacha.
+
+
+
+Twitter Reset
+Once a day you can refill your AP/BP to full by sending a twitter message. You actually don't have to send one. You can just click on it and it will assume you sent one. Resets at 5am JST time.
+
+Idol App 
+You get crystals for downloading the app, but you need a confirmed japanese phone so pretty much tough luck for us.
+
+Invite Campaign
+You need a confirmed phone for this too, so no luck here.
+
+Bahamut Collab Rewards
+3x AP pots - Clear tutorial
+1x legend ticket - Reach lvl 15
+2x legend tickets - Reach lvl 30
+2x legend tickets - Reach lvl 40
+
+Idols Collab Rewards
+3x AP pots - Clear tutorial
+1x legend ticket - Reach lvl 15
+3x AP pots - Reach lvl 30
+2x legend tickets - Reach lvl 40
+
+Panel Campaign
+Rewards for doing basic tasks in the game. Translations in the next section.
+
+
+
+
+PANEL MISSIONS
+These go from top left to right.
+
+1st Panel
+1. Clear Chapter 1 of main story
+2. Enhance a character
+3. Pull once using rupee gacha
+4. Send a friend request
+5. Check out ruria's notes
+6. Login 2nd day
+7. Set a greetings in your profile
+8. Enhance a summon
+9. Enhance a weapon
+
+2nd Panel
+1. Exchange an item in trader (menu > shop)
+2. Clear the 1st island
+3. Max limit break a character
+4. Increase skill lvl of a weapon
+5. Unlock a new job
+6. Set an EX Ability
+7. Do a 4-chain ougi
+8. Join a guild
+9. Request for help in multi raid
+
+3rd Panel
+1. Clear an Extra quest
+2. Clear Chapter 8 of main story
+3. Donate rupee to your guild
+4. Defeat a Tiamat raid
+5. Unlock a 2nd or higher job tier
+6. Exchange for a summon in shop
+7. Join a multi raid during your assault time (assault times can be found in menu > guild in JST of course)
+8. Defeat 10 multi raids
+9. Max limit break a weapon 
+
+4th Panel
+1. Earn 1,000 Medals in casino
+2. Do 1 coop quest
+3. Set a support summon (menu > profile > set summons)
+4. Clear chapter 16 in story
+5. Sell items in trader (menu > shop)
+6. Master 5 jobs
+7. Set a title (menu > profile > achievements [2nd tab on the bottom] > ????)
+8. Read a comic 
+9. Change sex of your character (menu > profile > top left click "change")
+
+
+
+
+UNCAP CHARACTERS / MATERIALS
+A lot of lb mats drop from just playing the game, but sometimes you need something specific to lb something, especially in the beginning when you have nothing. So here you go! You can also trade for some of these in the shop or with mission points in coop. 
+
+A new Extreme dungeon was added to Extra quests, where you can farm gems, scrolls, genes, and dragon scales for a particular element. The element of the extreme dungeon rotates every 2 days. It is actually a bit challenging so if you have a weak team you might struggle with it. There is a rank 50 requirement too so not recommended for new players. If you are looking for dragon scales, about 1-2 drop per run.
+
+Order of extreme dungeons, 2 days each one
+
+
+Example drops of extreme dungeon.
+
+
+Angel Halo dungeons (?????·????) in SPECIAL tab drop the lowest tier gems, highest tier whorls, low and mid tier crystals, rusty weapons, and weapon fodder. These are available 24/7 now. Once in a while we get 1/2 AP off for SPECIAL missions so those are the best time to stock up on what you need.
+
+Example drops of angel halo dungeon during time marked with star, results may vary, I am using bunny and hawkeye coop gun.
+
+
+GEMS
+
+
+*Can be found in Tuesday EXTRA quests, as well as from various dungeons. Higher grade gems can be traded for with lower ones in shop.
+
+SCROLLS/GENES
+
+
+*Can be found in Wednesday EXTRA quests, as well as from various dungeons. Higher grade items can be traded for with lower ones in shop. Whorls can be traded for in coop with mission pts.
+
+CRYSTALS
+
+
+*Can be found in Thursday EXTRA quests, as well as from various dungeons. Higher grade items can be traded for with lower ones in shop. Rainbow crystals drop a lot in magna and extreme events.
+
+DRAGON SCALES
+
+
+*Can be found in Friday EXTRA quests, as well as from various dungeons. Particularly in magnas of the same element. You can trade up to 2 of these with mission pts in coop. Best place to farm them would be elemental dungeons in SPECIAL tab.
+
+CERTIFICATES
+
+
+*Drops from event bosses and given out as rewards during events for meeting specific milestones. Also drops in proto bahamut, grande, and primal raids.
+
+BLUE CRYSTAL
+
+
+*Reward from hell mode bosses on first time clear, doing challenge quests, drops in special event r challenges, and daily after completing all 3 coop missions. Used for 5* characters, SSR weapon crafting, and GW characters. Drops quite a bit in Grande raids too.
+
+Gold Brick
+
+
+*Really rare drop in non-story hell/maniac dungeons. Can be traded for during Celestial Beasts that appear whenever they feel like giving us, lol. Used mainly for GW characters, but can be used to LB SSR weapons though that isn't recommended.
+
+Damascus Ingot
+
+*You can use these to uncap SSR weapons. It is good idea to save it on something really important like moon weapons. You can farm damascus crystals during certain events and trade 10 in for an ingot.
+
+MAGNA RANDOM STUFF
+
+
+*Drops from magnas and used for crafting or upgrading.
+
+TRUE ANIMAS
+
+
+*Drops from magnas and used for crafting, upgrading, and summoning.
+
+SILVER ANIMAS
+
+
+*Drops from NORMAL and HARD versions of their element's raid. Also trolls in red boxes of magnas, lol.
+
+GOLD ANIMAS
+
+
+*Drops from HARD versions of their element's raid. Also drops in magnas. Can be traded for in casino or with mission pts in coop. Now can also be exchanged in shop for 7 fragments and 3 silver animas.
+
+
+
+
+REDUCE WEAPONS/SUMMONS
+
+SR/SSR Weapons/Summons can be reduced for materials used in upgrading weapons/summons to 4* so save the ones you dont use. Gacha weapons/summons give significantly more materials compared to the ones obtained in the game. That means don’t use your gacha items for feeding and instead save them for reducing if you don’t plan to use them.
+
+
+
+** This is for 0* items. If you have a 1* item than you would just multiply these numbers by 2 and so on.
+*** +n depends on your level of element enhancement.
+
+Things to note:
+You can break Christina’s guns from casino if you need gun fragments. It is a bit costly at 7,777,777 for each one after paying the initial 77,777,777m for her, but it is worth it especially if you are going down the gun path or you need mats to 4* oliver class gun since it gives 200 gun fragments each. You can also break the swords in casino for 200 sword fragments each. They only cost 2.5m medals so that is very nice.
+
+
+
+
+
+
+PENDANTS
+
+You can trade pendants for items in shop. Most important items are Omega weapons, moons, and distinctions.
+
+Best omega weapons to exchange for would be the following:
+
+Wind: Guns
+Fire: Staves
+Water: Daggers
+Earth: Swords
+Light: Swords/Guns (swords limit to 4 total because too op)
+Dark: Fists/Axes (fists are harder to drop, so better to exchange for than axe, but if you don’t care for fists, doesnt matter)
+
+Bronze and silver moons are usually exchanged for pots. Gold moons you can exchange for CP if you need it or save it for a damascus ingot to lb a SSR weapon or go for the 150 gold moon siero’s ticket to get anything you want. Gold moon weapons are nice too, but only affordable by super whales.
+
+Distinctions are for upgrading class weapons to get tier 4 classes and unlocking tier 4 classes. Need 40 of a particular distinction to upgrade class weapon up to element change for tier 4 classes. Unlocking tier 4 classes cost 20 distinctions each.
+
+Obtaining pendants
+
+You can get a max of 3k silver pendants per week. About 12k silver a month. It resets on mondays at 5am jst. Gold pendants can only be earned after you get to lvl 101 as they are only available in high level (impossible) raids. Gold is maxed out at 500 per week and is pretty easy to get.
+
+The number of pendants you earn per raid depends on the number of honor points you earn in the raid. You need to hit a minimum amount of honor points to earn the maximum available points. Harder raids require more points.
+
+Silver pendants can be earned by using R/SR characters. Since R characters earn twice as fast as SR characters, setting up your party to have 1 R and 2 SR in the main line helps keep them earning at the same speed. Having a R and SR in your support line helps in case your main line dies. Your pts for R/SR is calculated depending on who is alive at the end so don’t suicide the boss! Easiest raid to fight with your R/SR team would be the Hard omega raids. I use mine when fighting primals too.
+
+Also hosting gives a lot of pendants and is an easy way to earn them when you are weak and can’t do that much honor points.
+
+Points can earn:
+HARD
+Host: 2-12
+Assist: 2-6
+SR bonus: 3 (per char)
+R bonus: 6 (per char)
+
+Omega
+Host: 2-40
+Assist: 10
+SR bonus: 4 (per char)
+R bonus: 8 (per char)
+
+Primal
+Host: 2-50
+Assist: 2-25
+SR bonus: 4 (per char)
+R bonus: 8 (per char)
+
+Omega HL
+Host: 2-40
+Assist: 2-20
+
+Primal HL
+Host: 2-50
+Assist: 2-35
+
+**Primals are Macula, Nezha, Medusa, Dark Angel Olivia, Twinelements, Apollo
+
+
+
+CLASSES
+In general, it is a very good idea to work on getting the Dark Fencer class since this class allows you to tackle harder dungeons by yourself. From there you can pretty much get anything you want as it is personal preference. I would recommend hawkeye for the treasure hunt skill. It is useful for farming materials and items. Sidewinder is useful for damage. Sorcerer for blind skill which is great with dark fencer. Hermit for focus skill which works great with sidewinder for more damage. Weaponmaster for the awesome master bonus.
+
+In the long run, if you play enough you can get all the classes, I just finished mine after 3-4 months of play. I would just focus on mastering a few advanced jobs in the beginning though.
+
+Kingneet has a list with most of the classes so go there for the translation. (gbf-english.proboards.com/thread/44/job-skills-bonuses)
+
+Since the last time the list has been updated there has been several new classes, which I will list below:
+
+Harpist:
+
+
+
+Type: Special
+Weapons: Harp / Dagger
+JP Cost: 100
+Preqrequisite: None
+
+Abilities
+Overture: Increases healing effectiveness/upper limit for everyone. When you are using a harp, the skill effectiveness increases. From 10% to 20%.
+Charm song (lvl 10) (EX): Casts charm on enemy. Enemies with charm have a chance of doing nothing on their turn.
+
+
+Support Abilities
+Cantabile: Decreases damage from enemy skills when they are in overdrive state.
+
+Master Bonus
+Defense +1%
+
+Minstrel:
+
+
+
+Type: Special
+Weapons: Harp / Dagger
+JP Cost: 200
+Preqrequisite: Harpist / Enhancer
+
+Abilities
+Overture: Increases healing effectiveness/upper limit for everyone. When you are using a harp, the skill effectiveness increases. From 10% to 20%.
+Charm song II (lvl 5) (EX): Casts charm on enemy. Enemies with charm have a chance of doing nothing on their turn.
+Minstrel Song (lvl 15) (EX): Heals 300 hp with harp, 150 hp without per turn for 5 turns.
+
+
+Support Abilities
+Cantabile: Decreases damage from enemy skills when they are in overdrive state.
+
+Master Bonus
+Defense +2%
+
+Superstar
+
+
+
+Type: Special
+Weapons: Harp / Dagger
+JP Cost: 500
+Preqrequisite: Minstrel / Arcana Sword
+
+Abilities
+Overture II: Increases healing effectiveness/upper limit for everyone. When you are using a harp, the skill effectiveness increases.
+Soul Pilfer (lvl 5) (EX): Decreases enemy resistance to debuffs. Increases effectiveness when using a harp.
+Song of Grande (lvl 15) (EX): Double attack rate up. When using harp, double attack up rate goes up to about 80%.
+
+
+Support Abilities
+Cantabile: Decreases damage from enemy skills when they are in overdrive state.
+Appasionato: Double attack rate up increases when using Song of Grande. When using Overture II, attack and defense increases depending on number of people in raid. 
+
+Master Bonus
+Defense +3%
+
+
+
+***Skill effects of lancer, dragoon, and valkyrie classes changes depending on if you have axe or spear equipped.
+
+Lancer (????):
+
+
+Type: Attack
+Weapons: Spear / Axe
+JP Cost: 100
+Prerequisite: None
+
+Abilities
+Lead Drive: Damage to enemy. Spear - locks break state. Axe - decreases enemy gauge.
+Dual Impulse (lvl 5) (EX): Double attack. Spear - party's double attack rate up. Axe - enemy's double attack rate down.
+
+Support Abilities
+Volitional: Spear - Attack up. Axe - Defense up.
+
+Master Bonus
+HP +1%
+
+Dragoon (?????):
+
+
+Type: Attack
+Weapons: Spear / Axe
+JP Cost: 300
+Preqrequisite: Lancer / Knight
+
+Abilities
+Lead Drive: Damage to enemy. Spear - locks break state. Axe - decreases enemy gauge.
+Dual Impulse II (lvl 5) (EX): Double attack. Spear - party's double attack rate up. *Effectiveness is increased depending on the number of buffs you have. Axe - enemy's double attack rate down. *Effectiveness is increased depeneding on number of debuffs enemy has.
+Pile Revelation? ?????????? (lvl 15) (EX): Damage, attack, defense increases depending on your ougi gauge.
+
+Support Abilities
+Volitional: Spear - Attack up. Axe - Defense up.
+
+Master Bonus
+HP +2%
+
+Valkyrie (???????):
+
+
+Type: Attack
+Weapons: Spear / Axe
+JP Cost: 500
+Prerequisite: Dragoon / Fortress
+
+Abilities
+Lead Drive II: Damage to enemy. Spear - locks break state. Axe - decreases enemy gauge.
+Dual Impulse III (lvl 5) (EX): Gives 100% triple attack to self for 1 turn (regardless of weapon). Spear - raid's consecutive attack rate up. Axe - enemy's consecutive attack rate down. 
+Resonance Surge (lvl 15) (EX): More damage depending on enemy's turn gauge.
+
+Support Abilities
+Volitional: Spear - Attack up. Axe - Defense up.
+Crisis Blow: Resonance Surge damage up.
+
+Master Bonus
+HP +3%
+
+
+Alchemist
+
+
+
+Type: Healer
+Weapons: Dagger / Gun
+JP Cost: 500
+Prerequisite: ?????? / Title (???????)
+
+Alchemist has special requirements. One is to get the title ???????, which you receive when you complete all of Coop Extra stage 1. ?????? is an item that drops in Extra mode of coop. I am pretty sure it drops in any of those stages. I have 10 of them -.-
+
+
+Abilities
+Transmute Cure Potion: Creates a cure potion.
+Medic (lvl 5) (EX): Heals party members for up to 1500 hp.
+Raise Morale (lvl 15) (EX): Increases ougi gauge of whole raid by 10% if used by an alchemist. Only 5% if used by other jobs.
+
+Support abilities: 
+Alchemist Expertise: Increase potions effectiveness.
+Knowledge's inspiration: Increase Raise morale effectiveness.
+
+Master Bonus: 
+Healing +5%
+
+
+
+Ninja
+
+
+
+Type: Special
+Weapons: Katana / Fist
+JP Cost: 500
+Prerequisite: ????? / Title (???????)
+
+Ninja has special requirements. One is to get the title ???????, which you receive when you complete all of Coop Extra stage 2. Second is ?????, which is an item that mainly drops in Extra mode of coop, but can drop outside of it at a much lower rate.
+
+
+Abilities
+Ninjutsu: Form a seal and use ninjutsu.
+Fuma Shuriken (lvl 5) (EX): Deals damage to enemy and depending on the seal an effect will be added. Sets mark counter to 2. Katana - Reduces cooldown on ninjutsu by 2 turns. Fists - Double attack rate and attack up. 
+Cloudy (lvl 15) (EX): Deals damage to enemy. Katana - Blinds self and increases double attack rate. Fists - Increases own attack, decreases defense, and increases ougi gauge. 
+
+Support abilities: 
+Hidden Secret: Rare chance to dodge damage from enemy.
+??: Increases effectiveness of Fuma Shuriken. 
+
+Master Bonus: 
+Ability Damage +5%
+
+NINJUTSU SKILL LIST
+*Thanks to Takurannyan and vacillating for the info.
+
+? + ? = fire damage + fire mark
+? + ? = chance to crit for 1 turn
+? + ? = light damage + light mark
+? + ? = triple attack up for 2 turns
+
+? + ? = dodge for 1 turn
+? + ? = water damage + water mark
+? + ? = dark damage + dark mark
+? + ? = damage + poison
+
+? + ? = multi attack down
+? + ? = overdrive gauge reduction
+? + ? = wind damage + wind mark
+? + ? = avoid being targeted by enemy for 1 turn
+
+? + ? = attack power up during blind for 2 turns (+50%)
+? + ? = remove own debuffs + heal -50% ougi for self
+? + ? = remove 1 debuff from party
+? + ? = earth damage + earth mark
+
+Additional Effects from Marks *
+3x Fire marks = Attack down 
+3x Water marks = Defense down 
+3x Earth marks = Delay 
+3x Wind marks = DA probability Down 
+3x Light marks = Paralysis (lasts for 30 seconds)
+3x Dark marks = Darkness(blind)
+
+* Marks last for 180 seconds
+
+Samurai
+
+
+
+Type: Attack
+Weapons: Katana / Bow
+JP Cost: 500
+Prerequisite: ????? / Title (?????????)
+
+Samurai has special requirements. One is to get the title ?????????, which you receive when you complete all of Coop Extra stage 3. Second is ?????, which is an item that mainly drops in Extra mode of coop, but can drop outside of it at a much lower rate.
+
+
+Abilities
+Finishing Touch: Consecutive attack rate is increased depending on the amount of ougi gauge. * Lasts until 200% ougi gauge is filled or character is hit.
+Meditation (lvl 5) (EX): Increases own attack. Rare chance to deal increased damage when attacking against a weak point. Consumes 30% ougi gauge.
+???? (lvl 15) (EX): Increases own defense. Katana - Chance to dodge attacks. Decreases own attack. Bow - Increases own attack, decreases consecutive attacks, and decreases ougi gauge by 35%. 
+
+Support abilities: 
+Bushido: Increases maximum ougi gauge.
+Without reserve: Increases effectiveness of ????.
+
+Master Bonus: 
+Attack +5%
+
+
+
+
+
+CHARACTERS
+SSR Playable Characters list was done by kingneet in the beginning, you can access it here gbf-english.proboards.com/thread/52/playable-characters-ssr. I am continuing the list in another thread since that list is not updated anymore, it is accessible here gbf-english.proboards.com/thread/245/playable-characters-ssr-2. I started on the SR character list here gbf-english.proboards.com/thread/262/playable-characters-sr
+
+
+
+
+MORE TRANSLATIONS
+-- in progress --
+
+SETTINGS
+Play around with different settings if you are running into lag problems. Turning off real time notices in raids can help a bit as well as turning down quality.
+
+
+
+
+
+
+
+STORAGE
+Storage is purchasable in the shop for 500 crystals or 500 mobacoins. Occasionally it goes on sale for moba. You can have up to 3 storages for weapons and 3 for summons. Each storage can hold up to 100 items. These are great to store fodder or items you aren't using now. You can definitely get by without them though, it is just a bit more of a hassle. You pay for convenience and honestly 500 crystals usually get you a rare in gacha anyways. A worthy investment indeed.
+
+Moving stuff into storage
+
+In order to move stuff into the storage you need to access the menu and then go to list. At the bottom of the list you will see this box. Sell allows you to get some rupee for your weapons, but isn't worth it. You want to click on move to storage in order to move stuff from your main box.
+
+
+
+When you click on move to storage you will get this pop up in order to choose which storage you want to move your items to.
+
+Managing storage
+
+If you want to manage your storage, you can access storage from the menu at anytime by clicking on the top right menu button. When you go to storage you can then select which storage you want to manage.
+
+
+Once you go into the actual storage you can choose to move items back into your main inventory, move to other storages, or sell them. By choosing select you can select more than one at a time. If you want to just manage one item, then you can click it directly.
+
+You can change the name of the storage at the bottom.
+
+
+
+
+FREE CRYSTALS AND GACHA TICKETS
+Thanks to tofuman for this tip. Redeem your free gifts in his thread click here.
+Last Edit: Jan 3, 2017 at 9:26am by risend
+risend Avatar
+
+risend
+
+*
+Posts: 192 
+IGN: risend
+
+Water Balloon badge
+Jan 13, 2015 at 3:34pm shuushi, axl4002, and 4 more like this QuotePost Options Post by risend on Jan 13, 2015 at 3:34pm
+II. INTERMEDIATE
+
+WEAPON UPGRADING
+The fun part! Or maybe it's the very grindy part, lol. When I first started, I actually ignored this part and the first dozen or so story chapters were soooo hard. It is pretty easy when you figure out how it works. So let's get started.
+
+Feeding weapons that are the same type gives you a 50% exp boost. The angel and arcangel weapons' only purpose is to feed to your weapons, so don't feel bad about using them. Using normal and rare weapons as fodder is fine. SR/SSR weapons should only be used as skill fodder and that is only if you don't plan to use them.
+
+ Angel weapons (100 base exp.)
+
+ Arcangel weapon fodder (500 base exp). 
+
+Exp needed for max lb weapons
+R Weapons: 12390 (lvl 50)
+SR Weapons: 35890 (lvl 75)
+SSR Weapons: 71890 (lvl 100)
+
+PASSIVE WEAPON SKILLS
+Currently, most skills fall under attack passive (??), hp passive (??), a sort of crit skill (??), less hp you have more dmg you do (??), counter dmg (??), and double attack rate up (??). They also have varying effectiveness as follows at lvl 1:
+
+Small (?) - 1%
+Medium (?) - 3 %
+Large (?) - 6%
+
+*Each skill level after lvl 1 is an additional 1% regardless of weapon rarity. So maxed out R is 10%, SR 12%, and SSR 15%.
+
+?? has just been reworked. The rework has drastically lowered its' damage output at 100-25% HP. It is only really good at 10-1% HP, which is pretty dangerous to be playing with. The damage % for each HP is as follows:
+
+ HP          DMG
+100%         0%
+90%           1%
+75%           3%
+50%          10%
+25%          18%
+10%          25%
+1%            29%
+
+What to skill up
+Try to only skill up weapons you plan to use in the long road, because skilling up weapons eat up a lot of resources. I would just recommend to get several weapons to 8-10% in the beginning. Then if you plan to use it as part of your end game pool, upgrade it further. Magna weapons are usually a good choice to skill up, especially the attack passive ones. Skilling up SR magna weapons aren't a bad idea since they are easy to obtain, max lb, and work fine even without fully max magna summons.
+
+It is not uncommon to see people with 8 or so SR magna weapons and a couple SSR magna weapons with magna summon. It does a lot of damage. Ideally you would replace them all with SSR magna versions and have some other SSR weapons mixed in later down the road. 
+
+LEVELING UP SKILLS
+Weapon skills' success chance is based off of a point system. Everything is worth a certain # of points when you feed it. Only weapons with skills can be used to level up another weapon's skill. I don't recommend gambling with anything less than 100%. It sucks pretty badly to fail with 90+%.
+
+Points you need to skill level a weapon
+R Weapons: Skill level x 1
+SR Weapons: Skill level x 4
+SSR Weapons: Skill level x 8
+
+Points per skill level a weapon is worth when using it as fodder
+R Weapons: 1 pt
+SR Weapon: 4 pts
+SSR Weapons: 40 pts
+
+Other items you can use as skill fodder
+ Small Devil Element (??????????): 2 pts (events and in casino 20k ea)
+ Devil Element (????????): 4.8 pts (events and in casino 100k ea)
+
+Example
+A SSR Weapon at skill level 5 needs 40 pts (5 x 8). You just need to feed 40 pts worth of weapons. How you get to there doesn't matter. You can use 1 SSR Weapon at skill level 1, 10 SR Weapons at skill lvl 1, or 20 small devil 
+
+***Special Note when skilling up SSR weapons
+SSR Weapons skill lvl 7+ requires a lot of pts. You can save some skill fodder by feeding 2 SR skill lvl 1 weapons to a SSR weapon fodder to make it skill lvl 2. This will make the SSR fodder 80 pts (40 x lvl 2 skill) and you can feed it to your SSR Weapon skill lvl 7+. Since SSR Weapon skill lvl 7 requires 56 pts, and you spend only 48 pts to lvl it (1 SSR and 2 SR) you end up saving 8 pts. More savings the higher the weapon skill lvl you are upgrading is. Credit goes to my guildie Cypher for pointing it out to me.
+
+LIMIT BREAKING WEAPONS
+In order to limit break a weapon, you need a copy of that weapon or in the case of R/SR weapons a special lb item. Make sure you are in the correct page before limit breaking ^^
+
+ R lb item (casino 30k)
+
+ SR lb item (casino 500k and drops in hell mode rarely)
+
+Menu translations:
+
+Enhance main page
+1. ENHANCE - From this page you can level up your characters and weapons by feeding them weapons. Summons can only be fed with other summons.
+2. LIMIT BREAK - For limit breaking your stuff.
+3. STARS - The number of stars indicate how many times it has been limit broken.
+4. RECOMMENDED - Will auto pick normal items by default.
+5. SETTINGS - You can change the recommended settings so that it auto picks rares as well or higher.
+6. CONFIRM after selecting up to 20 items to feed.
+
+
+Sort by choices
+
+
+Confirm enhance page
+1. EXP - Amount of exp items are worth.
+2. SKILL CHANCE - Anything lower than 100% is a gamble, so be careful.
+3. GREAT SUCCESS RATE - Exp will be doubled if successful.
+4. BONUS EXP - This is from the enhance bar for that particular element. The higher your enhance level, the more bonus exp. Goes up to rank 50.
+
+
+
+Limit break page
+
+
+After limit breaking page
+
+
+
+
+
+SUMMONS
+Summon leader skills are very important for your team. A good summon can make up for a bad weapon pool. In the beginning, try to get the event summons. All you need is one, you can worry about max lb (limit break until full 3 stars) later when you are stronger. In order to max lb summons, you need another copy of it or special lb summon items. The SSR lb summon item is only available from getting 5 pts during Guild Wars. It is very hard to do and should be saved for really good gacha summons like bahamut and lucifer.
+
+SR and R lb summon items are available in casino for 1m and 30k medals, respectively.
+
+ SSR Summon lb item (Guild Wars)
+
+ SR Summon lb item (1m medals)
+
+ R Summon lb item (30k medals)
+
+At max lb, on top of increased stats the summon's leader skills are improved. Summon stats are added to your characters so it is important to level them up as much as you can. All you really need is one summon per element, the 40-50% ATK UP event ones are pretty good and will last you a long time. The ATK and HP summons aren't too bad either when you need to survive tougher bosses.
+
+Picking your sub summons
+The total summons' stats in your party are added to your own stats. Because of this, some summons are used only as a stats stick. Only the main summon's leader skill is active so you don't need to worry about your subs' leader skills. The subs' active skills are only important for battles that last long enough to actually use them. Most summons cooldown are about 8-9 turns. A lot of battles don't even last that long.
+
+For longer battles, examples of useful active skills would be attack down (tiamat magna), defense down (colossus magna), elemental resistances (carbuncles), elemental up (gw summons, carbuncles), delays (dark angel), attack up (ifrit, apollo, etc), defense up (sajitarius), etc. There are many more, but those are the most useful that come to mind. Chevalier magna notably has the only summon dispel skill, which comes in very handy on many bosses. 
+
+Summon cooldowns
+Summons whose element matches your main weapon gets a decrease in their initial cooldown depending on your main weapon's rarity. This makes it so that it is ideal to set up your summons to match with the element you are using. But this is very difficult at the moment. Will most likely change as they continue to add more summons in the future.
+
+SSR: -3 turns
+SR: -2 turns
+R: -1 turn
+
+For full list of summons details go to jp wiki summons list. Google translate is your friend.
+
+SUMMONS REVIEW
+As is the case with SSR weapons pulled from gacha, SSR Summons from the gacha are very hard to max lb, unless you get super lucky and 3 extra copies roll into your lap or you win guild wars easily. This makes certain summons not as good as they can be since you can't evolve them from farming.
+
+Summon SSR tier list - Gacha only summons
+Tier 1: Bahamut, Lucifer, Grande, Hades, Zeus, Agnis (can't exchange for these)
+Tier 2: Grani 4*, Odin 4*, Athena 4*, Marquise 4*, Apollo 4*, Medusa 4*
+Tier 3: Cybele, everything else 3*
+Tier 4: Everything else 0-2*
+
+Bahamut and Lucifer are great even at 0* being 100% ATK and 120% at max lb. You can use them to tackle any event since they do not have any weakness. And with a bahamut/lucifer friend you can unleash massive damage from the beginning even with a weak weapon pool. Lucifer is a bit easier to build a team around since SSR light weapons are easier to obtain from guild wars. They also currently have a bigger character pool.
+
+Grani is great during assault time, can unleash a massive amount of damage on turn 1. Odin's passive of 50% attack to light/dark is great as well as his ability (defense down, successful very often) which makes him useful as a sub. Athena, Marquise, Medusa, and Apollo is 80% at max lb, what is there not to like about those. 
+
+Everything else at 3* is only 60%, which is just a little better than the event farmable summons. Cybele is unique in that it gives regen to earth characters, but as you get further end game you will find it is better to nuke bosses down rather than slowly wither them or outlast them. 
+
+The reason for everything else below 3* thrown into the bottom tier is that you can farm summons from the game that are equivalent, better, or a lot better with the correct setup (magnas). This doesn't mean they are bad, they have their uses, but I wouldn't roll for them.
+
+Farmable SSR summons
+The magnas: Tiamat, Leviathan, Colossus, Yggdrasil, Chevalier, Celeste
+Event summons: 50% ATK to elements, 25% HP/25% ATK to elements, 40% ATK/40% ATK dual elements, etc
+Notable summons: Ranko (Brynhildr) - crits when using a strong element against a weak one
+Other farmables: Anat (80% ATK to wind at 3*, farmable in casino)
+
+The magnas are the best farmable summons in the game and their damage is right up there at the top. But they are really hard to farm for due to low drop rate and high cost to open (50 AP + 3 gold animas) so it will take some time. These are pretty much your goal end-game. 
+
+Event summons can only be farmed when they come around. Since their schedule is random, it takes some time before you can grab every summon. Everyone should try to get one of each of the 40-50% ATK to element variety maxed. These are pretty much the main staple of your summons, unless you have better versions of it then you can skip these. The HP/ATK variety is ok, useful for when you need more survivability for tough bosses with high ougi damage. If you lack a 50% atk element summon, you can use their element equivalent HP/ATK variety in its place fine.
+
+Almost forgot Ranko! Has good stats, very high attack for a farmable summon (1750 ATK). She makes for an excellent sub as well as main. Plus, she is super cute!  
+
+Anat is a really good summon with good stats, active skill, and leader skill. It takes some time to farm from the casino, but is worth it if you have the time to spare. When you get her, you are pretty much set in terms of wind summons. (784 HP, 1940 ATK)
+
+Useful SR Summons
+
+Carbuncles
+
+
+SR summons aren't all bad, most are only because there are much better that is farmable, but some have very good uses. The elemental carbuncles are very useful as subs in order to survive high damage bosses or amplify your own damage. They give damage resistance to their element and boost in damage for their element. At 3* they give 50% element increase in damage as well as 50% resistance against damage. When they are not 3* they are only 25% so half as effective. Most of them are only obtainable through the legend gacha though. The wind carbuncle is given free as a reward for doing the panel missions and you can farm for 2 of them in the casino for 150k medals each. 
+
+For light and dark, you can farm for SR chevalier and SR celeste for extra resistance to their element from their HARD raid. They are great if you have a hard time with a light or dark boss. I used them in the beginning.
+
+White rabbit
+
+
+Other notable SR summon is the white rabbit. At max lb it gives 15% more drops and experience when used as a leader. Great for farming and useful to bring to raids where you don't expect to win mvp so it doesn't matter if you do no damage. It is particularly useful for coop/anima/mats farming. 
+
+It is farmable in the Erun Only quest on Chapter 29/42. With the new update the carrots/rabbit drop much easier. Rabbit is now considered a Rare encounter so the mushroom girl summon below will increase your chances of it appearing. If you use two mushroom girl summons the rabbit is pretty much guaranteed to appear. If the rabbit drops a silver chest then you got a carrot and if it drops a gold chest then you got the rabbit itself. You can trade for the rabbit with 8 carrots in the shop.
+
+It takes about 20-40 pots or so to farm rabbit now. More if you don't have the mushroom girl. Less if you get lucky.
+
+Mushroom girl (not rly a mushroom, but close enough)
+
+
+Increases chance of rare encounter appearing. Useful for farming rare weapons for upgrading weapon shop (need it for GW Character) and farming rabbit. Usually not too hard to farm.
+
+
+
+
+FRIENDS
+Your friend's list limit increases as you level, but it caps out at 50. So it is important to pay attention to your friend list. Prune out friends you don't use often or are inactive and find people with summons that are useful for you. That way you always have useful summons for whatever events come around. The new summon system makes it much easier now since you can pretty much see what summons they have for each element. As long as your summons are somewhat useful to them, I find people will generally add you as a friend if you ask them nicely. And even if you have nothing, you can try. Doesn't hurt and sometimes higher rank people don't mind helping new people out. 
+
+I usually type something like ????????????????on their profile page after I send a friend request. Works for me, give it a whirl! Sometimes people are full and don't want to delete their friends so they will say no. The forums also has a thread for finding friends gbf-english.proboards.com/thread/42/friends
+
+JP wiki has a friends board too at jp wiki friends recruit thread. Just use google translate, you can pretty much figure out what they are looking for. 
+
+You can also find friends using the in-game system. You can search by rank, id, or use the recommended list. 
+
+Friends page in menu
+
+
+Friends search page
+
+
+
+
+
+RAIDS
+Raids is multiplayer and can go up to 30 people in one raid. Of course if you are strong enough you can choose to not invite anyone so you can solo it. There is no extra rewards for soloing besides having all the points to yourself. Useful during events when your goal is to accumulate a lot of points. General proper etiquette in raids is to send invite only to your guild and only opening it up to friends/public if you can't finish it or want a quick raid. This gives members of your guild a chance at the loot or to get points.
+
+Raid rewards
+The person who hosts the raid gets 1 red box. And the person who gets MVP gets 1 red box as well. Person who comes in second gets nothing. Red boxes give better chance at better loot. During events HOST and MVP gets extra tickets. Besides MVP your ranking in the raid doesn't determine what loot you will get.
+
+*There are currently pending changes to raid rewards that are due to come out soon in the future. I will update the details with them when they are made official.
+
+Main raid menu
+
+
+Request for help pop up
+
+
+Raid menu
+
+
+Finding raids (tweetdeck)
+Easiest way to find a specific raid is to search for it using tweetdeck. You can get to it by going to tweetdeck.twitter.com/. All you have to do is to add a column to search for a specific raid. You need to use the Japanese names as most of the raids are from japan. Generally you will add the lvl of the raid that you are looking for with the name in order to filter between normal and high level ones. 
+
+For example if you are looking for levi raids you would search for: 
+Lv60 ???????·??? 
+
+And if you wanted the HL version then you would search for:
+Lv100 ???????·???
+
+Sample tweetdeck
+
+
+Additionally you can turn on sound/desktop notifications so you don't have to stare at it all the time. I usually just have it on another monitor with sounds enabled for important ones. Very popular raids fill up fast, so move quick.
+
+Note: Occasionally people troll others or try to trick others into their raids by posting wrong raid info. You can tell if its legit or not based on where the tweet is posted from. It should say from ?????? ??????. Which basically says it comes from GBF.
+
+Magnas (Omegas)
+?????·??? (Colossus Magna) Lv 70/100
+??????·??? (Yggdrasil Magna) Lv 60/100
+???????·??? (Leviathan Magna) Lv 60/100
+?????·??? (Tiamat Magna) Lv 50/100
+??????·??? (Chevalier (Lumineire) Magna) Lv 75/100
+????·??? (Celeste Magna) Lv 75/100
+
+Primals (Lv 100/120)
+???=??? (Flame Glass)
+????? (Medusa)
+???? (Apollo)
+??? (Nezha)
+????·???? (Macula Marius)
+D?????·????? (Dark Angel Olivia)
+
+Other important raids
+??????? (Rose Queen HL) Lv 110
+?·????·???? (THE Order grande) Lv 100
+???????? (Proto Bahamut) Lv 100/150
+
+Celestial beasts (Lv 100)
+?? (Ouryou)
+??? (Dark Kirin)
+
+Getting help from twitter
+If you are playing using the english version, make sure to add the japanese name of the raid with its level to the twitter message so japanese players can find it. The reason you have to do this is because your twitter request help defaults to english.
+
+Sometimes it is useful to request for a particular class when asking for help. This is more important in HL raids when you need something specific to fill a role.
+
+Popular classes to request for:
+??? (Bishop)???? (Sage)
+??? (Holy Saber)????? (Sparta)
+??? (Superstar)
+???? (Dark Fencer)
+??? (Hawkeye)
+
+Common ex skills to request for:
+?? (Blind)
+??? (Arrow Rain III)
+??? (Clear)
+???? (Charm)
+??? (Break Keep - Hawkeye ex skill)
+???? (Dual Impulse III)
+
+Just combine the two in your twitter message. For example, if you wanted Dark Fencer with blind and Sage with clear:
+????(??), ???(???)
+
+
+
+
+BUFFS / DEBUFFS
+Common buffs and debuffs icons. Several skills share the same icons so to be sure which one you are dealing with always click on the icon in game in order to bring up more details. I am just going to list the common ones to serve as a basic guide. Some of them stack too so it will only display one icon, but when you click on them you will see several listed.
+
+ ATK UP. Chevalier Magna casts this.
+ Defense up or dodge. COOP H6-5 casts the dodge variety, and it is annoying lol.
+ Double or triple attack rate up. Chevalier Magna casts this.
+ HP regen. Heals for X per turn. Examples: Chevalier Magna, Colossus Magna, COOP EX1-1, H8-4
+ Seal Ougi. Can't use ougi. Examples: Yggdrasil Magna.
+ ATK DOWN. Pinya.
+ Curse. Can't heal. Examples: Pinya.
+ Undead. Heals do damage. Examples: Celeste.
+ Burn. Damage over time. Examples: Colossus, COOP H6-3
+ Poison. Damage over time. Examples: Celeste.
+ Blind. Chance to miss with normal attacks. 
+ Overdrive suppression. Slows down ougi accumulation during normal gauge and speeds up rate at which gauge decreases during overdrive state.
+ Treasure Hunt. Increase drop chance. (9 is max)
+ Reflect. Sends back some damage to your face when you attack. Example: Leviathan.
+ Gravity. One more charging dot before ougi.
+ Fire resistance or Fire Attack UP.
+ Water resistance or Water Attack UP.
+ Earth resistance or Earth Attack UP.
+ Wind resistance or Wind Attack UP.
+ Light resistance or Light Attack UP.
+ Dark resistance or Dark Attack UP.
+
+
+
+
+EVENTS
+There are three general types of events in this game. They are conquest, story, and guild wars. The events are sometimes announced ahead of time, but they are usually very close to the actual date of the event (within the week generally). Guild wars is the closest thing to a fixed schedule as it takes place for 5 days at the end of the month. So you can expect that every month. The halloween guild wars was 7 days though. 
+
+Conquest events
+These events are solo and only cost ap. The stages are available in varying stages of difficulty. The higher the difficulty, the better the loot and quantity. The stages drop items that can be exchanged for weapons, summons, jp, and ap pots. The amount of weapons and summons you can exchange are limited so you will have to farm the rest from the bosses if you want to max lb something. The SSRs can drop from Very Hard, Extreme, and Hell. 
+
+Finally sometimes there are free character(s) that you can get by doing some tasks or having them in your party until they fill up their blue bar. When it is full, you get to keep the character. If you do not fill it up by the end of the event, you end up losing the character.
+
+*Also remember to exchange for the ap pots everyday since they refresh!
+
+Examples of conquest events: Diablos
+
+Story events
+As the name implies you get maybe 6-8 chapters of stories at the beginning of the event. The first time you do them they cost no ap. Sometimes the story event is split up so you only get half of it in the beginning. This event usually consists of collecting medals, tickets, and points. You get rewards for reaching a certain number of medals or points. 300 medals and 3m points is usually the max to redeem everything. The tickets can be used in the event gacha. These events are great to get fodder to feed to your weapons/summons.
+
+The story events come with a raid component so you can open it up to public/friends/guilds if you have a hard time completing them yourself. You need to hunt for materials before you can open the raid. This event also sometimes comes with free character(s).
+
+*Make sure you use all your mats and tickets because they turn into rupee after a certain time.
+
+Examples of story events: A Drop of the Desert's Tears
+
+Guild Wars
+The most fun event.... said no one ever, lol... I'm just kidding, it is not that bad. It can be very competitive so it puts a lot of pressure on people. The rewards are really good that is why, not to mention people hate losing. It is similar to story events, in that it also has an event gacha, medals, and point collecting. No free characters though sadly.
+
+First thing you have to do is make it into prelims. The points needed to get in have been steadily increasing. Latest GW prelim took 360+ m to get in, but it was a weekend so points tend to be higher. 
+
+Once you make it into prelims, you have to pray for good matchmaking RNG. Sometimes the matchmaking is very bad and you get placed against people you have no chance against. Don't sweat it and just focus on gathering mats to open raids for next match. Who ever gets the most points by the end of the day wins! The event usually takes place from 7am JST to 12am JST. That is a total of 17 hours. Matchmaking tends to compensate if you get rekted by a guild, they will give you an easier opponent next day usually. But if you rekt someone, they tend to give you harder opponents as well. 
+
+Main objective is to get 275 medals for a SSR lb summon stone. Pretty much the only reliable way to lb your gacha summons outside of getting dupes. You get 25 medals for making it into prelims, 5 for participating, 5 for reaching x points, 50 for winning a battle, and 15 for losing. You need to make minimum contribution points in order to collect so even if you are busy make sure you do the minimum.
+
+*If you are in the top 3000 in ranking by the end of the guild wars, you get 25 extra medals. Top 3000 is hard and takes about more than 380m or so. 
+
+Other objectives:
+Get tickets to roll for GW weapons. They are decent for building a light pool and you can also change their element to use for other weapon pools. Most popular and useful ones for changing elements are Daggers and Harps because of their ougi effects when awakened. Daggers get 30% to consecutive attack rate and harps heal around 2k.
+
+You can also aim for the GW weapon you need for the GW char you are aiming for. Popular chars to aim for are song with bow, six with fist, siete with sword, and sarasa with axe. 
+
+Examples of guild wars: 8th Guild War
+
+
+
+
+CASINO
+Accessible on "My Page" after chapter 8 in story line
+
+
+Poker can be very tedious, but the max bet limit has been raised to 1k so it is much easier to earn chips compared to before. Just work your way up until you can play at the higher max bet tables. At a bare minimum you need to grind enough for the AP pots and BP pills. So just need 25k medals per day. It shouldn't take too long. Koon has a poker guide (gbf-english.proboards.com/thread/176/casino-guide). 
+
+I recommend avoiding the slots, that thing will just eat all your hard earned medals. It is a total trap unless you get super lucky. Same thing with 1 Card double up poker, super RNG, you need to basically win the lottery. On the other hand poker with 2 cards double up can net you a steady income of chips, more depending on your luck and playstyle. Bingo is also a decent alternative when you get bored of poker. It also has a sweet super bingo that can help you retire from casino at 77,777,777 chips.
+
+
+2.56m highest u can win in 1 game
+
+Poker
+My tips for poker
+1. Adhere to strict rules and not to deviate too much else you start to get annoyed when you get bad beats. (For example, if you get a 7 always bet high for instance else you will get frustrated changing how you play all the time)
+2. Always play in such a way that sets you up to win. Which basically means even if you get a really bad hand and you got only one out, play in such a way that if that out does come you will win rather than just throwing the whole hand away. A lot of times the cards you need won't come out, but it does occasionally and little thing adds up. 
+3. Most of your winnings will come from double up. So in general it doesn't really matter if you get royal flush or two pairs. 2 cards double up is capped, once you hit pass 50k it ends.
+4. 70% of your hands will be nothing. Completely normal so don't worry about it too much. *
+5. 11% of the time you will get two pairs and 13% of the time it will be 3 of a kind. So hold the pairs, always! *
+6. Try to play aggressively in double up, I try to go to 6+ rounds usually. Experiment!
+
+If you are up for the grind, anat is a really good summon to have maxed. Good stats and 80% wind is strong! Christina is crazy level grind, but the guns are worth it if you need the fragments. Character wise, she is ok-ish. Good luck if you are going for that!
+
+*Poker statistics courtesy of www.winnergambling.com/casino-games/video-poker/joker-poker-joker-wild/. Joker poker, joker wild 2 pairs or better is the variation we have in casino.
+
+Bingo
+I recommend starting at whatever table you are comfortable betting max at. 100k chips in hand playing at the smallest table betting at 1k max will eventually get you enough so you can move to the next table. 200-300k is good enough for the middle tables. Once you get around 2-3m you can move to the biggest table. You can even try the biggest table earlier since you might hit a lucky streak. 
+
+The goal at the 20 person table is to slowly gain chips and I emphasize it can be very slow as you go on losing streaks. Don't lose heart! Eventually if you play long enough you will get super bingo. There are a lot of people who have hit super bingo multiple times. It is just a question of dedication and a bit of luck. HRT released statistics saying 653 super bingos are won everyday, one of them can be yours!
+
+Never bet below max. One of the worst feeling is hitting bingo after changing your bets to something lower. It is better to play at a smaller table if you don't have enough chips for max. Also you always want to be aiming for super bingo no matter the table size. 
+
+Slots
+Don't do it. Play it for fun, but chances of winning is rigged against you hard. You will generally lose more than you gain over the long run with this.
+
+
+
+
+COOP (??????)
+Best way to earn rp, exp, rupee, and ap pots. Especially when the room is fully buffed you can earn 100k+ rp, exp and rupee per hour! There are also daily missions that you can do to earn mission points, which you can redeem for some decent loot. Once you redeem all the rewards, they will reset.
+
+Just be aware that coop rooms fill up instantly. 90% of the time by the time you have clicked on enter it is already full. Keep at it or host your own room. In order to save pots you can take turns with other people to host room. 
+
+You can sell pretty much all the coop items that are sellable in shop. Pinwheels are probably the only ones you would keep in order to make drop buffs for coop room. But, you don't need that much on hand since 1 pinwheel + some other items that you can't sell makes 5 drop buff items and you just need 9 for a 1 hr room. 
+
+Having some gold disks for ougi buff is useful too. But again you don't need that much so don't worry about selling them.
+
+If you are preparing for class weapons for tier 4 classes, the first step in making class weapons involve making replicas and these require 30 coop items. Which item it is depends on what weapon you are making so you got to do some research. For example, oliver requires 30 pin wheels and nirvana requires 15 pin wheels + 15 searing stones. So you will want to save some of these for later. ^^
+
+
+
+Coop sell menu. Go to Menu > Shop > Trade Treasure > Sell Treasure 
+
+
+Coop main menu
+
+
+Create coop room
+
+
+Coop room
+
+
+Items tab
+
+
+Some common keywords for room titles and translations so you know what you are joining and what they expect out of you.
+
+???? - Daily quests
+???? - Normal stages
+N1-6 H2-1 2??? - Normal stage 1-6 and Hard stage 2-1, 2 times each stage
+4? - 4 battles
+h3?? - Starts from Hard stage 3 until whenever they feel like stopping
+????? or ???? - Extra stages 
+??? - Host will host stuff ^^
+??? - Take turns hosting in order of when you enter the room
+
+
+Last Edit: Nov 28, 2016 at 7:01pm by risend
+risend Avatar
+
+risend
+
+*
+Posts: 192 
+IGN: risend
+
+Water Balloon badge
+Jan 13, 2015 at 3:35pm vernify, Eshy, and 2 more like this QuotePost Options Post by risend on Jan 13, 2015 at 3:35pm
+III. END GAME
+
+MAGNAS (OMEGAS)
+Magna weapons and summons are pretty much end-game setup. A lot of the crazy videos of people doing massive damage floating around uses magna weapons/summon. Even if you can't do any damage at all, it is worth joining these raids in order to get loot. All you have to do is attack it in order to get credit for loot. It doesn't matter if you did 5 million or 100 damage, same chance of loot. Unless you mvp or host, in those cases you get a red box. Red boxes have a higher chance of better loot.
+
+I recommend just focusing on 1-2 elements in order to build up a good pool of weapons and finish maxing out a summon. You need max lb summon to get the most out of the magna weapons. It can take anywhere from 100-200 runs on average before you get a 3* summon depending on your luck.
+
+The magna summon gives 100% more effectiveness out of your magna weapons with the same prefix. And only 50% at less than 3 stars summon. Basically the magna summon boosts weapons it drops, which includes the SR weapons. They don't boost other element's magna weapons.
+
+Each magna drops 3 types of SSR weapons and their summon. The Attack passive ones are the most important, having one or two 3* hp weapons is a good idea as well. In the beginning it is really hard to 3* the SSR weapons. So it is not a bad idea to just leave them at 1* and collect a few. It will give you more damage to have 2 1* skilled up weapons than 1 3* skilled up weapon. 
+
+Notes on SSR drop rate
+From personal experience, drop rate is about 5-10% depending on your luck and how many red boxes you get. This is based on about 600 magnas I kept track of, then I got lazy and found it was easier to just grind through as many as I can. Like most things in this game, magna drop rate is incredibly streaky so don't lose hope if you go 40+ magnas without anything. It usually balances out in the long run. I have had a few runs where 2 SSR drop in same magna. Just keep grinding!
+
+TIAMAT MAGNA (?????·???)
+
+
+SSR WEAPON DROPS:
+Gloves - 224 HP / 2130 ATK - Attack passive
+Axe - 172 HP / 2390 ATK - HP passive
+Spear - 233 HP / 2085 ATK - HP passive
+
+ABILITIES
+Back Draft (???????): Wind/Fire AOE damage. Seals your ability and defense down.
+Tornado Disaster (???????????): Does AOE damage. Decreases your ougi gauge by 5%.
+
+Overdrive ougi skill
+Tempest Storm (????????): 4 attacks.
+
+BASIC STRATEGY
+Recommended sub summon: Wind carbuncle for ougi
+
+This magna is one of the easier ones. If you can't tank the ougi, you can just wait until someone breaks it. A small party can easily nuke it to death.
+
+YGGDRASIL MAGNA (??????·???)
+
+
+SSR WEAPON DROPS:
+Sword - 196 HP / 2270 ATK - Attack passive
+Bow - 208 HP / 2260 ATK - Less HP you have, the more DMG you do
+Dagger - 218 HP / 2160 ATK - HP passive
+
+ABILITIES
+(???????): Earth/Fire AOE damage. Casts attack down.
+Axis Mundi (????·????): Does AOE damage. Seals your abilities. Defense down.
+
+Overdrive ougi skill
+Luminox (?????????): Does AOE damage. Seals your ougi. Heals 200k hp.
+
+BASIC STRATEGY
+Recommended sub summon: Earth carbuncle for ougi
+
+This magna is one of the easier ones as well. If you can't tank the ougi, you can just wait until someone breaks it. If you have Gawain, then you can pretty much laugh at ygg's ougi. ^^ You could also use holy saber instead if you don't have gawain. Usually I just nuke the boss with sidewinder. 
+
+LEVIATHAN MAGNA (???????·???)
+
+
+SSR WEAPON DROPS:
+Dagger - 219 HP / 2155 ATK - Attack passive
+Bow - 209 HP / 2255 ATK - HP passive
+Staff - 262 HP / 1940 ATK - Increases healing upper limit
+
+ABILITIES
+Water Wedge (???): Does AOE damage. About 3-4k
+Tidal Wave (???????????): Attacks twice, very high damage. About 12k+ each attack
+
+Overdrive ougi skill
+Reflecting Water (??): Does AOE damage. Casts reflect. About 3k
+
+BASIC STRATEGY
+Recommended EX: Bishop skill - Dispel (?????)
+Recommended party members: Yuri/Boremia or any character with a taunt skill to tank tidal wave.
+
+The trickiest part to this boss is the tidal wave and reflect. Which one you get when it is in overdrive state is random. You need to cast dispel right after if it casts reflect or someone in the raid is going to lose their party. Usually in pub raid someone just face tanks the reflect, lol. Very bad if it is guildies only though. Just wait patiently for someone to break or give a heads up that you are going to eat ougi.
+
+COLOSSUS MAGNA (?????·???)
+
+
+SSR WEAPON DROPS:
+Staff - 258 HP / 1960 ATK - Attack passive
+Gun - 160 HP / 2450 ATK - HP passive
+Gauntlet - 223 HP / 2135 ATK - Rarely counters. Higher skill lvl increases counter damage
+
+ABILITIES
+Shelter (?????): Does AOE Damage. Casts water resist up, defense up, 20,000 hp regen per turn, and attack down on itself.
+Prominence Reactor (???????????): Does AOE Damage. Casts burn on you. Attack down and defense down on itself.
+
+Dimension (??): Single target, very high damage attack. *Casts during ougi when low hp and at 30% HP, 20% HP, 10% HP, and 5% HP.
+
+BASIC STRATEGY
+Recommended sub summon: Fire Carbuncle, helps survive Dimension skill when combined with a damage reduction skill like charlotte's second skill.
+
+At the first ougi he casts shelter, which pretty much kills your damage and even worst if you have a water team. He removes the buffs himself later with his other skill. Colossus hits pretty hard and when it gets low on HP it can pretty much wipe out your party. Dispel isn't a bad a idea to have for him to clear his buffs. Blind is also nice to keep you alive longer. If you don't have anything to reduce the damage of his Dimension skill, your party pretty much just dies one by one near the end. This is fine though, you can just zerg it with public help.
+
+CHEVALIER MAGNA (??????·???)
+
+
+SSR WEAPON DROPS:
+Harp - 218 HP / 2005 ATK - Light attack passive / Fire HP passive
+Gun - 162 HP / 2440 ATK - Light attack passive / Earth HP passive
+Axe - 173 HP / 2385 ATK - Light hp passive / Water attack passive
+
+ABILITIES
+Aegis Merge (???????): All elemental resistance up, defense up, debuff resistance up, regen 65,535 HP per turn. *Casts after the very first auto attack after you join raid and as an ougi until it is below 30% hp. Below 30% hp it will cast Sword of light as an ougi. 
+Sacrifice (???????): Depending on # of debuffs it has, its attack power will go up. Defense down, double attack rate up, and ATK up.
+
+When below 50% HP, it will cast:
+Sword of Light (???): 5 attacks. Clears your buffs.
+
+BASIC STRATEGY
+Recommended EX: Bishop skill - Dispel (?????) 
+Recommended sub summon: Light Carbuncle, helps Sword of Light.
+
+Ahhh, I hate this boss sometimes. Pub raids are really difficult to coordinate. On the other hand a small organized party can take it down easy. On your first auto attack it will cast Aegis Merge making it pretty much invulnerable. You need to dispel it and then auto attack again to get rid of it. The key is to wait until everyone in your raid has attacked it at least once so you can dispel, attack, and then begin debuffing/attacking. If someone triggers Aegis either by triggering ougi or doing their very first auto attack, it will clear all debuffs. Then you have to dispel again or wait until someone else dispels it. 
+
+Before the 50% HP mark, it is helpful to cast any damage reduction skills/summons you have in order to survive the Sword of Light. If you have low hp, it can pretty much wipe you. It is useful to have a holy saber in your raid for this moment. Light carbuncle is a decent substitute if enough attack down debuffs are on the boss. Once the boss is broken, it can be pretty much zerged to death.
+
+*If you feel safe because someone else has dispel and you have one too, you can cast dispel and the boss will spend next turn rebuffing. It basically gives you one free turn without any damage. 
+
+GAMEPLAY
+Me playing dark fencer with some guildies. A pretty typical run. I was using Arrow Rain for EX since it helps with mitigating the damage. Koon was playing holy saber so Sword of Light wasn't a problem. Slight hiccup when a guildied joined and triggered Aegis, but someone dispelled soon enough. Slight pause when I reached full turn gauge waiting for other raid members to reach full so we could trigger boss ougi together. But they brought it down close enough to just break.
+
+
+
+CELESTE MAGNA (????·???)
+
+
+SSR WEAPON DROPS:
+Harp - 214 HP / 2025 ATK - Dark HP passive / Fire when you attack wind, increased chance of doing more damage
+Spear - 230 HP / 2100 ATK - Dark attack passive / Wind the less HP you have, the more damage you do
+Axe - 168 HP / 2405 ATK - Dark attack passive / Water rarely counters. Higher skill lvl increases counter damage
+
+ABILITIES
+Fog of Uncertainty (????): Clears your buffs, casts undead and a dot on you. 
+Fog of Abyss (????): Clears your buffs, casts undead 1 or 2 and resistance to dark damage up on you.
+
+*Undead status (grey head) makes it so that heals do damage to you so be careful.
+
+When below 50% HP and 25% HP, it will cast:
+Void All (????·???): Fully heals all party members, which is death if you have undead debuff on. But if you remove or don't have undead debuff, you will be fully healed. Also casts Light resist UP, which will be 50% light damage reduction.
+
+BASIC STRATEGY
+Recommended EX: Cleric skill - Clear All (??????) 
+Recommended sub summon: Dark Carbuncle, helps tank ougi
+
+Celeste normally just does regular attacks, but will cast its fog skills in order to clear attack/defense buffs you put on. It will prioritize this over everything else, including using its ougi. If you have undead debuff on yourself already, it will cast its 2nd fog skill that gives you dark resistance.  This dark resistance is stackable with ones from characters/summons. You can make use of this to decrease celeste's ougi damage down to about 1k.
+
+If you plan to cast buffs on yourself, be sure to make the most use of it since it will be cleared. At 50% and 25% hp it will cast Void All. Just make sure you save a clear or wait for someone to cast one when you get close to 50% and 25% hp to remove the undead debuff, then let it dip below and attack. Free heals, yay! 
+
+That is pretty much it in a nutshell. YGG Magna earth teams pretty much own celeste btw since light teams don't do so well damage wise after 50% hp when light resist buff goes up. You can dispel it, but someone in raid usually triggers it to rebuff pretty quickly. I usually save the dispel before my ougi to maximize damage and use it when I think everyone has already triggered Void All. Bahamut teams tend to do well too.
+
+GAMEPLAY
+Playing Dark Fencer with Arrow Rain as EX with guildies. Sophia has clear so I didn't need to equip it. Not many people joined so had to pub it near the end. 
+
+
+
+
+
+
+OTHER RAID DUNGEONS
+New multi raid dungeons will be listed here.
+
+PROTO BAHAMUT  (???????)
+
+HP: 240m
+
+ABILITIES
+Ragnarok Field (??????????): Every turn deal a bit of damage. Increases the more people there are in raid. (at 30 ppl, it goes to 50% more)
+
+At 25% HP and 5% HP, it will cast:
+Great Cataclysm (??????): Deals 999999 damage to whole party.
+
+BASIC STRATEGY
+Recommended sub summon: Dark Carbuncle, helps tank Great Cataclysm.
+Recommended party members: Anyone with shields, dark resists, or heals.
+
+Heals are important to stay alive long enough to wear the boss's high health bar down. At 25%/5% you can avoid his ability by casting a couple shields/resists. Resists are better than shields because they last more turns so if you misjudge his HP you still have a couple chances left. Besides that, just be prepared for a long fight with 240m HP, lol.
+
+*If there is enough ninjas you can just stun-lock the boss with light marks. It is pretty funny to see.
+
+HOW TO SUMMON
+You need 1 each of the true animas that drop from their respective magnas in order to summon Bahamut. That and 80 ap. 
+
+
+
+
+
+
+WEAPON UPGRADING/CRAFTING
+At the end game, there are multiple ways to get stronger weapons besides magna such as upgrading guild wars' weapons, class weapons, and bahamut weapons. Because they are end-game, crafting these consumes a lot of resources so choose carefully.
+
+CLASS WEAPONS (????????????????)
+
+
+SR versions of the class weapons drop randomly in Coop Extra stages and can also be traded for in shop. The SSR versions can be upgraded by collecting mats and trading for it in shop. Upon upgrade to SSR versions, the weapons get a new 2nd passive. The passives do not have any skill level. And all the class weapons have an ougi skill that increases ougi gauge.
+
+*A future update will allow you to upgrade it further.
+
+
+
+
+
+Holy Saber - ??????? HP 207 ATK 2385 (sword)
+?????? - Increases effectiveness of Drive Burst. (Increases defense for 3 turns)
+????? - Increases aggro to self.
+
+Alchemist - ????? HP 229 ATK 2276 (dagger)
+?????? - Increases effectiveness of Improve Morale skill. (ougi guage increased by 16%)
+????? - Increases party's contribution pt increase when using abilities
+
+Dark Fencer - ???? HP 224 ATK 2301 (dagger)
+????????? - Increases hit rate.
+????? - Increases damage of Delay skill.
+
+Valkyrie - ?????? HP 246 ATK 2189 (spear)
+???????? - Recover HP when using Lead Drive skill.
+????? - When using Resonance Surge skill, the enemy's maximum charge turn is added?
+
+Weapon Master - ??????? HP 180 ATK 2519 (axe)
+????? - Increases duration of Rage skill for mc only by 1 turn.
+????? - Shortens cooldown of Rage skill.
+
+Hermit - ????? HP 231 ATK 2105 (staff)
+????? - Increases effectivness of Ether Blast. (Deal 4-5x damage to all enemies)
+???? - Increases effectivness of Focus.
+
+Hawkeye - ???? HP 170 ATK 2571 (gun)
+???????? - Increases effectiveness of Treasure Hunt. (Increases the treasure hunt skill by 1 lvl so lvl 3 becomes 4, lvl 2 becomes 3, and lvl 1 becomes 2)
+???? - Increases drop rate.
+
+Ogre - ????? HP 235 ATK 2245 (knuckles)
+??????? - Rare chance to avoid all attacks. When you dodge your ougi gauge will increase. (5%)
+????? - When you counter, you will cast taunt (Cover skill).
+
+Sidewinder - ???????? HP 217 ATK 2388 (bow)
+?????????? - Increases effectiveness of Lightweight. (Increases rate of ougi accumulation for 3 turns)
+????? - Increases debuff success rate.
+
+Superstar - ?????? - HP 232 ATK 2100 (harp)
+???????? - Increases effectiveness of Minstrel Song. (Recovers 400 HP)
+????? - Casts regen on allies when you use Overture. 
+
+Samurai - ???? HP 179 ATK 2543 (katana)
+?????????? - Ougi accumulation increased.
+????? - Decreases amount of ougi consumed when using meditation.
+
+Ninja - ???? HP 175 ATK 2563 (katana)
+????? - A set chance to deal an attack to all enemies.
+????? - Reduces cooldown of all abilities by 1 turn when you dodge. 
+
+
+GUILD WARS (REVENANT) WEAPONS (???)
+
+
+Guild war weapons have a multi-step upgrade system in order to obtain GW characters. Theres a slight stats boost upon awakening the weapon. There is also a change of ougi. Item requirements differ only in the element of some items based on the element of the weapon you are upgrading. For example, a dark gw weapon will require dark mats, while a fire gw weapon will require fire mats. You can refer to the lb item section to find where to get most of the items. The ones not there I tried listing below where to obtain. 
+
+Step 1. Awaken the weapon.
+
+
+Step 2. Change element. First you have to lvl a rusted weapon that corresponds to the weapon you want to upgrade to max cap and then element change it to the one you plan to use for your GW weapon. You have to do this even if you plan to use light element. Afterwards you use the element-changed rusted dagger to change your GW weapon's element. 
+
+
+
+ 
+
+Step 3. Find all 14 rare weapons from rare encounters, 5 mithra anima, and pay 200k rupee in order to upgrade shop. Make sure you use the SR mushroom girl that increases rare encounter appearance rate. It makes a huge difference when hunting. She is farmable in chapter 25 special sr character only quest or you can just use her as a friend summon. ** All of the rare monsters can also be found on their island's R/SR only quests so you can farm for mats + weapons at same time.
+
+wind dagger - chapter 1 ????????? (Mindy runs away) rabbit
+wind spear - chapter 3 ??????? (Dealings With Monsters) harp
+fire axe - chapter 6 sr quest golem
+fire spear - chapter 6 sr quest elemental
+water staff - chapter 9 ?????(Treacherous Waters) mermaid (also in r quest on water island)
+water gun - chapter 10 ?????? (Delicious Coral) crab (also in r quest on water island)
+earth fist - chapter 13 ?????? (Appetizing Smell) mushroom
+earth dagger - chapter 16 ?????????? (Left Behind) rock
+light gun - chapter 17 ???????? (A Parent's Wish) soldier (also in sr quest on water island)
+light fists - chapter 19 ????? (Spring Cleaning) vase (also in sr quest on water island)
+dark spear - chapter 21 ???????? (Apples for the Dead) flower
+dark staff - chapter 23 ??????? (Digging up memories)
+water sword - chapter 1-4 or 4-3
+earth staff - chapter 1-4 or 4-3
+mithra anima - chapter 28
+
+
+*Wind dagger, wind spear, water sword, and earth staff can be obtained in chapter 1 special rare only character quest. Earth staff can also be obtained in event gachas.
+**Water staff and water gun can be obtained in chapter 9 special rare only character quest.
+
+Step 4. Have to upgrade the weapon 6 different times.
+
+
+
+
+ 
+
+
+
+TOTAL AMOUNT OF ITEMS
+
+300 each of these
+
+
+100 each of these
+
+
+80 each of these
+
+
+
+
+
+Awaken GW Weapon
+Light orbs tier2 (orbs)
+Light scrolls tier2 (scrolls) ×50
+Light genes (Whorls) x50
+Light dragon scales x50
+Silver certificates x 50
+Crystals x100
+Flawed Prism x 250
+
+GW upgrade
+Orbs tier1 (orbs) ×950
+Orbs tier2 (fancier looking orbs) ×100
+Scrolls tier1 (books) ×250
+Scrolls tier2 (scrolls) ×150
+Genes (Whorls) ×950
+Dragon scales ×80
+Rainbow crystals ×450
+Silver animas ×100
+All true animas ×3 (Additional true animas of your weapons element ×9)
+All magna items ×20 (Additional magna items of your weapons element ×60) 
+Gold certificates ×30
+Blue crystals ×70
+Hihiirokane ×1 
+Crystals ×2000
+
+Step 5. Get SSR character, yay!
+
+
+WHERE TO OBTAIN ITEMS
+
+The story quests are best farmed during 1/2 ap events that come along every 2-3 months maybe.
+
+
+Chapters 1 to 4. Easiest to farm for in the R only quest in chapter 1. 
+
+
+Chapters 5 to 8. Try chapter 5-4 or chapter 6 SR only quest.
+
+
+Chapters 9 to 12. Easy farm in R only quest in chapter 9.
+
+
+Chapters 13 to 16. Try chapter 13-2, 15-3 or chapter 13 R only quest.
+
+
+Chapters 17 to 20. Try chapter 17-2, 19-1 or chapter 17 SR only quest.
+
+
+Chapters 21 to 24. Try chapter 21-2 and 22-4 during 1/2 ap. Or try "For Whom the Bell Tolls" on chapter 22. 
+
+
+Chapters 29 to 32. Best one is the chapter 44 (65) channel free quest (The Dungeon Diet). During 1/2 ap event can try 32-4. 
+
+
+Chapters 33 to 36. Try chapter 36-3. The chapter 34 80 ap map has the best drops (Antiquarian Troubles). Around 5-7 per run.
+
+GW Weapons Ougi change
+All GW weapons have the same ougi before they are awakened. That being increased ougi gauge (20%).
+
+Spear
+Awakened - All allies get reflect (10%) for 1 skill. (5 turns)
+Max awakened - All allies get reflect (20%) for 1 skill. (5 turns)
+
+Bow
+Awakened - Normal attacks become AOE.
+Max awakened - Normal attacks become AOE (4 turns).
+
+Axe
+Awakened - Def down (30%)
+Max Awakened - Def down (35%)
+
+Dagger
+Awakened - All allies get increased multi rate attack. (3 turns)
+Max Awakened - All allies get increased multi rate attack. (3 turns)
+
+Staff
+Awakened - Heals 2k max and regen 500 max (3 turns)
+Max Awakened - Heals 2k max and regen 600 max. (3 turns)
+
+Fist
+Awakened - Counter 3 times, 1x damage. (2 turns)
+Max Awakened - Counter 3 times, 1.5x damage. (2 turns)
+
+Sword
+Awakened - Damage cut for all 30%
+Max Awakened - Damage cut for all 35%
+
+Katana
+Awakened - Randomly reduce cooldown of 1 skill by 1 turn.
+Max Awakened - Randomly reduce cooldown of 1 skill by 1 turn. Ougi gauge up 30%.
+
+Harp
+Awakened - Heals all for 2k max. Increase debuff success rate.
+Max Awakened - Heals all for 2k max. Increase debuff success rate.
+
+Gun
+Awakened - Increase attack by 20%. Ability multiplier increased by 0.2 (3 turns)
+Max Awakened - Increase attack and ability damage. (3 turns)
+
+
+BAHAMUT WEAPONS (???????)
+
+
+The Bahamut weapons are Race-specific weapons that only work for the particular race that it indicates. You can create these weapons by using the rusted weapons (?????) and crafting the SR bahamut weapons. The rusted weapons can be found from Proto Bahamut (???????) and Angel Halo Dungeons (?????·????). The times for Angel Halo dungeons can be found on twitter.com/granbluefantasy based on which group you are in. You can find which group you are on top right of your profile page. Also the one marked with a star gives extra loot so preferably do only those.
+
+The weapons need to be maxed level first. Once you craft the SR bahamut weapons with a drop from Proto Bahamut you can craft the SSR version. And it needs to be max skilled before you can craft the SSR. The SR bahamut weapons require 40pts per lvl so rank 9 to 10 will cost 360 pts. 
+
+*Also multiple weapons of the same skill will not stack. Only the one with the highest effect will be used.
+
+Weapon passives
+Bahamut Gun - Harbin Attack Up *
+Bahamut Harp - Harbin HP Up
+Bahamut Dagger - Human Attack Up
+Bahamut Knuckles - Human HP Up
+Bahamut Spear - Erun Attack Up
+Bahamut Bow - Erun HP Up
+Bahamut Axe - Doraf Attack Up
+Bahamut Katana - Doraf HP Up
+
+Bahamut Sword - Human and Doraf Attack / HP Up **
+Bahamut Staff - Erun and Harbin Attack / HP Up 
+
+* 30%
+** 15% / 15%
+
+Crafting mats are pretty much the same for different weapons. The only thing that changes is the material you need from magnas. The one where you need 20 of something. The one in the picture below is from celeste. 
+
+
+
+
+
+
+BAHAMUT HL
+Hardest raid boss in game so far. He drops the new horn you need to upgrade bahamut weapons to next stage pretty often though, maybe 90% chance? It also comes up in the deal so you can get it fairly quick if you are strong enough and have a decent group. Anyways, on towards strategies.
+
+Japanese standard PUG setup is as follows with their EX skills:
+*** Bishops are required to have Nirvana SSR weapon. It is the bishop job class weapon. And Holy sabers using dual impulse need to have a spear equipped.
+
+Holy Saber (Dual Impulse)
+Holy Saber (Dual Impulse)
+Holy Saber (Rage)
+Holy Saber (Rage)
+Holy Saber (Arrow Rain)
+Holy Saber (Arrow Rain)
+Bishop (Clear)
+Bishop (Clear)
+Bishop (Clear)
+Bishop (Clear)
+Superstar (Charm)
+Superstar (Charm)
+Superstar (Charm)
+Superstar (Charm)
+Dark Fencer (Blind)
+Dark Fencer (Blind)
+Hawkeye (Break)
+Hawkeye (Break)
+
+Notes:
+*You can add another holy saber if you want to be safer or have a less experienced group. Can remove a superstar for this. 
+*Some people run quick down on one of the DF instead of blind.
+*Some use more bishops.
+*Some only use one hawkeye.
+
+Short guide on BAHA HL. Translation of the JP wiki info and I added/explained stuff in more detail.
+
+*** This boss is difficult so understanding the strategies is important! ***
+
+If you do not understand your role, please ask someone experienced in the role. 
+
+Recommended
+55k Attack Power is the minimum JP PUGs ask for a reason, but you can get away with a little less.
+Read and understand the key strategies and boss attack patterns before you join the raid if you are new. Don't be afraid to ask questions.
+You need at least 2 damage cuts above 30% (athena, dark carbuncles, heca, etc). This is especially important when the boss is under 25% HP because he hurts like hell. Having 3 is even better though!
+
+General strategies
+*Take things slow, no need to rush! Err on the safe side.
+*Make sure you have phalanx so you don't take unnecessary damage. If you can tank the hit, go ahead, but do not take ougis without damage cuts unless they are the types where you can't damage cut them anyways (neutral damage). Be careful of these. Do not tank it if you can't handle it afterwards. Wait for next phase (break, overdrive) when it will use a different ougi that you can damage cut. 
+*Save your ougis in order to push the boss into break states, do not just spam them randomly. When below 25% HP you want to push the boss into overdrive state instead though, because his normal ougi does 95% of your health as neutral damage (many people die here).
+*Debuffs like arrow rain and mist can be used when they come off cooldown since they don't build as much resistance
+*If you need a clear, heal, or phalanx, go ahead and ask for it. 
+*If your MC dies at any point, please inform the chat that your MC is dead along with what class you are.
+*When paralyze is up, go wild, but make sure you know when it ends and slow down when it gets close.
+
+Helpful reminders
+*If you fail an important skill, "mist", "gravity", "break lock", etc., please inform the raid. There is usually someone 
+else that can cast it. 
+*If you use someone else's dark carbuncle, it will give you only 25% dark resist. This will not give you 100% damage cut with phalanx. So be careful and use your own.
+
+Quick notes about phases:
+Refer to guide on phases for more details please.
+1. First dark phase will debuff you after you attack. Wait for bishops to use debuff shield on themselves and then clear your debuff.
+2. Fire and water casts a lot of debuffs.
+3. Earth has nasty ougis that can kill single target or kill your party depending on phase. Need damage cuts!!
+4. Wind has a nasty normal ougi that reduces hp to 1. It is pure neutral damage. It is recommended not to move until you heal up again if you take a hit. This phase needs to be feared.
+5. Below 50%, be careful of OD ougi since you can't damage cut it. Need to push out of OD immedately.
+6. Below 25%, be very careful of normal ougi because it does 95% of your max hp as neutral damage. Can't cut it so need to push out of normal phase into OD fast. In OD, you can damage cut the ougi so it is safer there, but you will need 100% damage cut. 
+
+25% HP, things to note:
+Most critical stage in the fight.
+Normal attacks do approx 10k. Normal Ougi does 95% of your max hp as AOE neutral damage or multi-hit rainbow
+AOE damage. OD Ougi does 999,999 AOE Dark damage.
+Phalanx will be casted each turn, do not move unless it is up or you can tank the hit.
+
+
+SPECIAL NOTES ABOUT SKILLS
+Extending break state
+Hawkeye's break keep needs to wait until after 50% HP.
+But if you have a summon's break you can use it with Hawkeye's break keep together near the end of wind phase.
+
+Charm
+Keep this up at all times, it saves lots of lives! 
+
+Gravity
+Do not use until below 50%
+
+Fear
+This skill is banned until wind phase at 60% HP.
+
+Paralyze
+Song's paralyze from ougi, do not use it till under 50%. 
+Song's second ability is banned until below 25%	
+When your paralyze lands, inform the chat how long it is.	
+
+Banned skills (don't ever use these)
+Sarunan's second skill (break lock). 
+
+Phalanx
+Always use this order so others know when it is up and there are no clashes.
+1. Use chat ??????????!
+2. Use phalanx skill
+3. Use phalanx emote
+
+Other skill notes:
+When heal all, clear, rage, dual impulse, phalanx, etc. is up, please use it. Phalanx should be more carefully used in order to not clash when below 25% HP though. 
+
+Ecitslos's BAHA HL guide
+He makes a lot of good points in his guide, check it out.
+docs.google.com/document/d/188X7uqa-AYut9LhbrYF_PAPQUIn-1NShwQOvRoSZKxg/edit
+
+Video of someone stronger than me doing the raid:
+
+
+
+
+
+
+
+COSMOS WEAPONS (???? ??)
+
+
+
+All Cosmos weapons add 30% HP/ATK to weapons of the same type. So Cosmos gun will increase stats of all guns. You need quite a few weapons of the same type to get a nice boost from the Cosmos weapons so something like 5+ or so will do. 
+
+In order to make it, you need 30 horns from Grande raid. You can trade 5 feathers for 1 horn. Feathers are guaranteed to drop once per raid. Host and mvp always gets one horn in the red box. There is also a very rare chance for a horn to drop in a gold box. I seen two in about 120 raids though. 
+
+
+In order to summon Grande, you need mats you get by trading 1 gold anima each from nataku, medusa, flame=glass, D Angel, Maky, and Apollon.
+
+Another thing you need to be aware is that you can only have one Cosmos weapon at a time. Game will force you to destroy/feed your other one before you can get a different one. The following are the stats for each type of weapon.
+
+AT Attack Stance - +20% ATK and -40% HP
+BL Balance Stance - +20% DEF and +20% Double Attack Rate
+PC Peculiar Stance - Increases resistance to debuffs and increases debuffs accuracy (90+% on off elements it seems) 
+HE Healer Stance - 250 HP Regen and +15% Heal amount
+DF Defense Stance - +10% HP and +30% DEF
+
+
+Guns and swords are pretty much the most popular since you can use guns with wind/light and swords with earth/light. What you pick is really up to what weapon pool/chars you have and classes you like to play. 
+
+Elements and types of chars
+Wind: 13 chars
+AT: 3 PC: 4 BL: 4 HE: 1 DF: 1
+
+Earth: 13 chars
+AT: 6 PC: 5 BL: 0 HE: 1 DF: 1
+
+Water: 11 chars
+AT: 3 PC: 3 BL: 3 HE: 1 DF: 1
+
+Fire: 15 chars
+AT: 6 PC: 5 BL: 3 HE: 0 DF: 1
+
+Light: 14 chars
+AT: 3 PC: 2 BL: 4 HE: 5 DF: 0
+
+Dark: 12 chars
+AT: 4 PC: 6 BL: 1 HE: 1 DF: 0
+
+
+
+
+ZENITH PERKS
+Zenith Perks can be accessed after reaching lvl 20 in a job. Zenith Points (ZP) can be obtained by leveling your ZP bar after hitting job 20. Your previous exp turns into an orange ZP bar. It takes about 35k exp for each ZP. You can also exchange your ZP with JP at a rate of 50 JP for each ZP. Finally, in the shop you can purchase gems with mobacoins or crystals. It is 20 gems for each ZP. 
+
+When you reach a certain rank you will get an additional star (next one is rank 60 here). Zenith Perks are separate for each job and the ZP requirement also scales up as you add more so choose wisely.
+
+Perks from left to right.
+
+1. Increase Attack + 500 / 1500 / 3000
+2. Increase Defense + 1% / 3% / 5% 
+3. Increase HP + 300 / 600 / 1000
+4. Increase Recovery Effectiveness + 1% / 3% / 5% 
+5. Increase Ability Damage + 1% / 3% / 5% 
+6. Increase Overdrive Suppression + 1% / 3% / 5% 
+7. Increase Resistance to debuffs + 1% / 3% / 5% 
+8. Increase Rate of success with debuffs + 1% / 3% / 5% 
+9. Enhance Fire damage + 1% / 3% / 5% 
+10. Enhance Water damage + 1% / 3% / 5% 
+11. Enhance Earth damage + 1% / 3% / 5% 
+12. Enhance Wind damage + 1% / 3% / 5% 
+13. Enhance Light damage + 1% / 3% / 5% 
+14. Enhance Dark damage + 1% / 3% / 5% 
+15. Increase Fire resistance + 1% / 3% / 5% 
+16. Increase Water resistance + 1% / 3% / 5% 
+17. Increase Earth resistance + 1% / 3% / 5% 
+18. Increase Wind resistance + 1% / 3% / 5% 
+19. Increase Light resistance + 1% / 3% / 5% 
+20. Increase Dark resistance + 1% / 3% / 5% 
+21. Increase Ougi damage + 1% / 3% / 5% 
+22. Increase Attack of weapons type 1 + 1% / 3% / 5% *
+23. Increase Attack of weapons type 2 + 1% / 3% / 5%  *
+24. Increase Double attack rate + 1% / 3% / 5% 
+
+Big blue button on bottom - Learn Zenith EX ability that is only useable with the class tree. ZP costs varies, please refer to list below this.
+
+* You can find the weapon types on job page. For Sidewinder, if you max it out on type 2 then all guns will get a 5% boost. Applies only to MC. 
+
+
+
+
+ZENITH EX ABILITIES
+Requires lvl 20 mastery of the job you want before you can learn the zenith ability. 
+
+Sidewinder - Steady Aim: Casts steady aim on enemy. Increases ougi gauge by 20%. 5 CD and lasts 180 seconds. (5 ZP) *The "Steady Aim" status is a debuff that does nothing, specifically there to increase Killstreak's (and other similar skills') damage.
+Weapon Master - Brave Soul: The more HP you have the more damage is increased. 7 CD and lasts 3 turns. (10 ZP)
+Holy Saber - Reflection: Reflects enemy's damage only once. 6 CD and lasts 1 turn. (3 ZP)
+Bishop - Veil: Avoids the next debuffs once for whole party. 6 CD. (10 ZP)
+Hermit - Bounce: Deals damage based on how many buffs/debuffs on enemy. (7 CD) (8 ZP) *580k damage cap
+Hawkeye - Break Keep: Locks enemy's break state. Success chance increases depending on lvl of treasure hunt on enemy. (6 CD) (5 ZP)
+Dark Fencer - Quick Down: Consecutive attack rate down. 6 CD and lasts 180 seconds. (3 ZP)
+Ogre - Fighting spirit: Increases own attack. Can stack. (8 ZP)
+Superstar - Sheep song: Casts sleep on enemy. Success chance increases when using a harp. (8 ZP)
+Valkyrie - Randgris: Absorbs enemy's gauge and adds it to your own. (10 ZP)
+
+Samurai and Ninjas don't have one? Or maybe special requirements?
+
+
+
+WEAPON OPTIMIZATION
+In order to best optimize your weapon pool for maximum effectiveness, you have to understand a few things. First, every class has two weapons they prefer besides ogre. If you use a weapon in your pool that the class prefers then it will get a 20% boost in effectiveness for both HP and ATK. This bonus only applies to your MC. Your other characters also get a 20% bonus for a weapon they prefer, which is not neccesarily the same weapon they use. You have to check the jp wiki for the details. Also the 20% bonus for your other characters apply only for ATK.
+
+Second, you have to understand how the damage formula works with different summons. The basic damage formula is as follows:
+
+?????? = ??? * (1 + ??·?? * ???) * (1 + ???·?? + ??????UP) * (1 + ???? + ?????UP)
+Basic Damage = Attack Power * (1 + Magna Attack % * Magna Summon) * (1 + Other Attack % + Character Up) * (1 + Elemental Weakness + Element Up) * (1 + Unknown Attack %)
+
+Bahamut weapons and ?? is considered character up. Binya sword is an unknown weapon.
+
+Third, because magna, normal, and unknown are multiplicative it is generally a good idea to mix them in your weapon pool to get the highest damage you can get. 
+
+Finally, depending on your characters, element, summons, friends, HP you have left, enemy element, and weapon pool different setups will yield better results. Experiment and play with this calculator hibin0.web.fc2.com/grbr_atk_calc/atk_calc.html (sorry, its in japanese, use google translate). For the most part at end-game, a 7:3 magna:bahamut/normal weapon pool with a magna summon + 80-120% summon will give you the most damage. Two magna summons will do significantly less damage unless you are at low hp using earth with ygg bows. 
+
+*Currently only fire has unknown ATK SSR weapons so adding a couple of those would be nice for your fire weapon pool. 6:2:2, magna:unknown:normal/bahamut is the ideal ratio. 
+
+As is the case with fire and water, you will do more damage because of the summon's defense down abilities.
+
+Some example setups (assumes you are using correct element for bonus unless says it is not).
+Pure Magna w/ no element bonus
+10 magna + magna = 5.5
+10 magna + 80% = 7.2
+10 magna + 50% = 6
+10 80% + 80% = 6.5
+10 80% + 50% = 5.8
+
+Pure Magna
+10 magna + magna = 8.25
+10 magna + 80% = 9.2
+10 magna + 50% = 8
+10 80% + 80% = 7.8
+10 80% + 50% = 7
+
+Ideal ratio
+7:3 magna + magna = 9
+7:3 magna + 80% = 10.3
+7:3 magna + 50% = 9
+7:3 80% + 80% = 9.2
+7:3 80% + 50% = 8.3
+
+Ideal ratio w/ baha weapon
+7:3 magna + magna = 10
+7:3 magna + 80% = 11.4
+7:3 magna + 50% = 9.9
+7:3 80% + 80% = 10.2
+7:3 80% + 50% = 9.2
+
+Ideal fire ratio (magna:unknown:normal)
+6:2:2 magna + magna = 9.4
+6:2:2 magna + 80% = 10.9
+6:2:2 magna + 50% = 9.5
+6:2:2 80% + 80% = 10
+6:2:2 80% + 50% = 9
+
+Ideal fire ratio w/ baha weapon
+6:2:2 magna + 80% = 12.1
+
+No element bonus w/ baha weapon, and 3* lucifer/bahamut summon
+7:3 magna + 120% = 10.9 
+6:4 or 5:5 120% + 120% = 11.3 - Pretty much blow every element up
+
+My dark weapon pool. I use two bahamut weapons for a bit extra hp. My team is full human.
+
+http://i.imgur.com/sMbgqH4.png
+
+
+
+
+
+THEORYCRAFTING
+Mechanics of the game. Consider this section always a work in progress. I still need to conduct more tests myself, but I need more weapons so yeah.
+
+Chain burst damage
+2x CHAR CHAIN BURST DAMAGE = TOTAL OUGI DAMAGE * 1/4
+3x CHAR CHAIN BURST DAMAGE = TOTAL OUGI DAMAGE * 1/3
+4x CHAR CHAIN BURST DAMAGE = TOTAL OUGI DAMAGE * 1/2
+
+Example:
+1st Char is 200k ougi, 2nd Char is 250k ougi, 3rd char 250k ougi, 4th char is 300k ougi.
+(200k + 250k + 250k + 300k) * 1/2 = 500k CHAIN BURST DAMAGE
+
+*Note: Soft cap for chain burst damage is about 1.16m.
+
+Base damage calculator
+This is the excel sheet that was floating around 2ch. It is just a base damage calculator more for theorycrafting than telling you exactly how much damage x skill does. We would need more variables, but I haven't seen it? Anyways I just translated it. Make a copy of it and you can use it yourself. docs.google.com/spreadsheets/d/1s4OBkRVgwagOzEAVL9HtbgFOzDaffjqu3pwbpkyHofY/edit?usp=sharing
+
+Another damage calculator hibin0.web.fc2.com/grbr_atk_calc/atk_calc.html, this one covers pretty much everything in comparison to the excel sheet and is updated. Unfortunately it is in japanese, but you can get a decent idea with google translate.
+
+Base damage formula in case you want to do manual:
+?????? = ??? * (1 + ??·?? * ???) * (1 + ???·?? + ??????UP) * (1 + ???? + ?????UP)
+Basic Damage = Attack Power * (1 + Magna Attack % * Magna Summon) * (1 + Other Attack % + Character Up) * (1 + Elemental Weakness + Element Up)
+
+Element Weakness is .5 if you are using correct element, -.25 if you are using wrong element, and 0 for neutral
+
+Actual damage formula using base damage:
+D = ?????? (base damage)
+???? = D * (0.95~1.05) + (??? * (1 + ???-????))
+Damage = D * (0.95~1.05) / (Defence Factor * (1 + Enemy buffs - enemy debuffs))
+Defence Factor = H 10?VH 15
+
+Example:
+30k Attack power
+45% attack from magna weapons
+30% attack from other weapons (non-magna weapons)
+Debuffs Mist from dark fencer (about -25% defense)
+Summons: Max Tiamat magna summon (100% to wind magna weapons) and max Anat summon (80% to wind).
+Enemy: Yggdrasil Magna so we have elemental weakness
+
+30,000 * (1 + .45 * 100%) * (1 + .3) * (1 + .5 + .8) = 170,430 base damage
+170,430 * (0.95~1.05) / (15 * (1 + -.25)) = 14392 ~ 15907 damage
+
+*Original source docs.google.com/spreadsheets/d/13nunAGUwvmCRoqmMq_f4tJe56nUYpYDhdQfxE4X2Ztg/edit#gid=1983747309
+
+
+About Ranko and Critical (thanks to Takurannyan for this info):
+--------------Critical damage formula : 
++Unlike normal summon that boost your dmg by x %. Ranko and Critical passive boost the dmg directly, unobstructed by anything. The additional dmg applies after all calculation are done, so it goes out raw and not reduced by anything (Ex : if the attack supposes to hit 10k in battle, critical will make it 15k etc). 
++Critical damage isn't affected by any damage cap, not hard cap (which is already removed) , not soft cap.
++This make Critical potential amazingly huge, the better summon you pair Ranko up with, the better range of dmg you will have. Ranko + Lucifer will have a higher range of damage than a Lucifer + Lucifer for example. It goes w/o saying that 2x Lucifer have more stable damage of course.
+Now onto other things...
+-----------------------------------------------------------------
++Well it seems i can verify that Ranko and crit weapon activate separately. As in, they might activate together or just one of them.
++As far as stacking goes, it is not simple 50% + 50% = +100% dmg at once if they both activate in one hit. If normally a skill hit 100k, when both activates, it will go like this :
+100k + 50% dmg = 150k
+then
+150k+ 50% dmg = 150k + 75k = 225k
++Critical can activate several times in a turn, on different chars as well as within a char (use 2-3 attack skills at once). Even in a Full ougi chan, it also go like that.
+- I still can't say anything about character critical passive like Vain/Jeanne. Still have no idea how they come into play among all of the RNG activation. Am too lazy to level Vain and i don't have Jeanne so w/e.
+Last Edit: Nov 2, 2016 at 1:07pm by risend
+Leirya Avatar
+
+Leirya
+
+*
+" Events Updater "
+????????!
+
+Posts: 484 
+ID#: 2489
+
+Jan 13, 2015 at 4:13pm QuotePost Options Post by Leirya on Jan 13, 2015 at 4:13pm
+NEED BIGGER LIKE BUTTON!! 
+very nice job :)
+
+JinjinJinrou plz sticky this
+v(^o^)v
+jale Avatar
+
+jale
+
+*
+Posts: 11 
+ID#: 2414865
+
+Jan 13, 2015 at 6:45pm QuotePost Options Post by jale on Jan 13, 2015 at 6:45pm
+If only I had this when I started playing...
+Very informative and I'm looking forward to the rest!
+  stamp3
+risend Avatar
+
+risend
+
+*
+Posts: 192 
+IGN: risend
+
+Water Balloon badge
+Jan 14, 2015 at 5:27pm QuotePost Options Post by risend on Jan 14, 2015 at 5:27pm
+Hi, thanks for the support! I have a lot of work ahead of me. It was supposed to be simple, but I am getting carried away now ^^
+
+If anyone has something they want me to cover, please feel free to suggest something or maybe ask a question.
+Last Edit: Jan 14, 2015 at 5:28pm by risend
+Leirya Avatar
+
+Leirya
+
+*
+" Events Updater "
+????????!
+
+Posts: 484 
+ID#: 2489
+
+Jan 14, 2015 at 6:10pm QuotePost Options Post by Leirya on Jan 14, 2015 at 6:10pm
+Typo on Valkyrie skill Dual Impulse III (lvl 5) - should be triple attack
+v(^o^)v
+risend Avatar
+
+risend
+
+*
+Posts: 192 
+IGN: risend
+
+Water Balloon badge
+Jan 14, 2015 at 7:16pm QuotePost Options Post by risend on Jan 14, 2015 at 7:16pm
+Fixed. Thanks for looking it over leirya!
+Last Edit: Jan 16, 2015 at 8:40am by risend
+God Avatar
+
+God
+
+
+Posts: 40
+
+Jan 16, 2015 at 8:34am QuotePost Options Post by God on Jan 16, 2015 at 8:34am
+Fact that someone is taking the time to write up this, wow. Good job. You should also re-paste the information in other threads or link to them from here, for example the island prizes.
+myanimelist.net/profile/Girl
+risend Avatar
+
+risend
+
+*
+Posts: 192 
+IGN: risend
+
+Water Balloon badge
+Jan 16, 2015 at 4:02pm QuotePost Options Post by risend on Jan 16, 2015 at 4:02pm
+Thanks God. I will certainly add a link to that ^^
+shuushi Avatar
+
+shuushi
+
+*
+Posts: 13 
+IGN: Shuushi 
+ID#: 1636374
+
+Jan 18, 2015 at 3:28pm QuotePost Options Post by shuushi on Jan 18, 2015 at 3:28pm
+Aaah this is really amazing basically sums up all my questions. Thank you Risend for taking the time to do this
+gebok Avatar
+
+gebok
+
+*
+Super new and confused of what to do about everything on this game.
+
+Posts: 6
+
+Jan 20, 2015 at 4:38am QuotePost Options Post by gebok on Jan 20, 2015 at 4:38am
+Hi Risend, i love it what you've done here. Some of it i do understand but at most times i'm just lost within the translation. Or maybe i'm just slow to get it?
+i'd like to suggest if you might look into it onto making a blog on Granblue Fantasy similar to this; onepiece-cruise.blogspot.com.au/
+it would be really helpful for those like me. Well, it's just a suggestion anyways. 
+risend Avatar
+
+risend
+
+*
+Posts: 192 
+IGN: risend
+
+Water Balloon badge
+Jan 20, 2015 at 9:39am gebok likes this QuotePost Options Post by risend on Jan 20, 2015 at 9:39am
+Hey gebok,
+
+I checked out that blog and I can see what you are saying. I think maybe it's a difference in writing style and they explain steps in more details. I am sort of all over the place just adding things, lol. I will look over everything sometime soon and rewrite some of the possibly confusing ones. 
+
+As for a blog, I think it would be too time consuming for me to keep it updated. There is a sort of lull right now in the game so I have time to write up this guide. I guess the biggest difference is that they cover news and events in more details. I'll try doing some of them or encourage guildies to post. Thanks for the suggestion, I will keep it in mind.
+
+If you got any further questions or need something cleared up, you can post here or at facebook group www.facebook.com/groups/438453742960282/
+Nazalion Avatar
+
+Nazalion
+
+*
+Posts: 76 
+IGN: Nazalion 
+ID#: 179817
+
+Jan 20, 2015 at 1:24pm QuotePost Options Post by Nazalion on Jan 20, 2015 at 1:24pm
+add "how to use storage system" dude
+risend Avatar
+
+risend
+
+*
+Posts: 192 
+IGN: risend
+
+Water Balloon badge
+Jan 20, 2015 at 10:48pm QuotePost Options Post by risend on Jan 20, 2015 at 10:48pm
+Prioritized and added, just for you.
+Reply
+Shoutbox
+xiony AvatarxionyIt's good I found, thx :) Jan 3, 2017 at 2:02am
+tai AvatartaiHello everyone! Not sure where to post this on the forums, but I'm currently looking for an active English-speaking crew, preferably North American for easier coordination for raids and time zones and such. Jan 3, 2017 at 3:10am
+tai AvatartaiI'm currently Rank 62 and my ID is 11486222. Please send me a message or an invite if interested. Thanks! Jan 3, 2017 at 3:11am
+Netorare AvatarNetorareKusoGaijin is back, and we are recruiting!! Anyone interested please follow the link http://gbf-english.proboards.com/thread/1150/kusogaijin-speak-any-moonrunes Jan 3, 2017 at 3:36pm
+Fui AvatarFuiHi, please take a look at our recruitment post: http://gbf-english.proboards.com/thread/2094/re-suzaku-gw-semi-contents Jan 5, 2017 at 2:58pm
+Fui AvatarFuioops Hi, please take a look at our recruitment post Jan 5, 2017 at 2:58pm
+tokioerco AvatartokioercoHELP CANT ACCESS TO MY GAME COUNT ON GOOGLE CHROME APPLICATION IT TURN A WITHE OAGE AND THAT S ALL SINCE 7 HOURS AGO Jan 6, 2017 at 1:08pm
+tokioerco AvatartokioercoALREADY HAVE CLEARED HISTORIAL AND I NO USED ANY F KING OTHER APPLICATION OR BOOT IN THIS 2 BIT PIECE OF GAME Jan 6, 2017 at 1:09pm
+tokioerco AvatartokioercoHELP HELP ANY ADDRESS OR DIRECTION WHERE REPORT IT? OR I LL GO TO MAKE A FORUM FOR SHUT DOWN THIS CR AP F UKING GAME Jan 6, 2017 at 1:11pm
+tokioerco AvatartokioercoSO THIS FORO IS DEAD¡? OR IS PART OF THE COMPLOT? Jan 6, 2017 at 1:40pm
+tokioerco Avatartokioerconice so nice this crap foro IS DEAD Jan 6, 2017 at 3:04pm
+thatonenewbie AvatarthatonenewbieIt's "dead" because everyone is joining the discord. Didn't you see the discord link at the Ultimate guide?? Jan 7, 2017 at 11:53am
+rinrin Avatarrinrinfahrenheit is recrutiing Jan 7, 2017 at 10:20pm
+rinrin Avatarrinrincheck page Jan 7, 2017 at 10:20pm
+zettaizero Avatarzettaizerohello i am looking for a crew rank 48 wind main here Jan 7, 2017 at 11:37pm
+zettaizero Avatarzettaizeroid # 14267285 ( i am only in my self created crew for that board mission so don't worry ) Jan 7, 2017 at 11:38pm
+charlie Avatarcharliehttp://gbf-english.proboards.com/thread/847/grade-fahrenheit-recruiting-dedicated-players yesterday at 2:45pm
+charlie Avatarcharliefahrenheit is recruiting yesterday at 2:45pm
+bluedeferum AvatarbluedeferumCrystalis is recruiting! 12 slot left! yesterday at 3:11pm
+bluedeferum Avatarbluedeferumhttp://gbf-english.proboards.com/thread/2064/crystalys-lf-members yesterday at 3:11pm
+ 
+  
+
+Click here to remove banner ads from this forum.
+This Forum Is Hosted For FREE By ProBoards
+Get Your Own Free Forum!
+Terms of Service | Privacy Policy | Notice | FTC Disclosure | Report Abuse | Report Ad | Advertise Here
